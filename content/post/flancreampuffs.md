@@ -2,7 +2,7 @@
 date = "2016-11-12T16:31:40-07:00"
 draft = false
 title = "Flan Flavored Creampuffs"
-
+categories = ["creampuff", "flan"]
 +++  
 ![Flan flavored cream puffs](https://4.bp.blogspot.com/-Ko7S_Ve4Rqg/WLZoaUoL7NI/AAAAAAAAIPI/0hlZv0CpzD0e6fe3Mf-_ztu6gW8GXja4gCLcB/s640/DSC_5362_1.jpg)
 
