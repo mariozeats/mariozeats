@@ -111,3 +111,8 @@ disqusShortname = "mariozeats-com"
     twitter_domain  = ""
     twitter         = ""
     email           = "mariozeatsdessert@gmail.com"
+
+[taxonomies]
+   # Add support for tags and categories.
+   tag = "tags"
+   category = "categories"
