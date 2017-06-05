@@ -2,7 +2,7 @@
 date = "2016-11-07T17:40:13-07:00"
 draft = false
 title = "Guava Matcha Roll Cake"
-category = ["cakes"]
+categories = ["cakes"]
 tags = ["cakes", "guava","matcha"]
 +++
 ![Guava Matcha Roll Cake](https://4.bp.blogspot.com/-K30l1zI-1os/WD55fh954wI/AAAAAAAAHFE/Mv_5p190pr8IL0i2NYf0Vghu2-rfXlIwgCLcB/s640/DSC_4592_1.jpg)

@@ -1,7 +1,7 @@
 +++
 date = "2016-12-13T17:41:01-07:00"
 draft = false
-title = "guavacrepecake"
+title = "Guava Crepe Cake"
 categories = ["cakes"]
 tags = ["crepecake", "guava"]
 +++

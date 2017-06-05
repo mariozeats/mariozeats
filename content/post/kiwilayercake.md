@@ -3,7 +3,7 @@ date = "2017-02-27T17:41:37-07:00"
 draft = false
 title = "Kiwi Layer Cake"
 categories = ["cakes"]
-tags = ["sponge","kiwi,"whippedcream"]
+tags = ["sponge","kiwi","whippedcream"]
 +++
 ![Kiwi Layer Cake](https://i.redd.it/nzt6xc6ifoiy.jpg)
 Light fluffy sponge with some tasty kiwi. Best if eaten soon after assembled.
