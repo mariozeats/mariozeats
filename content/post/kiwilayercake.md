@@ -10,12 +10,12 @@ Light fluffy sponge with some tasty kiwi. Best if eaten soon after assembled.
 
 **1. Sponge** *[makes 1 jelly roll sheet]*
 
-- 112g cake flour  
-- 1 tsp baking powder  
-- 1/4 tsp salt  
-- 5 large eggs, separated  
-- 156 g granulated sugar  
-- 60 g whole milk  
+>- 112g cake flour  
+>- 1 tsp baking powder  
+>- 1/4 tsp salt  
+>- 5 large eggs, separated  
+>- 156 g granulated sugar  
+>- 60 g whole milk  
 
 1. Oven at 400F. Line baking sheet with parchment paper or silpat.  
 2. Whisk together sifted flour, baking powder, and salt.  
