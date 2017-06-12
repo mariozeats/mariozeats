@@ -13,7 +13,7 @@ disqusShortname = "mariozeats-com"
     socialAppearAtTop    = true
     socialAppearAtBottom = true
     # set this to the section name if section is not post
-    viewMorePostLink     = "/blog/"
+    #viewMorePostLink     = "/blog/"
 
 # Optional Params
     categoriesByCount    = true
@@ -63,11 +63,11 @@ disqusShortname = "mariozeats-com"
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
-#[[menu.main]]
-#    name = "Blog"
-#    url = "/blog"
-#    identifier = "fa fa-newspaper-o"
-#    weight = 1
+[[menu.main]]
+    name = "Blog"
+    url = "/post"
+    identifier = "fa fa-newspaper-o"
+    weight = 1
 
 [[menu.main]]
     name = "Categories"
@@ -113,6 +113,6 @@ disqusShortname = "mariozeats-com"
     email           = "mariozeatsdessert@gmail.com"
 
 [taxonomies]
-   # Add support for tags and categories.
-   tag = "tags"
-   category = "categories"
+    # Add support for tags and categories.
+    tag = "tags"
+    category = "categories"
