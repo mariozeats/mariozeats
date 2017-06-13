@@ -61,5 +61,5 @@ There are three components: the Thai tea creme brulee (recipe almost the same as
 5. Take the oil + caviar (gel spheres) and strain [I use a fine mesh tea strainer].  Rinse with some water for about 20 seconds to get rid of the oil.  
 6. With the other 2/3 of the mixture, pour out onto some cling wrap lining a small pan or container. Let cool (fridge speeds this up) and then you can slice into cubes once it solidifies.  
 
-This flavor combo tastes so good together. Enjoy!
+This flavor combo tastes so good together. Enjoy!  
 -Mario

@@ -1,6 +1,6 @@
 +++
 date = "2017-06-04T19:43:10-07:00"
-draft = true
+draft = false
 title = "About Me"
 
 +++
@@ -17,7 +17,7 @@ Research in lab sciences involves 90% failure and 10% success. As I'm trudging a
 And thus baking. I get to scour the web for protocols, then find the best aspects and combine and test, changing single variables to find the optimal conditions. **Yay science!**
 
 Ever since starting to bake two years ago, I realized it's pretty fun and I finally get to utilize art.  
-Follow my progress on here and [Instagram](www.instagram.com/mariozeats) and hope you enjoy!
+Follow my progress on here and [Instagram](www.instagram.com/mariozeats) and hope you enjoy!  
 -Mario
 
 Also, why Mario'z Eats? Mario's Eats was taken on Instagram 😂😝.
