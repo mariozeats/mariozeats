@@ -5,9 +5,9 @@ title = "Mango Macarons"
 categories = ["macarons"]
 tags = ["mango", "macarons","macarondesign"]
 +++
-![Mango Macarons]()
+![Mango Macarons](https://i.redditmedia.com/GJMcysLDuxRj3M3mHpc0ql0IGcrH9I8ZJiHgjXzDQKA.jpg?w=1024&s=5fc50561d811306ea93c5dc6e47a6ef7)
 
-Same recipe that I use for all my macaron.
+Same recipe that I use for all my macarons.
 Recipes were modified and adapted from Macarons by Natalie and Macaronguy for the curd.
 
 **1. Macaron Shells:** *For about 10 1.5 inch macarons:*

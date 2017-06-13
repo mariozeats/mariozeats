@@ -13,7 +13,7 @@ disqusShortname = "mariozeats-com"
     socialAppearAtTop    = true
     socialAppearAtBottom = true
     # set this to the section name if section is not post
-    #viewMorePostLink     = "/blog/"
+    #viewMorePostLink     = "/post/"
 
 # Optional Params
     categoriesByCount    = true
@@ -59,7 +59,7 @@ disqusShortname = "mariozeats-com"
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
 [params.postAmount]
-    sidebar = 2
+    sidebar = 5
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
