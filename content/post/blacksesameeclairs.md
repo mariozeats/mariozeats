@@ -59,6 +59,7 @@ You need to make a custard and a whipped cream. Take your large bowl and whisk t
 13. Place into a piping bag with a tip that will fit into the hole you made.   
 
 **3. White Chocolate "Glaze":**  
+
 120 g white chocolate  
 tad bit of food coloring  
 &nbsp;  
@@ -66,6 +67,7 @@ tad bit of food coloring
 2. Add small bit of food coloring and mix.  
 
 **Assembly**  
+
 1. First still the eclairs by piping in the pastry cream.  
 2. Make sure the white chocolate "glaze" is melted and dip the eclairs, upside down into the bowl.  
 3. Use a spatula to even it out if need be.  

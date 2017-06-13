@@ -50,6 +50,7 @@ I've been really loving Thai tea and black sesame. I've also been wanting to try
 6. For the remaining buttercream, add the black sesame powder (you can add more or less depending on your preference) and mix until incorporated.  
 
 **3.1. Macaron Shells:**  *For about 10 1.5 inch macarons:*  
+
 - 46 g almond flour (sift, no big almond pieces)  
 - 43 g powdered sugar    
 - 35 g egg whites (room temp)  

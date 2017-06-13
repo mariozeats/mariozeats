@@ -29,6 +29,7 @@ You want to be able to touch the shell and have it not be sticky. Then I drop do
 6. Bake for 15-20 minutes.  
 
 **2. Rambutan Curd:**
+
 - 1 cup fruit of choice pureed (this doesn't have to be super precise, since you can always just reduce down your mixture for a longer or shorter time) [for these rambutan ones, I pureed 5]    
 - 50 g granulated sugar  
 - 16 g cornstarch  

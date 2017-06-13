@@ -10,6 +10,7 @@ tags = ["crepecake", "guava"]
 I've made a few different crepe cakes, but despite this, it always takes a gazillion years. Really tasty, but long and laborious. Definitely worth at least one try though :D. Traditional mille crepe cakes have 21 crepe layers (but no one will notice if you do less or more :p. This recipe should provide enough batter and pastry cream for up to ~25-30 crepe layers.
 
 **1. Crepes:**
+
 - 650 g milk, room temperature!
 - 240 g flour
 - 90 g sugar
@@ -32,13 +33,14 @@ I've made a few different crepe cakes, but despite this, it always takes a gazil
 <img src="https://4.bp.blogspot.com/-7NqiqC0Pt7k/WJBGgceRD4I/AAAAAAAAH0o/lgm6rWI-ooAIfcqdIfGCQwdqp4B9d_AEQCLcB/s1600/DSC_4866_1.jpg" alt="Cutting out crepes" style="width: 400px;"/>
 12. Let crepes cool completely before assembling.
 
-**2. Pastry Cream:**
+**2. Diplomat Cream:**
 
 - 4 large egg yolks
 - 37 g cornstarch
 - 340 g milk
 - 100 g sugar
-- 70 g guava (or more, to taste) 225 g heavy cream
+- 70 g guava (or more, to taste) 
+- 225 g heavy cream
 - 10 g powdered sugar
 
 1. You need to make a custard and a whipped cream. Take your large bowl and whisk that you're going to make the whipped cream with and throw that into the fridge before you begin. You want it cold.
