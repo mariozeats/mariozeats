@@ -44,9 +44,9 @@ You want to be able to touch the shell and have it not be sticky. Make sure it d
 2. My diluent was vodka because it evaporates quickly and causes it to be less sticky than if you use water.  
 3. Check out [http://imgur.com/a/GLCu9](http://imgur.com/a/GLCu9) for progress pictures. You can sort of get a sense of what I did.  
 4. I made a template for how I wanted to set it up on Photoshop. This served as my "grid" as a painted them.  
-<img src="http://i.imgur.com/nDegOLd.jpg" alt="Base layout" style="width: 400px;"/>  
-<img src="http://i.imgur.com/Ra4JrWj.jpg" alt="Base layout" style="width: 400px;"/>  
+<img src="http://i.imgur.com/nDegOLd.jpg" alt="Base layout" style="width: 400px;"/>&nbsp; &nbsp; &nbsp;<img src="http://i.imgur.com/Ra4JrWj.jpg" alt="Base layout" style="width: 400px;"/>  
 5. I started with a base coat on lots of them with a diluted food coloring. Then went back using less diluted food coloring to make brush strokes.  
+<img src="http://i.imgur.com/p4PpU1K.jpg?1" alt="Base paint" style="width: 400px;"/> &nbsp; &nbsp; &nbsp;<img src="http://i.imgur.com/w8eXboh.jpg" alt="Base coat" style="height: 400px;"/>
 
 Overall, was pretty, but a lot of work. As a one off thing, this is pretty chill, but I would never wish this pain upon someone doing this on a regular basis :p.  
 If anything, make the macarons because they're tasty!  

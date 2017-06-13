@@ -7,7 +7,7 @@ title = "About Me"
 
 # Mario'z Eats
 
-<img src="https://farm5.staticflickr.com/4282/34294891003_0572c50553_b.jpg" alt="Mango Macarons" style="height: 400px;"/>
+<img src="https://farm5.staticflickr.com/4227/34463903903_633244b20b_z.jpg" alt="Mango Macarons" style="height: 400px;"/>
 
 Hey there,
 Thanks for stopping by. I'm Mario and I'm currently a PhD candidate in neuroscience studying Alzheimer's disease. 
