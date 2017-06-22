@@ -3,12 +3,12 @@ date = "2017-06-14T00:12:19-07:00"
 draft = false
 title = "Golden Kiwifruit Macarons"
 categories = ["macarons"]
-tags = ["macarons", "kiwi","macarondesign"]
+tags = ["macarons", "kiwifruit","macarondesign"]
 +++
 
 ![Golden Kiwifruit Macarons](https://farm5.staticflickr.com/4286/35455702915_a05adeb8ee_h.jpg)
 
-I see golden kiwifruit. I also scaled up slightly so that I could have enough batter for different colors (I normally use 46 almond flour: 43 powdered sugar: 35 egg white: 25 granulated sugar). 
+I see golden kiwifruit at the supermarket all the time, and finally decided to buy some. They ended up being delicious and way better than green ones, in my opinion. I highly recommend you try! For these, I used my normal French method recipe. I did, however, scale up slightly so that I could have enough batter for different colors (I normally use 46 almond flour: 43 powdered sugar: 35 egg white: 25 granulated sugar). Also, letting them rest for macaron art with batters is really important. Otherwise they'll crack :(. 
  
 **1. Macaron Shells:**  *For about 10 2 inch macarons:*  
 
