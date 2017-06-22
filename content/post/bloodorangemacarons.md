@@ -46,7 +46,7 @@ You want to be able to touch the shell and have it not be sticky. Then I drop do
 - 40 g heavy cream   
   
 1. Juice blood orange and strain. Heat up and reduce so it's not as liquidy.  
-2. Beat the egg yolk and add sugar and sifted corn starch, and lemon juice. Whisk well.  
+2. Beat the egg yolk and add sugar and sifted corn starch. Whisk well.  
 3. While whisking, slowly add the heated up blood orange juice onto the egg/sugar/cornstarch. You're tempering the egg to prevent it from scrambling. Once it's fully incorporated, add the mixture back into the saucepan and stir constantly on medium. Eventually, it'll start to thicken. I usually thicken until it's a nice paste. [I just got a hand blender, so I now turn that on and blend the mixture while it's heating up to make it super smooth. Not required though.]   
 4. Take off the heat and transfer to a bowl (I sieved it to get rid of corn starch clumps.)  
 5. Add cream to the pot used for the curd and reduce significantly.  

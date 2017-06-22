@@ -47,8 +47,7 @@ I've made a few different crepe cakes, but despite this, it always takes a gazil
 2. First prepare custard component. In a large bowl, combine egg yolks and cornstarch.
 3. In a saucepan, high heat, combine milk, sugar, and puree. [NOTE, if you're using a different fruit that's acidic, it will curdle so instead fold puree into custard.]
 4. Bring to boil and remove from heat.
-5. While whisking constantly, slowly add to bowl with yolks and cornstarch. You are 
-tempering the egg yolks so that they won't scramble.
+5. While whisking constantly, slowly add to bowl with yolks and cornstarch. You are tempering the egg yolks so that they won't scramble.
 6. Return the mixture to the saucepan on high heat.
 7. Bring to rolling boil, while whisking/ mixing constantly. The mixture will become custard  like.
 8. Sieve through a fine mesh into a bowl and cover the bowl with cling wrap. Make sure to press it directly onto the custard to avoid condensation.
