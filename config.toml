@@ -2,7 +2,7 @@ baseURL = "http://www.mariozeats.com/"
 languageCode = "en-us"
 title = "Mario'z Eats"
 disqusShortname = "mariozeats-com"
-
+googleAnalytics = "UA-101028546-1"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page

@@ -21,9 +21,7 @@ And thus baking. I get to scour the web for protocols, then find the best aspect
 
 Ever since starting to bake two years ago, I realized it's pretty fun and actually works! Plus I get to incorporate my forgotten love of art.  
 &nbsp;  
-Follow my progress on here and [Instagram](www.instagram.com/mariozeats) and hope you enjoy!  
+Follow my progress on here and {{< url-link "Instagram" "https://www.instagram.com/mariozeats/" >}} and hope you enjoy!  
 -Mario
 
 *Also,* why Mario'z Eats? Mario's Eats was taken on Instagram 😂😝.
-
-
