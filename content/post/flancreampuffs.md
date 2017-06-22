@@ -5,7 +5,7 @@ title = "Flan Flavored Creampuffs"
 categories = ["choux"]
 tags = ["creampuff","flan"]
 +++  
-![Flan flavored cream puffs](https://4.bp.blogspot.com/-Ko7S_Ve4Rqg/WLZoaUoL7NI/AAAAAAAAIPI/0hlZv0CpzD0e6fe3Mf-_ztu6gW8GXja4gCLcB/s640/DSC_5362_1.jpg)
+![Flan flavored cream puffs](https://farm5.staticflickr.com/4285/35465848795_076b240f9e_h.jpg)
 
 Mmkay, so right off the bat the vision I had in my head was that I could make flan and then blend it into a thick custard that I could then pipe into the cream puffs. This won't work. It will basically return it to a liquid, a thick liquid..but definitely not pipeable. At this point, I was like "incorporate it into a whipped cream!," but then I added basically way too much flan liquid and had to do a subsequent whipped cream incorporation to get a consistency that was okay. Below I'll list something that I'm sure will work way better.  
 

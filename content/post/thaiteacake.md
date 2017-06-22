@@ -5,7 +5,7 @@ title = "Thai Tea Black Sesame Cake"
 categories = ["cakes"]
 tags = ["cakes", "thaitea","blacksesame","swissbuttercream"]
 +++
-![Thai Tea Cake full](http://i.imgur.com/PcTWMMm.jpg)
+![Thai Tea Cake full](https://farm5.staticflickr.com/4211/35465765415_2c7edcec53_h.jpg)
 
 I've been really loving Thai tea and black sesame. I've also been wanting to try making a buttercream, so made this Thai tea black sesame cake :D. This cake had 5 components. The actual cake (based off [Vickii Ma's](http://www.vickiima.com/recipes-thai-tea-chiffon-cake) ), vanilla/ black sesame buttercream, macarons (shells + buttercream or ganache filling), Thai tea white chocolate drip, and white chocolate shards.  
 
@@ -120,4 +120,4 @@ You want to be able to touch the shell and have it not be sticky. Make sure it d
 Gluck!  
 -Mario
 
-![Thai tea cake slice](http://i.imgur.com/DxnuWP2.jpg)
+![Thai tea cake slice](https://farm5.staticflickr.com/4240/35465765215_986bce241e_h.jpg)

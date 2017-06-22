@@ -5,7 +5,7 @@ title = "Guava Matcha Roll Cake"
 categories = ["cakes"]
 tags = ["cakes", "guava","matcha"]
 +++
-![Guava Matcha Roll Cake](https://4.bp.blogspot.com/-K30l1zI-1os/WD55fh954wI/AAAAAAAAHFE/Mv_5p190pr8IL0i2NYf0Vghu2-rfXlIwgCLcB/s640/DSC_4592_1.jpg)
+![Guava Matcha Roll Cake](https://farm5.staticflickr.com/4230/35079293400_a9b0513434_h.jpg)
 
 I had been wanting to try a matcha roll cake for a while and finally decided to give it a shot. I used [The Little Epicurean's recipe](http://www.thelittleepicurean.com/2014/03/matcha-green-tea-swiss-roll-strawberry-mousse.html) for the sponge component. Adapted it for the guava whipped cream. I love this sponge recipe. I use it for lots of my cakes!  
 

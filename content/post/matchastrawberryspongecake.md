@@ -5,7 +5,7 @@ title = "Matcha Strawberry Sponge Cake"
 categories = ["cakes"]
 tags = ["cakes", "sponge","matcha","strawberry"]
 +++
-![Matcha Strawberry Cake](https://3.bp.blogspot.com/-PuKh3_qtmcc/WJBM1A8RP2I/AAAAAAAAH1U/eyW_Be4Xg4wYY6g2QmuFFNCwUzDo44PjwCLcB/s1600/DSC_5111_1.jpg)
+![Matcha Strawberry Cake]https://farm5.staticflickr.com/4206/34656124263_b2e24249c2_h.jpg)
 
 There are 5 main components for the cake, including the macarons (green tea sponge, whipped cream frosting, green tea glaze, green tea macaron shells, strawberry curd filling). The optimal timeline is probably: make the cake and whipped cream and assemble and chill. Make mirror glaze and cool to RT. While that's cooling, make the macarons.
 

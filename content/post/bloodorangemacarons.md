@@ -5,7 +5,7 @@ title = "Blood Orange Macarons"
 categories = ["macarons"]
 tags = ["bloodorange", "macarons","curd","ganache","macarondesign"]
 +++
-![BLood Orange Macarons](http://i.imgur.com/vpi9r7l.jpg)
+![BLood Orange Macarons](https://farm5.staticflickr.com/4279/35299049512_ee46561884_h.jpg)
 
 More macarons yay! NOTE: I changed the amount of powdered sugar and granulated sugar from my normal protocol, but it still worked out. I also scaled up slightly so that I could have enough batter for different colors (I normally only use 35 g egg white = 1 egg white).  
  

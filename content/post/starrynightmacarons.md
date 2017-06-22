@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["art", "macarons","rose","ganache","macarondesign"]
 +++
 
-![Starry Night Macarons](http://i.imgur.com/ZKHtmZu.jpg)
+![Starry Night Macarons](https://farm5.staticflickr.com/4237/35425784716_187509963e_h.jpg)
 A few things: I'm actually only going to give you the recipe for 10 macarons. I scaled it up by 2.5x to have enough macarons for this. Also, I suck at ganaches. I always split them so maybe following my recipe for that isn't the best. I think my issue is that the cream is too hot when I add it to the white chocolate. Just a head's up. (Normally recipes will tell you heat up cream and pour that over chopped up chocolate.)    
 
 **1. Macaron Shells:**  *For about 10 1.5 inch macarons:*  
@@ -44,9 +44,9 @@ You want to be able to touch the shell and have it not be sticky. Make sure it d
 2. My diluent was vodka because it evaporates quickly and causes it to be less sticky than if you use water.  
 3. Check out [http://imgur.com/a/GLCu9](http://imgur.com/a/GLCu9) for progress pictures. You can sort of get a sense of what I did.  
 4. I made a template for how I wanted to set it up on Photoshop. This served as my "grid" as a painted them.  
-<img src="http://i.imgur.com/nDegOLd.jpg" alt="Base layout" style="width: 400px;"/>&nbsp; &nbsp; &nbsp;<img src="http://i.imgur.com/Ra4JrWj.jpg" alt="Base layout" style="width: 400px;"/>  
+<img src="https://farm5.staticflickr.com/4263/35079389930_0d81db09c0_h.jpg" alt="Base layout" style="width: 400px;"/>&nbsp; &nbsp; &nbsp;<img src="https://farm5.staticflickr.com/4256/35079390330_d557bc29d8_h.jpg" alt="Base layout" style="width: 400px;"/>  
 5. I started with a base coat on lots of them with a diluted food coloring. Then went back using less diluted food coloring to make brush strokes.  
-<img src="http://i.imgur.com/p4PpU1K.jpg?1" alt="Base paint" style="width: 400px;"/> &nbsp; &nbsp; &nbsp;<img src="http://i.imgur.com/w8eXboh.jpg" alt="Base coat" style="height: 400px;"/>
+<img src="https://farm5.staticflickr.com/4214/35300096092_258bee6643_h.jpg" alt="Base paint" style="width: 400px;"/> &nbsp; &nbsp; &nbsp;<img src="https://farm5.staticflickr.com/4208/35466990265_029ce7cbf0_c.jpg" alt="Base coat" style="height: 400px;"/>
 
 Overall, was pretty, but a lot of work. As a one off thing, this is pretty chill, but I would never wish this pain upon someone doing this on a regular basis :p.  
 If anything, make the macarons because they're tasty!  

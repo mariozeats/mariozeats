@@ -5,7 +5,7 @@ title = "Guava Crepe Cake"
 categories = ["cakes"]
 tags = ["crepecake", "guava"]
 +++
-![Guava Crepe Cake](https://2.bp.blogspot.com/-ZednUXq6eno/WJBGosPDyAI/AAAAAAAAH00/vFK9_5K_HecpztL0MYo4YLCGAj7Rc48HQCLcB/s1600/DSC_4877_1.jpg)
+![Guava Crepe Cake](https://farm5.staticflickr.com/4209/34656171283_7c4612200c_h.jpg)
 
 I've made a few different crepe cakes, but despite this, it always takes a gazillion years. Really tasty, but long and laborious. Definitely worth at least one try though :D. Traditional mille crepe cakes have 21 crepe layers (but no one will notice if you do less or more :p. This recipe should provide enough batter and pastry cream for up to ~25-30 crepe layers.
 
@@ -27,10 +27,10 @@ I've made a few different crepe cakes, but despite this, it always takes a gazil
 7. Cling wrap and throw into fridge for at least 30 minutes. Longer is better.
 8. After mixture has become cold, take a pan and on low to medium heat, add a small amount of batter. It takes some trial and error to figure out the right about to cover your pan.
 9. When the edges of the crepe become dry (a minute or so), flip over and cook for a short while longer (<1 minute).  
-<img src="https://3.bp.blogspot.com/-PkZhOH11TyY/WJBGgoHMrfI/AAAAAAAAH0w/LkJOr5HzBWcT4hx35A_hH0nuCwUk7WA7ACLcB/s1600/DSC_4865_1.jpg" alt="Making crepes" style="height: 375px;"/>
+<img src="https://farm5.staticflickr.com/4218/34656169403_5136b30574_c.jpg" alt="Making crepes" style="height: 375px;"/>
 10. Repeat.
 11. To get a consistent size, place a bowl or something circular over the crepe and cut off excess scraps.  
-<img src="https://4.bp.blogspot.com/-7NqiqC0Pt7k/WJBGgceRD4I/AAAAAAAAH0o/lgm6rWI-ooAIfcqdIfGCQwdqp4B9d_AEQCLcB/s1600/DSC_4866_1.jpg" alt="Cutting out crepes" style="width: 400px;"/>
+<img src="https://farm5.staticflickr.com/4285/34656168663_aa34992087_h.jpg" alt="Cutting out crepes" style="width: 400px;"/>
 12. Let crepes cool completely before assembling.
 
 **2. Diplomat Cream:**
@@ -60,7 +60,7 @@ I've made a few different crepe cakes, but despite this, it always takes a gazil
 **Assembly:**
 
 1. Assemble the cake on whatever you want it to be served on. These cakes are difficult to transfer.  
-<img src="https://4.bp.blogspot.com/-TPhJs3sMzZo/WJBGgv-R8bI/AAAAAAAAH0s/YZeGKEFeLeMQ73hI7ZO12LaFTUYlMhJhACLcB/s1600/DSC_4869_1.jpg" alt="Guava cake assembly" style="width: 400px;"/>
+<img src="https://farm5.staticflickr.com/4215/34656170293_00ccdadce9_h.jpg" alt="Guava cake assembly" style="width: 400px;"/>
 2. Lay down a crepe and then add some pastry cream. Spread it out to an even amount.
 3. Add another crepe. Then some more pastry cream.
 4. Repeat.

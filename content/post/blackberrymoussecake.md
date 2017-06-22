@@ -5,7 +5,7 @@ title = "Blackberry Mousse Cake"
 categories = ["cakes"]
 tags = ["cakes", "moussecakes","blackberry"]
 +++
-![Blackberry Mousse Cake1](https://2.bp.blogspot.com/-pJSvj7zQVag/WJBRkuY7eoI/AAAAAAAAH1s/3j-6iuxKL3MR3HIThFH11d7gxYlk_4LzgCLcB/s1600/DSC_5222_2.jpg)  
+![Blackberry Mousse Cake1](https://farm5.staticflickr.com/4218/34656113473_9ac60a86b6_h.jpg)  
 
 I've been wanting to make a mousse cake for a while and I knew when I made one, I would make one based off of [Verdade de sabor](http://verdadedesabor.blogspot.ru/) (an awesome Russian blog I stumbled upon).  
 The recipe below is a transcribed/ modified version the translated recipe from [Verdade de sabor: torta rubus](http://verdadedesabor.blogspot.ru/2016/04/torta-rubus.html). Lots of things didn't make sense with the straight translation, so I made sure to list my modifications.
@@ -119,7 +119,7 @@ bring to a boil.
 
 1. In a larger mold (8in), add about half of the cream cheese mousse.
 2. Next, add the frozen layers of blackberry mousse and jelly and gently push them into the mousse.
-<img src="https://2.bp.blogspot.com/--TzLy5XsRJM/WJBTeGST12I/AAAAAAAAH2I/H3led96H8-8rS-ciXfTeI8Tmrd-PgM6FgCEw/s1600/DSC_5153_1.jpg" alt="Assembly" style="width: 400px;"/>
+<img src="https://farm5.staticflickr.com/4210/35299114292_0a696755d2_h.jpg" alt="Assembly" style="width: 400px;"/>
 3. Next, lay out the remaining mousse with cream cheese.
 4. Finally, add the layer of sponge cake with blackberry jam and also slightly push it to the mousse.
 5. Add saran wrap to cover/tighten the mold and put into the freezer for a few hours.
@@ -143,7 +143,7 @@ bring to a boil.
 **Final Decoration:**
 
 1. After cake has set, remove from mold and set it on top of a smaller bowl or something in a sheet pan.
-<img src="https://4.bp.blogspot.com/-jbaPhCeprj4/WJBThM0QaoI/AAAAAAAAH2I/RgW_MIG1tC4xZ7vlLm5mRLMrxSI7USMmgCEw/s1600/DSC_5157_1.jpg" alt="Pouring" style="width: 400px;"/>
+<img src="https://farm5.staticflickr.com/4265/35299115092_a7e719cfe5_h.jpg" alt="Pouring" style="width: 400px;"/>
 2. Pour glaze over, creating desired designs with other colors.
 3. Let the glaze fully drip off. Clean off the surplus drips on the bottom of the cake and then transfer to a serving plate.
 4. Garnish with whatever other fancy stuff you want.
@@ -153,7 +153,7 @@ This is a marathon to make. I guarantee it's delicious though!
 Gluck!  
 -Mario  
 
-![Blackberry Mousse Cake slice](https://4.bp.blogspot.com/-ETaTx4zFtME/WJBRrc2MqqI/AAAAAAAAH14/ak5OcnM55Sw721kUB48zBHeT4_R8jGdsACEw/s1600/DSC_5242_1.jpg)
+![Blackberry Mousse Cake slice](https://farm5.staticflickr.com/4260/34656115643_9d41b3418a_h.jpg)
 
 
 

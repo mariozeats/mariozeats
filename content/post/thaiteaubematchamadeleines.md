@@ -6,7 +6,7 @@ categories = ["cookies"]
 tags = ["other", "madeleines","thaitea","ube","matcha"]
 +++
 
-![Madeleines with custard](https://1.bp.blogspot.com/-h_8_AjBPzQQ/WLZlKx20CyI/AAAAAAAAIO0/difY243Cd7gHf6Gcv3aC4jZdQFWRuFw2gCLcB/s1600/DSC_5312_1.jpg)
+![Madeleines with custard](https://farm5.staticflickr.com/4214/35299106452_68317ca03f_h.jpg)
 
 I based my recipe from [Just One Cookbook](http://www.justonecookbook.com/green-tea-madeleine/), which covers a basic green tea one. However, I split the batter into three and added flavoring at the end. I'm not sure if that's taboo, since the recipe said don't overmix...BUT, I didn't have any issues so I think it's fine. I'll list what I did. The Thai tea, ube, and green tea amounts are for 1/3 of the batter. If you want to make just one of those flavors, multiply by 3.
 
@@ -61,5 +61,5 @@ Final notes:
 It might be beneficial to make the custard first, that way you can pipe it into warm madeleines. I didn't do that and it still worked, but I figure the cookie is easier to cavitize (is this a word?) when warm.
 Gluck!
 
-![Zoom in of madeleines](https://2.bp.blogspot.com/-BACkz9KabKU/WLZk2QHbx2I/AAAAAAAAIO4/UZWmtmtMQ902DyPHU2SM8FGkfHdBogTJACEw/s1600/DSC_5307_1.jpg)
+![Zoom in of madeleines](https://farm5.staticflickr.com/4289/35299107032_7f33984d4f_h.jpg)
 

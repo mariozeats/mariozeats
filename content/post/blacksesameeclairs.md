@@ -5,9 +5,9 @@ title = "Black Sesame Eclairs"
 categories = ["choux"]
 tags = ["choux", "blacksesame","eclair"]
 +++
-![Black sesame eclairs](http://i.imgur.com/vzkgUdG.jpg)
+![Black sesame eclairs](https://farm5.staticflickr.com/4231/35335306431_36dc843c49_h.jpg)
 
-There are a few components here. The choux pastry, the black sesame pastry cream filling, and the glaze (which really is just white chocolate with some food coloring).
+Black sesame is delicious and so is choux, so they make a great combo :). There are a few components here. The choux pastry, the black sesame pastry cream filling, and the glaze (which really is just white chocolate with some food coloring).
 
 **1. Choux pastry: [for about 25-30 4 inch eclairs]**  
 

@@ -5,7 +5,7 @@ title = "Pomegranate Macarons"
 categories = ["macarons"]
 tags = ["macarons","pomegrante", "curd"]
 +++
-![Pomegrante Macarons](https://1.bp.blogspot.com/-1sMVHqQtMHU/WBmKkfSIgcI/AAAAAAAAGl8/AyQp2Wgc1Y8xaujAsChG2R9isL2kNzhGwCK4B/s640/DSC_4506_1.jpg)
+![Pomegrante Macarons](https://farm5.staticflickr.com/4284/35335565381_89030c1482_h.jpg)
 
 To be honest, I have better luck with no hollows using the Italian meringue method. However, it's much faster for me to use the French meringue method, so when I'm lazy/ want to crank some macarons out, I use this method. From start to clean up, it takes me about 1.5hrs. I use the same ratios and process as [Love and Macarons](http://loveandmacarons.blogspot.com/2014/01/vanilla-bean-macarons-with-light-and.html). For the pomegranate curd, I use [Macaronguy’s recipe](https://macaronguy.wordpress.com/2014/01/20/strawberry-curd/)
 

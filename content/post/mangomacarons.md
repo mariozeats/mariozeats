@@ -5,7 +5,7 @@ title = "Mango Macarons"
 categories = ["macarons"]
 tags = ["mango", "macarons","macarondesign"]
 +++
-![Mango Macarons](https://i.redditmedia.com/GJMcysLDuxRj3M3mHpc0ql0IGcrH9I8ZJiHgjXzDQKA.jpg?w=1024&s=5fc50561d811306ea93c5dc6e47a6ef7)
+![Mango Macarons](https://farm5.staticflickr.com/4253/35299103922_bb920ed1f4_h.jpg)
 
 Same recipe that I use for all my macarons.
 Recipes were modified and adapted from Macarons by Natalie and Macaronguy for the curd.

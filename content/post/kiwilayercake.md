@@ -5,7 +5,7 @@ title = "Kiwi Layer Cake"
 categories = ["cakes"]
 tags = ["sponge","kiwi","whippedcream"]
 +++
-![Kiwi Layer Cake](https://i.redd.it/nzt6xc6ifoiy.jpg)
+![Kiwi Layer Cake](https://farm5.staticflickr.com/4255/35299051232_48ae99512d_h.jpg)
 Light fluffy sponge with some tasty kiwi. Best if eaten soon after assembled.
 
 **1. Sponge** *[makes 1 jelly roll sheet]*
@@ -45,7 +45,8 @@ Light fluffy sponge with some tasty kiwi. Best if eaten soon after assembled.
 1. Peel kiwis (I used a spoon, pressed up against the skin to scoop them out). Slice several kiwis into thin rectangles (1ish kiwi per layer).  
 2. Slice cake into thirds. Remove any obvious crumbs.  
 3. Smooth out a layer of whipped cream on the first slice of cake.  
-4. Add the kiwi pieces and press in a stripe like pattern down the length of the cake (or however you like).  
+4. Add the kiwi pieces and press in a stripe like pattern down the length of the cake (or however you like). 
+<img src="https://farm5.staticflickr.com/4234/34624319624_61f39972ff_h.jpg" alt="Layering the cake" style="width: 400px;"/>
 5. Add the next slice and repeat.  
 6. Once all layers are assembled, finish off by coating the cake. I go slowly to not get crumbs showing. You can add a small amount then throw it in the fridge. Then add the final amount to cover any crumbs. As a final smoothing out process, I like to use a heated up angled spatula and run it across each side.  
 7. Add cut up kiwi to decorate the top.  

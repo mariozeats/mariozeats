@@ -5,7 +5,7 @@ title = "Thai Tea Creme Brulee"
 categories = ["custard"]
 tags = ["cremebrulee", "thaitea"]
 +++
-![Thai tea creme brulee](http://i.imgur.com/onlt1n7r.jpg)
+![Thai tea creme brulee](https://farm5.staticflickr.com/4233/35425781696_7399089687_h.jpg)
 There are three components: the Thai tea creme brulee (recipe almost the same as [Hot Thai Kitchen](https://hot-thai-kitchen.com/thai-tea-creme-brulee/) [changed water and sugar amounts]), a black sesame paste, and coconut and pandan caviar and jellies.  
 
 **1. Thai Tea Creme Brulee:** *4 or 5 small ramekin servings*  

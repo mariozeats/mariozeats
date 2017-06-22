@@ -5,7 +5,7 @@ title = "Cranberry Vanilla Ice Cream Cake"
 categories = ["cakes"]
 tags = ["icecreamcake","cranberry","vanilla","whippedcream"]
 +++
-![Cranberry Vanilla Ice Cream Cake](https://1.bp.blogspot.com/-Ov2bGoJcC_E/WJBCXkZNkUI/AAAAAAAAH0Y/llBdGjBRhu8ohN3oTof1yPShVqeBqzFTwCLcB/s1600/DSC_4768_2.jpg)
+![Cranberry Vanilla Ice Cream Cake](https://farm5.staticflickr.com/4281/34656195623_80ead48ccb_h.jpg)
 
 For Thanksgiving one of my friends jokingly suggested I make an ice cream cake. I followed through!
 
@@ -39,7 +39,7 @@ The sponge is based off [The Little Eppicurian](http://www.foodnetwork.com/reci
 
 1. Add cranberries and water in a pot and heat on high.
 2. Let cranberries pop and when they look soft, mash up the cranberries until you get an apple sauce like consistency. If it's too liquidy, keep mixing over high heat until it reduces.  
-<img src="https://1.bp.blogspot.com/-tBXlHhrrMRs/WJBB4rl_TnI/AAAAAAAAH0U/W-_2h1qGkNUBWDWd7yoOAof4uDypaBNLACLcB/s1600/DSC_4687_1.jpg" alt="Cranberry puree" style="height: 400px;"/>
+<img src="https://farm5.staticflickr.com/4240/35426626556_52005d0e25_h.jpg" alt="Cranberry puree" style="height: 400px;"/>
 3. Pass through a fine mesh strainer and cool.
 
 **3. No Churn Ice Cream:**
@@ -93,7 +93,7 @@ syrup, water, and sugar and bring to a boil.
 5. Add cranberry puree (I added about 60g, but was doing it to taste [to overpower the white chocolate flavor].
 6. Bring the glaze to room temperature or slightly colder. (You can cover it with cling wrap and throw it in the fridge, but be careful. You don't want it to solidify, but don't want to melt the whipped cream frosting either.)
 
-![Cranberry Vanilla Cake slice](https://1.bp.blogspot.com/-R5LVCyxwEu0/WJA_dQm-jZI/AAAAAAAAH0I/NcZ5PNI_jPgQvYt_h1KRgSY4gqg682RegCLcB/s1600/DSC_4794_2.jpg) 
+![Cranberry Vanilla Cake slice](https://farm5.staticflickr.com/4195/34656194893_6841dc45aa_h.jpg) 
 
 **Decoration:**
 

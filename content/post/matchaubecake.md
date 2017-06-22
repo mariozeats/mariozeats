@@ -6,7 +6,7 @@ categories = ["cakes"]
 tags = ["cakes", "matcha", "ube", "whippedcream"]
 +++
 
-![Matcha Ube Cake full](http://i.imgur.com/2ZmAkmo.jpg)
+![Matcha Ube Cake full](https://farm5.staticflickr.com/4279/34624259234_be155648af_h.jpg)
 
 Matcha and ube are life, so combining them only seemed natural :D. This cake had 6 components. The actual cake, whipped cream frosting/filling, macarons (shells + lazy custard/ ganache filling), white chocolate drip, and the sail.  
 
@@ -128,4 +128,4 @@ You want to be able to touch the shell and have it not be sticky. Make sure it d
 Enjoy!
 -Mario
 
-![Matcha Ube Cake slice](http://i.imgur.com/ZCfh0qO.jpg)
+![Matcha Ube Cake slice](https://farm5.staticflickr.com/4280/34624259824_442b93989a_h.jpg)
