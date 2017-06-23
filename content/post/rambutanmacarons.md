@@ -5,7 +5,7 @@ title = "Rambutan Macarons"
 categories = ["macarons"]
 tags = ["rambutan","macarons","curd"]
 +++
-![Rambutan Macarons](https://i.redd.it/0n72iafdpgwx.jpg)
+![Rambutan Macarons](https://farm5.staticflickr.com/4254/35299241522_d81746b35a_h.jpg)
 
 Saw some awesome friuts in the supermarket and did a quick Google search. Figured I could make some cool macarons with them :D!
 *This macaron recipe was a work in progress, so see my latest macaron post for my new base recipe.*
@@ -46,4 +46,5 @@ You want to be able to touch the shell and have it not be sticky. Then I drop do
 7. Let the macarons rest in an airtight container in the fridge overnight for optimal chewiness! The flavor tasted much better after resting as well.  
 Gluck!  
 -Mario
+
 

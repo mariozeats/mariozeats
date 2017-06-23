@@ -5,7 +5,7 @@ title = "Mexican Hot Chocolate Macarons"
 categories = ["macarons"]
 tags = ["macarons", "chocolate", "ganache"]
 +++
-![Mexican Hot Chocolate Macarons](http://i.imgur.com/LBCWb3T.jpg)
+![Mexican Hot Chocolate Macarons](https://farm5.staticflickr.com/4207/35425803626_05ad917441_h.jpg)
 
 **1. Macaron Shells:**  *For about 10 1.5 inch macarons:*
 
@@ -24,7 +24,8 @@ Basically, fold about half your dry ingredients into the meringue until just inc
 You want to be able to touch the shell and have it not be sticky. For any macaron you sprinkle things on top, you want to make sure the shell has had adequate time to dry on the top as well, and not just sides. Make sure it doesn't shine and you're probably good to go.   
 6. Bake for 10 minutes at 325 and drop to 300 for another 5-10 minutes. [NOTE, I actually forgot to drop the temp down to 300 immediately after putting in the oven, so maybe this might work fine.]    
 
-**2. Abuelita Mexican Chocolate Ganache:**   
+**2. Abuelita Mexican Chocolate Ganache:**  
+
 - 3/8 of an Abuelita tablet (33.75 g)     
 - 50 g heavy cream  
 - 70 g white chocolate  

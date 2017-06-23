@@ -53,7 +53,9 @@ I based my recipe from [Just One Cookbook](http://www.justonecookbook.com/green
 7. To get rid of lumps in your custard you can either sieve it through a fine mesh or use a hand blender (works like magic!). Or you might not have any lumps to begin with and then you're all set.
 8. Divide custard into three and then stir in respective flavoring.
 9. Add custard into a piping bag with a small tip.
-Filling:
+
+**Filling:**
+
 1. Make a cavity in the madeleines. I was ghetto and stabbed the bottom edge of the madeleine with a chopstick and swirled it around, making sure to not crack the entry point or the cookie itself. 
 2. Pipe in the custard. You should feel pressure to stop/ see that the cookie might crack soon.
 3. Enjoy the deliciousness :D.
