@@ -8,7 +8,7 @@ title = "About Me"
 # Mario'z Eats
 
 <div style="float: left">
-<img src="https://farm5.staticflickr.com/4227/34463903903_633244b20b_c.jpg" alt="Lab super mario" style="height: 350px;"/>
+<img src="https://farm5.staticflickr.com/4279/34640085834_11f3a82992_b.jpg" alt="Lab super mario" style="height: 350px;"/>
 </div> 
 
 Hey there,  
