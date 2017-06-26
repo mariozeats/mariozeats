@@ -8,8 +8,6 @@ tags = ["creampuff","charcoal","raspberry"]
 
 ![Charcoal Raspberry Cream Puffs](https://farm5.staticflickr.com/4259/35321096582_ac41da8609_h.jpg)
 
-<img src="https://farm5.staticflickr.com/4259/35321096582_ac41da8609_h.jpg" alt="Cutting out crepes" />
-
 Lol. Continuing on with that activated charcoal trend :p. It makes all the colors pop! Charcoal makes batters more runny, so you might even want to use less. And it also drastically changes baking time for at least this recipe.
  
 **1. Charcoal Choux Pastry: [for about 25-30 cream puffs]**  
