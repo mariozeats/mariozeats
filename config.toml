@@ -35,6 +35,10 @@ googleAnalytics = "UA-101028546-1"
 #    customCSS            = ["/css/main.min.css"]
 #    customJS             = ["/js/main.min.js"]
 
+    # Loading default files
+    customCSS            = ["default"]
+    customJS             = ["default"]
+
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
