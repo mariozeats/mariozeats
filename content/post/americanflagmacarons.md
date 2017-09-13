@@ -17,7 +17,7 @@ With it being Memorial Day, my friends are having a BBQ. And since I'm the desig
 - 70 g egg whites (room temp)  
 - 50 g granulated sugar  
 
-1. Oven to 315. Measure out powdered sugar and almond flour into a food processor. Blitz up and make sure it's very fine (you need this or else you can't pipe out small details). Sift and then quickly whisk and set aside. 
+1. Oven to 315F. Measure out powdered sugar and almond flour into a food processor. Blitz up and make sure it's very fine (you need this or else you can't pipe out small details). Sift and then quickly whisk and set aside. 
 2. Make your meringue. I use egg whites from freshly cracked eggs. I put them in a small container and then put this container into a bowl of hot water. After about 5 minutes, the egg whites are room temp. Beat/ whisk your egg whites until frothy and start to incorporate the granulated sugar a bit a time (so it doesn't go flying everywhere). Beat until stiff peaks. Don't add any food coloring yet.       
 3. Prepare the batters.
     - *a.* First incorporate the dry ingredients into the meringue so that it is just barely mixed together.   
@@ -31,8 +31,7 @@ With it being Memorial Day, my friends are having a BBQ. And since I'm the desig
         <img src="https://farm5.staticflickr.com/4288/35307548272_acd5835bb5_c.jpg" alt="Blue dot" style="height: 375px;"/>&nbsp; &nbsp; &nbsp;<img src="https://farm5.staticflickr.com/4215/35079485240_53e79031e7_c.jpg" alt="Blue quandrant" style="height: 375px;"/>  
     - *c*. Using the red batter, pipe out the stripes.To get the edges, I just pipe a little off the edge because I know it will fall onto itself.  
          <img src="https://farm5.staticflickr.com/4229/35079492730_e42956f8cb_c.jpg" alt="Red stripes" style="height: 375px;"/>
-    - *d*. Finally, get add circles to make the "stars" on the blue quadrant. I attempted stars, but it comes out weird. I tried 50 stars, but that was overwhelming, so I settled on 5 4 5 4 5 4 = 27.
-    - *e*. Finally go through with the black batter and add seeds onto the dark yellow lines.  
+    - *d*. Finally, get add circles to make the "stars" on the blue quadrant. I attempted stars, but it comes out weird. I tried 50 stars, but that was overwhelming, so I settled on 5 4 5 4 5 4 = 27.   
 5. Rap the baking sheet against the table a few times.  Pop any air bubbles with a toothpick and swirl (carefully) the toothpick around a bit to have that hole close up.  
 6. I normally cheat and dry the macaron shells by holding the tray in the over. However, these designs are often a bit more mixed than normal (since they're squeezed through the small detail piping bags). Because of that, you should just let them dry the normal way. This is crucial. I have tried rushing to dry and they end up cracking. They need to develop a dried skin in order to rise properly. 
 You want to be able to touch the shell and have it not be sticky. 
