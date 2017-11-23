@@ -13,6 +13,7 @@ Started off trying to use a crepe maker that I borrowed from a friend. I thought
 **1. Black Sesame Crepes:**
 
 - 650 g milk, at least room temperature!
+- 240 g flour
 - 40 g black sesame powder
 - 90 g sugar
 - 4 eggs
