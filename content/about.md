@@ -24,4 +24,5 @@ Ever since starting to bake two years ago, I realized it's pretty fun and actual
 Follow my progress on here and {{< url-link "Instagram" "https://www.instagram.com/mariozeats/" >}} and hope you enjoy!  
 -Mario
 
-*Also,* why Mario'z Eats? Mario's Eats was taken on Instagram 😂😝.
+*Also,* why Mario'z Eats? Mario's Eats was taken on Instagram 😂😝.  
+*Also also,* if you want to do a collab, shoot me an email (address link in side bar). 
