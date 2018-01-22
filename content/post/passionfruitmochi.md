@@ -8,7 +8,7 @@ tags = ["mochi", "passionfruit"]
 
 ![Passionfruit Mochi](https://farm5.staticflickr.com/4713/39798992632_79144a556e_b.jpg)
 
-I recently tried ![Sift & Simmmer's Matcha Brochi recipe](https://www.siftandsimmer.com/matcha-brownie-mochi-brochi/) and wanted to try it again with a different flavor, using the things I learned from the first time. I had mentioned in my Instagram comments that I wanted to try passionfruit, so I went for it! Topped it off with different things. My favorite was the raspberry powder! Here's the adapted recipe. It's a brochi, I guess, but I'll call it mochi here :p.  
+I recently tried [Sift & Simmmer's Matcha Brochi recipe](https://www.siftandsimmer.com/matcha-brownie-mochi-brochi/) and wanted to try it again with a different flavor, using the things I learned from the first time. I had mentioned in my Instagram comments that I wanted to try passionfruit, so I went for it! Topped it off with different things. My favorite was the raspberry powder! Here's the adapted recipe. It's a brochi, I guess, but I'll call it mochi here :p.  
 
 **Passionfruit Mochi:**   
 
