@@ -10,6 +10,9 @@ title = "About Me"
 <div style="float: left">
 <img src="https://farm5.staticflickr.com/4279/34640085834_11f3a82992_b.jpg" alt="Lab super mario" style="height: 350px;"/>
 </div> 
+**UPDATE**
+I've been pretty MIA lately, but check out my insta or Reddit for maybe more up to date recipes. 
+______________________
 
 Hey there,  
 Thanks for stopping by. I'm Mario and I'm currently a PhD candidate in neuroscience studying Alzheimer's disease. 
@@ -19,7 +22,7 @@ Research in lab sciences involves 90% failure and 10% success. As I'm trudging a
 And thus baking. I get to scour the web for protocols, then find the best aspects and combine and test, changing single variables to find the optimal conditions.  
 **Yay science!**
 
-Ever since starting to bake two years ago, I realized it's pretty fun and actually works! Plus I get to incorporate my forgotten love of art.  
+Ever since starting to baking in 2015ish?, I realized it's pretty fun and actually works! Plus I get to incorporate my forgotten love of art.  
 &nbsp;  
 Follow my progress on here and {{< url-link "Instagram" "https://www.instagram.com/mariozeats/" >}} and hope you enjoy!  
 -Mario
