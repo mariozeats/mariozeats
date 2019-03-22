@@ -6,6 +6,7 @@ categories = ["choux"]
 tags = ["creampuff","flan"]
 +++  
 ![Flan flavored cream puffs](https://farm5.staticflickr.com/4285/35465848795_076b240f9e_h.jpg)
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 Mmkay, so right off the bat the vision I had in my head was that I could make flan and then blend it into a thick custard that I could then pipe into the cream puffs. This won't work. It will basically return it to a liquid, a thick liquid..but definitely not pipeable. At this point, I was like "incorporate it into a whipped cream!," but then I added basically way too much flan liquid and had to do a subsequent whipped cream incorporation to get a consistency that was okay. Below I'll list something that I'm sure will work way better.  
 

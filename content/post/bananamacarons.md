@@ -6,6 +6,7 @@ categories = ["macarons"]
 tags = ["macarons", "banana","ganache"]
 +++
 ![Banana Macarons](https://farm5.staticflickr.com/4669/39292564285_c6d0592ff8_h.jpg)
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 I'm a fan of banana and a banana ganache is able to bring in tons of banana flavor. A bit harder to cut the sweetness of the white chocolate, but really not that bad. The banana flavor comes through strongly. 
 

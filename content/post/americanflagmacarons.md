@@ -7,6 +7,7 @@ tags = ["macarons", "americanflag","macarondesign"]
 +++
 
 ![American Flag Macarons](https://farm5.staticflickr.com/4213/35079022730_4b13941b2f_h.jpg)
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 With it being Memorial Day, my friends are having a BBQ. And since I'm the designated baker of the group, I always bring something sweet. I wanted to make something that fell in line with the holiday (I'm very appreciative for all that have fought for my freedoms!). I made red, white, and blue batters and played around until I settled on making flags! They're super sloppy, but hey, I'm honing my skills. I had to make more than my normal 10-12, so doubled the recipe. Make sure to let these macaron shells rest the good ol' fashioned way.
  

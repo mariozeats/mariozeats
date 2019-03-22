@@ -6,6 +6,7 @@ categories = ["macarons"]
 tags = ["macarons", "passionfruit","macarondesign"]
 +++
 ![Passionfruit Macarons](https://farm5.staticflickr.com/4535/37742452884_e8707d7f6c_b.jpg)
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 It was a friend's birthday and they really like passionfruit, so it was the perfect opportunity to use it! For these, I used my normal French method recipe. I did, however, scale up slightly so that I could have enough batter for different colors (I normally use 46 almond flour: 43 powdered sugar: 35 egg white: 25 granulated sugar). Also, letting them rest for macaron art with batters is really important. Otherwise they'll crack :(. 
  
