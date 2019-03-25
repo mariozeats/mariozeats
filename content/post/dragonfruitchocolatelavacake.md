@@ -35,11 +35,11 @@ This recipe is for about 4ish servings. [usually 3 chocolate + inside flavor and
 5. Sift in flour (or add presifted flour). Stir until smooth and put into a piping bag.
 6. Butter the ramekin fully (all the way to the top and the edges too.
 7. Pipe the chocolate base (I go in swirls from center outward and then along the sides) to "coat" the ramekin.  
-    ![Step1](https://4.bp.blogspot.com/-0TDRBfb1nSM/WB7hxaouV_I/AAAAAAAAGrA/OhhXYK6f5bACzbsrOP4CcKf-MjE5dJ-egCK4B/s400/DSC_4567_1.jpg).. 
+    ![Step1](https://farm5.staticflickr.com/4238/35299247242_a438a787a5_h.jpg).. 
 8. Then pipe the guava base over this chocolate one.  
-    ![Step2](https://4.bp.blogspot.com/-QOcafXSOyZA/WB7iPQcS3vI/AAAAAAAAGrQ/ArZE0I1jP2QHC7CGTvJSncTJyP-t-l2LwCK4B/s400/DSC_4569_1.jpg)  
+    ![Step2](https://farm5.staticflickr.com/4231/35299247082_a701ad6d90_h.jpg)  
 9. Finally cover up the top with more chocolate base.  
-    ![Step3](https://1.bp.blogspot.com/-mFKeASZMRPE/WB7iSn0uOtI/AAAAAAAAGrY/Cjhc-eIGGv4QqPki0-R19baBICGA-hzvQCK4B/s400/DSC_4570_1.jpg)  
+    ![Step3](https://farm5.staticflickr.com/4289/35299246712_f3222efca0_h.jpg)  
 10. Chill in fridge for a bit (10 min is probably fine). 
 11. Bake at 450F for 9.5 min (9 - 10 min). Loosen the cake by taking something thin and scraping along the sides of the ramekin and then put a plate on top and flip over.
 12. Add some powdered sugar or guava puree to garnish and enjoy the deliciousness :D.

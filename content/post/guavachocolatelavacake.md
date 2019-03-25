@@ -6,7 +6,6 @@ categories = ["lavacakes"]
 tags = ["lavacakes", "guava", "darkchocolate","chocolate"]
 +++
 ![Guava Dark Chocolate Lava Cakes](https://farm5.staticflickr.com/4236/35299246412_18b1c0eab7_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 Lava cakes are a simple and delicious dessert that don't take much time to make and bake. Changing up the filling is super easy as well! This recipe is for about 4ish servings. [usually 3 chocolate + inside flavor and 1 just inside flavor]. 
 
