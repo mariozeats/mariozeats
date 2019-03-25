@@ -67,7 +67,7 @@ Tarts are quite delicious so I wanted to pair something with matcha. It takes qu
 7. Using your chilled bowl and whisk, whisk the heavy cream to stiff peaks.  
 8. Now add the whipped cream to the milk mixture. If it still seems runny, that's fine. It'll set soon enough.  
 9. Line pastry rings with acetate or baking paper or something that can be peeled off. If you don't have pastry rings, you can use a can or anything cylindrical. Pour the mixture into the rings and let freeze. I made mine about 0.5 inches tall.  
-  
+
 **5. Mirror Glaze:**  
 - 100 g white chocolate   
 - 35 g condensed milk  
@@ -82,7 +82,7 @@ Tarts are quite delicious so I wanted to pair something with matcha. It takes qu
 4. In a bowl with the chocolate, add the liquid mixture and whisk until chocolate is fully melted. If you have a hand blender, I highly recommend that you use it to blend the chocolate.   
 5. Portion off and add desired food coloring. I used titanium dioxide for the white, but you could also use white food coloring. Do some more hand blending. Avoid bubbles if you can.  
 6. Let the glaze sit a little bit so it's not as hot.  
- 
+
 **Assembly:**  
 1. Take out the frozen mousse molds and place onto something smaller in size in order to elevate it and have the edges free (I used little glassware). You also want to do it somewhere that can be easily cleaned (either with saran wrap below or in a baking sheet.  
 2. Tap the mirror glaze to release any bubbles and then pour over the mousse. If you have multiple colors, you can make designs.  

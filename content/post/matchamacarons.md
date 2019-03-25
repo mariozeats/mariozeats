@@ -50,11 +50,11 @@ Beat/ whisk your egg whites until frothy and then add in the grandulated sugar. 
 8. Assemble macarons and let the macarons rest in an airtight container in the fridge overnight for optimal chewiness!   
 
 **3. General Tips/ usefulness:**
-1. My ganaches for 1 dozen macarons involve a 70 g white chocolate: 35 g other ratio. For fruit flavors, this means 35 g reduced fruit puree. For things that need to incorporate into a liquid, I use 35 g of that. I steep or mix or bloom that ingredient in either heavy whipping cream or coconut cream.
-2. Since I was making 2 dozen, I did a little less than 2x that.
-3. Macarons suck, but don't overmix, and learn your oven!
+1. My ganaches for 1 dozen macarons involve a 70 g white chocolate: 35 g other ratio. For fruit flavors, this means 35 g reduced fruit puree. For things that need to incorporate into a liquid, I use 35 g of that. I steep or mix or bloom that ingredient in either heavy whipping cream or coconut cream.  
+2. Since I was making 2 dozen, I did a little less than 2x that.  
+3. Macarons suck, but don't overmix, and learn your oven!  
 
 ![Matcha Macarons](https://farm8.staticflickr.com/7888/46736987294_4e5650d466_z.jpg)
 
-Gluck!  
+Gluck!    
 -Mario

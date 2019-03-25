@@ -38,8 +38,8 @@ Recipe is adapted from [Allrecipes Tres Leches cake](https://www.allrecipes.com/
 3. Grab your tray with cake layers. Stab each cake a lot of times with a fork. I understabbed and ended up with some dry spots.  
 4. Now add the milk mixture onto your cake layers. I used a ladle. When the baking tray started to fill up with the mixture, I poured it back into a bowl and poured even more.  
 5. Do this until your cake layers _mostly_ saturate with milk.  
-6. NOTE: You do still need to be able to pick them up, so make sure there's a little bit of sturdiness left. Not all the milk mixture will be absorbed.  
-  
+6. NOTE: You do still need to be able to pick them up, so make sure there's a little bit of sturdiness left. Not all the milk mixture will be absorbed.
+
 **3. Whipped Cream (part 1):**  
 - 600 g heavy whipping cream (can adjust to smaller layers)  
 - 20ish g powdered sugar  
@@ -47,8 +47,8 @@ Recipe is adapted from [Allrecipes Tres Leches cake](https://www.allrecipes.com/
 
 1. Chill bowl and whisk attachments or beaters prior.  
 2. First add the piping gel and a little bit of cream and incorporate.  
-3. Add rest of cream and whisk until very stiff peaks. This has to be extremely stable, so ensure you take it far enough.  
-  
+3. Add rest of cream and whisk until very stiff peaks. This has to be extremely stable, so ensure you take it far enough.
+ 
 **4. Assembly:**  
 1. I have no idea of the optimal way to assemble. I'll detail how I did it, but ultimately the cake was pretty stable, so it may not require this.  
 2. Line a cake pans with acetate. And add cling wrap to the bottom. I had to tape two acetate sheets together.  
