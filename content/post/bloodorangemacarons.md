@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["bloodorange", "macarons","curd","ganache","macarondesign"]
 +++
 ![BLood Orange Macarons](https://farm5.staticflickr.com/4279/35299049512_ee46561884_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 20 min at 305F.
 
 More macarons yay! NOTE: I changed the amount of powdered sugar and granulated sugar from my normal protocol, but it still worked out. I also scaled up slightly so that I could have enough batter for different colors (I normally only use 35 g egg white = 1 egg white).  
  

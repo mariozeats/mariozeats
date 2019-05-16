@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["mango", "macarons","macarondesign"]
 +++
 ![Mango Macarons](https://farm5.staticflickr.com/4253/35299103922_bb920ed1f4_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 20 min at 305F.
 
 Same recipe that I use for all my macarons.
 Recipes were modified and adapted from Macarons by Natalie and Macaronguy for the curd.
