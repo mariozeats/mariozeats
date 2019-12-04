@@ -1,5 +1,5 @@
 +++
-date = "2019-05-16T11:35:17-07:00"
+date = "2019-06-30T11:35:17-07:00"
 draft = true
 title = "Useful Recipes"
 categories = ["other"]
@@ -9,24 +9,21 @@ One of the biggest uses of my blog is for me to find recipes so I don't forget t
 
 While I usually search to find a dessert that has a component I need, here are direct links to those base recipes:
 
-[Macarons (Shells + Ganache Filling)](https://www.mariozeats.com/macaronshells)
+[Macarons (Shells + Ganache Filling)](https://www.mariozeats.com/macarons)
 
-Cream Puffs (Choux Pastry + Diplomat Cream)
+[Cream Puffs (Choux Pastry + Diplomat Cream)](https://www.mariozeats.com/creampuffs)
 
-Tarts (Pate Sablee + Filling (Curd/ Custard) )
+[Tarts (Pate Sablee + Filling (Curd/ Custard)](https://www.mariozeats.com/tarts)
 
-Egg Tarts
+[Madeleines](https://www.mariozeats.com/madeleines)
 
-Basic Mousse
+[Basic Mousse](https://www.mariozeats.com/mousse)
 
-Cakes (Joconde/ Victoria/ Chiffon)
+[Cakes (Joconde/ Victoria/ Chiffon)](https://www.mariozeats.com/cakes)
 
-Swiss Meringue Buttercream
+[Swiss Meringue Buttercream](https://www.mariozeats.com/smbc)
 
-Jacond Sponge (Almond Flour based)
+Hopefully these are helpful! (I'm sure I'll probably get the most use out of this haha)  
 
-Chiffon
-
-Victorian Sponge
-
-Ganaches (for Macaon Fillings, for Drips on Cakes)
+Enjoy,   
+-Mario
