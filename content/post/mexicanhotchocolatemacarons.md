@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["macarons", "chocolate", "ganache"]
 +++
 ![Mexican Hot Chocolate Macarons](https://farm5.staticflickr.com/4207/35425803626_05ad917441_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 20 min at 305F.
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 **1. Macaron Shells:**  *For about 10 1.5 inch macarons:*
 

@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["pistachio","macarons","swissbuttercream"]
 +++
 ![Pistachio Macarons](https://farm5.staticflickr.com/4216/34656127423_0550749a1d_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 20 min at 305F.
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 This was my first time 1. making pistachio macarons and 2. using a buttercream as a filling (I usually prefer curds, as most of the macarons I make are fruit flavored.
 

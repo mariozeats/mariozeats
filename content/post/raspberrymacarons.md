@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["macarons", "raspberry","ganache","curd"]
 +++
 ![Raspberry Macarons](https://farm5.staticflickr.com/4262/35425799446_3694a0b48c_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 20 min at 305F.
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 Swirls are so pretty. I always saw [Macarons by Tiffany](https://www.instagram.com/macaronsbytiffany/) use them, so I wanted to try!  
 *This macaron recipe was a work in progress, so see my latest macaron post for my new base recipe.*

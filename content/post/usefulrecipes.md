@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 +++
 date = "2019-06-30T11:35:17-07:00"
 draft = true
@@ -27,3 +28,5 @@ Hopefully these are helpful! (I'm sure I'll probably get the most use out of thi
 
 Enjoy,   
 -Mario
+=======
+>>>>>>> parent of 221ede8... Macaron update

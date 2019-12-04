@@ -6,7 +6,7 @@ categories = ["macarons"]
 tags = ["macarons","pomegrante", "curd"]
 +++
 ![Pomegrante Macarons](https://farm5.staticflickr.com/4284/35335565381_89030c1482_h.jpg)
-*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 20 min at 305F.
+*UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
 To be honest, I have better luck with no hollows using the Italian meringue method. However, it's much faster for me to use the French meringue method, so when I'm lazy/ want to crank some macarons out, I use this method. From start to clean up, it takes me about 1.5hrs. I use the same ratios and process as [Love and Macarons](http://loveandmacarons.blogspot.com/2014/01/vanilla-bean-macarons-with-light-and.html). For the pomegranate curd, I use [Macaronguy’s recipe](https://macaronguy.wordpress.com/2014/01/20/strawberry-curd/)
 
