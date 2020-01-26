@@ -84,7 +84,7 @@ googleAnalytics = "UA-101028546-1"
     weight = 3
 [[menu.main]]
  name = "Useful Recipes"
-    url = "/usefulrecipes"
+    url = "/post/usefulrecipes"
     weight = 4
 
 # Insert your username and the icon will apear on the page as long as
