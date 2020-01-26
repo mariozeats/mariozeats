@@ -30,17 +30,17 @@ Beat/ whisk your egg whites until frothy and then add in the grandulated sugar. 
 8. For my oven, I bake for about 20 minutes at 305. At around 3/4 of the way, I take a look and assess rise and browning. After 20 minutes, take out. BUT, super important that you learn how your oven works. You may have to adjust temps and time :o.  
 9. I take off all my shells from the silpat once they have cooled and then pair them up and decorate. 
     - For edge brush stroke designs, I get a small ramekin and add a drop of gel food coloring (or two shades of a particular color, side by side) + some edible silver powder + a few drops of vodka (helps it dry quickly). I use a small wide brush that has lots of bristles(think painting brush, but for the kitchen). Dip the brush into the diluted, shiny food coloring (if two colors, make sure to keep each respective color on its own side) and brush onto the shells. Start on the edge and pull towards the center of each shell. 
-    - For single stripe design, I use a small paint brush and prepare just add a stroke to the center of each shell. Once again, I use a drop of gel food coloring, some edible silver powder, and a few drops of vodka.
+    - For single stripe design, I use a small paint brush and just add a stroke to the center of each shell. Once again, I use a drop of gel food coloring, some edible silver powder, and a few drops of vodka.
 
-**2. Flavored White Chocolate (or Chocolate) Ganache**  
+**2. Flavored White Chocolate (or Chocolate) Ganache:**  
 
 - 70 g white chocolate  
-- 35 g cream or reduced puree/ reduced flavoring  
+- 35 g +10ish g just in case, cream or reduced puree/ reduced flavoring 
 
 1. First heat up the cream or reduction in a container in the microwave for about 30 seconds - 1 minute. This brings it to about sculding. 
 2. If you're using powdered flavoring or steeping tea, I would use 60 g of cream and add your tea or powder to that. Mix thoroughly.  
 3. Put the white chocolate over a double boiler (bowl of a boiling pot of water, want indirect heat) and melt fully. I take the bowl off and make sure there aren't any more pieces remaining (mix, mix, mix with a spatula) and then add in the cream or reduction.
 4. Mix slowly until it is fully emulsified.The ganache will be not fully set right now, but that's fine. I usually throw the bowl into the fridge or freezer for a few minutes (10ish). 
 5. Transfer the mixture to a piping bag and if still not set, I let it cool longer in the fridge.
-6. I matched up white and green shells and then brushed the white shell with some matcha. I add a little bit of vodka to some matcha (will dry much more quikcly than just water) and then brush on from edge to center. You can do whatever design or no design though. :p.
+6. Match up the shells and pipe the filling.
 8. Assemble macarons and let the macarons rest in an airtight container in the fridge overnight for optimal chewiness! 

@@ -54,7 +54,7 @@ There are 6 components: the chocolate sponge (sort of like a Jaconde sponge), bl
 6. Remove from heat and strain through a sieve. Let cool.
 7. When the jam has cooled and thickened, put a thin layer on top of the sponge cake. Put in the fridge to cool.
 
-**3. Blackberry Mousse:**
+**3. Blackberry Mousse:** 
 
 - 90 g heavy cream
 - 90 g of blackberry pulp (pureed)

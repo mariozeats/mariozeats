@@ -46,9 +46,9 @@ The pâte sablée receipe is from [The Kitchn](http://www.thekitchn.com/how-to-m
 
 1. Bloom gelatin. Stir in water to get an apple sauce-like consistency. 
 2. Whisk egg in a bowl. 
-3. Add the creams, sugar, and siften matcha into a small saucepan and stir and bring to a boil. (Shouldn't take too long).
+3. Add the creams, sugar, and siftend matcha into a small saucepan and stir and bring to a boil. (Shouldn't take too long).
 4. Remove from heat and add in scrambled egg. 
-5. Bring back to head and strir until thickened. If you leave it while not being stirred, it will cook so whisk, whisk, whisk! Remove from heat once thickened.
+5. Bring back to head and stir until thickened. If you leave it while not being stirred, it will cook so whisk, whisk, whisk! Remove from heat once thickened.
 6. In a bowl, place the gelatin and strain the matcha cream mixture on top (to remove any possibly cooked egg/ lumps).
 7. Stir a bit to dissolve the gelatin and begin adding the cubed butter. Despite the matcha, the cream still was a bit buttery, so I'm sure reducing it maybe 30 g might still be able to set. 
 8. Stir until the butter melts. If it cools too quickly and you're unable to dissolve the butter, put the bowl over a double boiler briefly and stir, stir, stir.  

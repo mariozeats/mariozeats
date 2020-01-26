@@ -9,6 +9,8 @@ tags = ["matcha", "macarons"]
 
 Can never go wrong with some matcha macarons. I've made them lots of times, but here's a post dedicated to them :p. This is my updated recipe that I use (taken from the awesome [Botegga Tinnie](https://www.instagram.com/bottegatinnie/)). Hollows have always plagued me and this recipe and a low and slow bake mostly fix this for me. 
 
+**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though).  
+
 ***Note:*** For some reason I always screw up when I try doing 2x the size of the recipe and then splitting in half to add flavorings, so for the white and green shells, I just made the recipe twice.
 
 **1. Macaron Shells:**  *For about 12-14 1.5 inch macarons*  [NEED TO DO THIS 2x]
@@ -50,8 +52,8 @@ Beat/ whisk your egg whites until frothy and then add in the grandulated sugar. 
 8. Assemble macarons and let the macarons rest in an airtight container in the fridge overnight for optimal chewiness!   
 
 **3. General Tips/ usefulness:**
-1. My ganaches for 1 dozen macarons involve a 70 g white chocolate: 35 g other ratio. For fruit flavors, this means 35 g reduced fruit puree. For things that need to incorporate into a liquid, I use 35 g of that. I steep or mix or bloom that ingredient in either heavy whipping cream or coconut cream.  
-2. Since I was making 2 dozen, I did a little less than 2x that.  
+1. My ganaches for 1 dozen macarons involve a 70 g white chocolate: 35 g other ratio [[as a starting point]]. For fruit flavors, this means 35 g reduced fruit puree. For things that need to incorporate into a liquid, I use 35 g of that. I steep or mix or bloom that ingredient in either heavy whipping cream or coconut cream. Sometimes I need to add a few more g of cream beyond the 35.      
+2. Since I was making 2 dozen, I did a little less than 2x that.    
 3. Macarons suck, but don't overmix, and learn your oven!  
 
 ![Matcha Macarons](https://farm8.staticflickr.com/7888/46736987294_4e5650d466_z.jpg)

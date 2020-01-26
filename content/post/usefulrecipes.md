@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 +++
 date = "2019-06-30T11:35:17-07:00"
 draft = true
@@ -14,7 +13,7 @@ While I usually search to find a dessert that has a component I need, here are d
 
 [Cream Puffs (Choux Pastry + Diplomat Cream)](https://www.mariozeats.com/creampuffs)
 
-[Tarts (Pate Sablee + Filling (Curd/ Custard)](https://www.mariozeats.com/tarts)
+[Tarts (Pate Sablee + Filling (Curd/ Cream/ Custard)](https://www.mariozeats.com/tarts)
 
 [Madeleines](https://www.mariozeats.com/madeleines)
 
@@ -28,5 +27,3 @@ Hopefully these are helpful! (I'm sure I'll probably get the most use out of thi
 
 Enjoy,   
 -Mario
-=======
->>>>>>> parent of 221ede8... Macaron update
