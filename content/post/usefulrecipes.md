@@ -9,19 +9,19 @@ One of the biggest uses of my blog is for me to find recipes so I don't forget t
 
 While I usually search to find a dessert that has a component I need, here are direct links to those base recipes:
 
-- **[Macarons (Shells + Ganache Filling)](https://www.mariozeats.com/macarons)**
+- **[Macarons (Shells + Ganache Filling)](https://www.mariozeats.com/post/macarons)**
 
-- **[Cream Puffs (Choux Pastry + Diplomat Cream)](https://www.mariozeats.com/creampuffs)**
+- **[Cream Puffs (Choux Pastry + Diplomat Cream)](https://www.mariozeats.com/post/creampuffs)**
 
-- **[Tarts (Pate Sablee + Filling (Curd/ Cream/ Custard)](https://www.mariozeats.com/tarts)**
+- **[Tarts (Pate Sablee + Filling (Curd/ Cream/ Custard)](https://www.mariozeats.com/post/tarts)**
 
-- **[Madeleines](https://www.mariozeats.com/madeleines)**
+- **[Madeleines](https://www.mariozeats.com/post/madeleines)**
 
-- **[Mousses (for mousse cakes and tarts)](https://www.mariozeats.com/mousse)**
+- **[Mousses (for mousse cakes and tarts)](https://www.mariozeats.com/post/mousse)**
 
-- **[Cakes (Joconde/ Victoria/ Chiffon)](https://www.mariozeats.com/cakes)**
+- **[Cakes (Joconde/ Victoria/ Chiffon)](https://www.mariozeats.com/post/cakes)**
 
-- **[Swiss Meringue Buttercream](https://www.mariozeats.com/smbc)**
+- **[Swiss Meringue Buttercream](https://www.mariozeats.com/post/smbc)**
 
 Hopefully these are helpful! (I'm sure I'll probably get the most use out of this haha)  
 
