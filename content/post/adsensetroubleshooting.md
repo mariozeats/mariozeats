@@ -21,3 +21,5 @@ When I edit or create just a post like this one, for example, I only see just a 
 Not sure if this makes sense. If you just try to insert the script into the partials header.html you can probs replicate the bug.
 
 thank you smart one.
+
+BLAHHHHHH
