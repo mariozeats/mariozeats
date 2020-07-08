@@ -9,12 +9,12 @@ Choux is super simple and delicious. I've tried adding flavorings to it, but sin
 
 Also started adding craquelin (crunch part on top). It's pretty awesome. Will include the recipe but it's not necessary.  
 
-**1. Craquelin:**  
-- 125 g butter, room temp
-- 125 g brown sugar
-- 125 g flour
-- 4- 6 g hojicha powder  
-
+**1. Hojicha Craquelin:**  
+- 125 g butter, room temp  
+- 125 g brown sugar  
+- 125 g flour  
+- 4- 6 g hojicha powder (can literally be anything)   
+  
 1. Cream the brown sugar and butter until combined, but not super soft.  
 2. Add in sifted flour and hojicha powder and mix.  
 3. Roll out between plastic wrap into a thin sheet (maybe a few cm) and place in the freezer.  
@@ -30,7 +30,7 @@ Also started adding craquelin (crunch part on top). It's pretty awesome. Will in
 - 150 g flour 
 - 3 large eggs     
 
-1. Preheat oven to 400F.  
+1. Preheat oven to 400F (205C).  
 2. Add milk, water, butter, sugar, and salt into a saucepan and bring to boil. You want your butter to have melted prior to boiling, so make sure you cut up the stick of butter into small pieces.  
 3. Sift out the flour.   
 4. Take the saucepan off the heat, and add in the sifted flour. Stir in (wooden spoon is best) the flour until everything comes together into a ball.  
@@ -42,7 +42,7 @@ Also started adding craquelin (crunch part on top). It's pretty awesome. Will in
 9. If you *did not* make a craquelin: grab a small bowl of water and using your finger dipped in water, flatten all the points which resulted from piping them. Those little points will burn in the oven, so flatten those and any other pointy edges which may be on your silpat.  
 10. If you *did* make a craquelin, take out of freezer and cut out circles slightly smaller than the size of the cream puffs. For small cream puffs, I use the back of a very large piping tip. For larger cream puffs, I use my smallest circular cookie cutter. I press down onto the plastic wrap, so the cutter doesn't stick. Place each circle onto a cream puff.  
 11. Bake until the cream puffs are golden brown (~30 minutes). Opening the oven/ taking them out before this will cause them to collapse on themselves. You want the puffs to form a solid structure.  
-12. Now open the oven and without pulling out the pan, press lightly on the puffs to see if they're solid. If they are, you want to stab holes in the bottom or bottom edge. I have a long pointy piping tip that I now use, but I used to use a chopstick and that worked perfectly fine. Bake for about 15 more minutes at 250F. You can turn off oven and leave them in to dry out even more.
+12. Now open the oven and without pulling out the pan, press lightly on the puffs to see if they're solid. If they are, you want to stab holes in the bottom or bottom edge. I have a long pointy piping tip that I now use, but I used to use a chopstick and that worked perfectly fine. Bake for about 15 more minutes at 250F (120C). You can turn off oven and leave them in to dry out even more.
     - If they aren't fully baked yet, drop the temperature down to 250F and bake for another 15 minutes. After that, check back every 10 minutes to see.  
 14. Once the insides have dried (you can check a tester), take the tray out and let fully cool.  
 
@@ -83,7 +83,7 @@ Also started adding craquelin (crunch part on top). It's pretty awesome. Will in
 - For non craquelin, a few g of powder (either hojicha or your freeze dried fruit powder)  
 
 1. Take cooled cream puffs (important) and fill with the diplomat cream. You will feel the pressure, so stop when the cream puff gets heavy and feels like it's going to explode. 
-2. Dust the cream puff with the raspberry powder. 
+2. Dust the cream puff with your powder of choice. 
 3. Fill shortly before serving. If you make the empty puffs the night before (keep in an airtight container in the fridge), make sure to bake them for 20 - 30 min at 250F. And make sure they're cool when you fill them or else the cream will melt.  
 
 Craquelin/ large:

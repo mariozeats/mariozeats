@@ -5,12 +5,12 @@ title = "Cakes"
 categories = ["cakes"]
 tags = ["cakes"]
 +++
-I really wish I was good at cakes. I'm not. The Victoria sponge/ sponge I use for layer cakes is always meh after I refridgerate. But I'll include what I used regardless (it's adapted from [The Kitchn](https://www.thekitchn.com/classic-victoria-sponge-sandwich-257178).  
-I use Joconde as a base for mousse cakes and for thin layer cakes on its own. It's what often used for layers in opera cakes or those alphabet ones. Chiffons are fluffier, so if I'm not doing a lot of layers, I prefer those. I don't actually have a chiffon pan, so I just use normal baking pans and they work fine.  
+I really wish I was good at cakes. I'm not. The Victoria sponge/ sponge I use for layer cakes is always meh after I refridgerate. But I'll include what I used regardless (it's adapted from [The Kitchn](https://www.thekitchn.com/classic-victoria-sponge-sandwich-257178)).  
+I use Joconde as a base for mousse cakes and for thin layer cakes on their own. It's what often used for layers in opera cakes or those alphabet ones. Chiffons are fluffier, so if I'm not doing a lot of layers, I prefer those. I don't actually have a chiffon pan, so I just use normal baking pans and they work fine.  
 
 ALSO, as a side note, sometimes recipes call for cake flour and I don't have. To make your own, use:
 *7 parts AP flour: 1 part corn starch*
-For example, for 75 g cake flour, just divide by 8 and that's your AP flour amount. You would use 9g corn starch and 66g AP flour.
+For example, for 75 g cake flour, just divide by 8 and that's your corn starch amount. You would use 9g corn starch and 66g AP flour.
 
 **1. Joconde Sponge: [half sheet]**
 

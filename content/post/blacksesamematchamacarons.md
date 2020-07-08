@@ -8,6 +8,8 @@ tags = ["blacksesame", "matcha","matcha"]
 ![Black Sesame Matcha Macarons](https://farm5.staticflickr.com/4232/35465768295_59fc53ad84_h.jpg)
 *UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
+**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my [General Macarons Recipe](https://www.mariozeats.com/post/macarons/) for the most up to date.  
+
 I've been super digging black sesame. Matcha goes so well with it, so decided to make some macarons as always.
 
 **1. Black Sesame Macaron Shells:**  *For about 10 1.5 inch macarons:*  

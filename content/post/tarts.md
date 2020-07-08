@@ -26,7 +26,7 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 3. Add flour and salt on low speed. Don't overmix. If the dough seems dry, add some milk.  
 4. Chill dough in plastic wrap for at least 1 hour in the fridge.  
 5. Let soften a bit on the counter before rolling out. Roll out to a few cm to a size that'll fit over the tart mold. I place the dough between some parchment paper or saran wrap and roll it out between this. Press into the tart mold.  
-    - This is what I'm still really bad at. The nice part about this dough, however, is that it's easy to patch up if it cracks.
+    - This is what I'm still really bad at. The nice part about this dough, however, is that it's easy to patch up if it cracks.  
 6. Stab the bottom of the tarts with a fork and create a grid of holes to allow steam to escape while it's baking. Freeze for at least 15 minutes. Preheat oven to 375F. 
 7.  Line the tarts with some parchment paper and use either pie weights or uncooked beans to hold down. Blind bake for 25 minutes or until starting to golden.  
 10. Remove pie weights and parchment paper and bake for another 5 - 10 minutes. Lately, I've actually just lowered the temp to around 300F and baked for another 30 min so I can check it less often.
@@ -84,7 +84,7 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 6. Bake at 360F for about 20 minutes. The custard will inflate a little. Once you see this, you can stick a toothpick into the custard and if it holds without flopping over, turn off the oven and crack the door open. Let sit in oven for another 15 min.   
 7. Unmold and enjoy. If the tarts aren't unmolding, bake longer (this is often an issue I have when I make gluten-free crusts).  
 
-**Decorating:**
+**Decorating:**  
 1. For fruit tarts, I either add some whipped cream, fruit segments, and a fruit syrup drizzle or just cut up fruit. Loko Kitchen is major goals so check out her page for inspo.  
 2. For cream tarts, I usually opt for a whipped cream. 225g heavy cream and 10g powdered sugar. Usually also a bit of piping gel to help stabilize it. You can pipe it out however you want.  
 3. You really can do whatever you want with these. I've made tons of curds (pluot, mango, strawberry), creams (black sesame, Thai tea, hojicha, matcha, matcha, ube), and custard (matcha, regular, ube, strawberry) flavors. All I do is sub out the flavor portion. These recipes are pretty robust so they can tolerate these changes. 

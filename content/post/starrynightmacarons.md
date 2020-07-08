@@ -9,6 +9,8 @@ tags = ["art", "macarons","rose","ganache","macarondesign"]
 ![Starry Night Macarons](https://farm5.staticflickr.com/4237/35425784716_187509963e_h.jpg)
 *UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
+**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my [General Macarons Recipe](https://www.mariozeats.com/post/macarons/) for the most up to date.  
+
 A few things: I'm actually only going to give you the recipe for 10 macarons. I scaled it up by 2.5x to have enough macarons for this. Also, I suck at ganaches. I always split them so maybe following my recipe for that isn't the best. I think my issue is that the cream is too hot when I add it to the white chocolate. Just a head's up. (Normally recipes will tell you heat up cream and pour that over chopped up chocolate.)    
 
 **1. Macaron Shells:**  *For about 10 1.5 inch macarons:*  

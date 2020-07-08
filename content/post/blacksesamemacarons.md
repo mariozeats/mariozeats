@@ -9,6 +9,8 @@ tags = ["blacksesame"]
 ![Black Sesame Macarons](https://farm5.staticflickr.com/4569/37570844855_12dd9509e9_b.jpg)
 *UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
+**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my [General Macarons Recipe](https://www.mariozeats.com/post/macarons/) for the most up to date.  
+
 So these macarons are a basic shell with a coconut cream black sesame ganache filling. Super tasty! This is my most up to date French method recipe for the shells. I adapt this recipe for everything else. If I'm adding any other flavoring/ powder to the shell, I subtract it from the almond flour.  
 
 **1. Black Sesame Macaron Shells:**  *For about 10 1.5 inch macarons:*  

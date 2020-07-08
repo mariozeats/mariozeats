@@ -9,7 +9,7 @@ tags = ["matcha", "macarons"]
 
 Can never go wrong with some matcha macarons. I've made them lots of times, but here's a post dedicated to them :p. This is my updated recipe that I use (taken from the awesome [Botegga Tinnie](https://www.instagram.com/bottegatinnie/)). Hollows have always plagued me and this recipe and a low and slow bake mostly fix this for me. 
 
-**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though).  
+**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my [General Macarons Recipe](https://www.mariozeats.com/post/macarons/) for the most up to date.  
 
 ***Note:*** For some reason I always screw up when I try doing 2x the size of the recipe and then splitting in half to add flavorings, so for the white and green shells, I just made the recipe twice.
 
@@ -51,8 +51,8 @@ Beat/ whisk your egg whites until frothy and then add in the grandulated sugar. 
 6. I matched up white and green shells and then brushed the white shell with some matcha. I add a little bit of vodka to some matcha (will dry much more quikcly than just water) and then brush on from edge to center. You can do whatever design or no design though. :p.
 8. Assemble macarons and let the macarons rest in an airtight container in the fridge overnight for optimal chewiness!   
 
-**3. General Tips/ usefulness:**
-1. My ganaches for 1 dozen macarons involve a 70 g white chocolate: 35 g other ratio [[as a starting point]]. For fruit flavors, this means 35 g reduced fruit puree. For things that need to incorporate into a liquid, I use 35 g of that. I steep or mix or bloom that ingredient in either heavy whipping cream or coconut cream. Sometimes I need to add a few more g of cream beyond the 35.      
+**3. General Tips/ usefulness:**  
+1. My ganaches for 1 dozen macarons involve a 70 g white chocolate: ~35 g other ratio [[as a starting point]]. For fruit flavors, this means starting with 30 g reduced fruit puree. For things that need to incorporate into a liquid, I use 37 g of that. I steep or mix or bloom that ingredient in either heavy whipping cream or coconut cream.       
 2. Since I was making 2 dozen, I did a little less than 2x that.    
 3. Macarons suck, but don't overmix, and learn your oven!  
 

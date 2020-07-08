@@ -7,6 +7,8 @@ tags = ["macarons", "fireworks","macarondesign"]
 +++
 *UPDATE 2019* I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.
 
+**Update Jan 2020**, lately I've been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my [General Macarons Recipe](https://www.mariozeats.com/post/macarons/) for the most up to date.  
+
 Yay for freedom. Fourth of July evokes two things for me - the flag and fireworks. Since I already made the [American flag macarons](www.mariozeats/americanflagmacarons) for Memorial Day, I decided to go for the fireworks ones! Ideally I would have had pop rocks coating the filling, but after going to ~15 supermarkets/ corner stores I failed to find any. I also procrastinated and didn't plan ahead (or else I would have just bought some from Amazon). I made a bit extra batter than normal because I knew I was going to need lots of different colors.  
 
 **1. Macaron Shells:**  *For about 20 2 inch macarons:*  
