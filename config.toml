@@ -82,10 +82,6 @@ googleAnalytics = "UA-101028546-1"
     name = "About"
     url = "/about"
     weight = 3
-[[menu.main]]
- name = "Useful Recipes"
-    url = "/post/usefulrecipes"
-    weight = 4
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area

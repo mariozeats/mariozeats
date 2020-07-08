@@ -33,15 +33,15 @@ For these, you can easily replace flavors by subbing out flavors/ powders/ puree
 11. Fold the whipped cream into the cream cheese mixture.
 12. It sets pretty strong and sets quickly, so if you want less, just add less gelatin.  
 
-**1ii. Blackberry Mousse: (any fruit flavor or anything really) [for flavored mousse inset of one 6-9in mousse cake]**
-- 90 g heavy cream
-- 90 g of blackberry reduced puree 
-- 3.5 g gelatin (+ about 15 g water to bloom)
-- 30 g Italian meringue
-    - 15 g water
-    - 60g sugar
-    - 30 g egg white
-
+**1ii. Blackberry Mousse: (any fruit flavor or anything really) [for flavored mousse inset of one 6-9in mousse cake]**  
+- 90 g heavy cream  
+- 90 g of blackberry reduced puree   
+- 3.5 g gelatin (+ about 15 g water to bloom)  
+- 30 g Italian meringue  
+    - 15 g water  
+    - 60g sugar  
+    - 30 g egg white  
+  
 1. Bloom the gelatin. Stir water into gelatin to get an apple sauce like consistency.
 2. Heat the blackberry puree over medium heat and dissolve the soaked gelatin in it. Pour in a bowl and leave to cool. 
     - If you're doing a non fruit flavor, instead of puree, use a cream that has been infused with your flavor.  
@@ -56,15 +56,15 @@ For these, you can easily replace flavors by subbing out flavors/ powders/ puree
 6. Fold in the whipped cream into that mixture.
 7. Pour the mousse into a mold or whatever you're using. Freeze. I often make a few flavors and layer them in subsequent freeze steps. (For example, strong matcha layer-->freeze, lighter matcha layer-->freeze, raspberry later-->freeze)
 
-**2. Tart Mousses: (this one is thicker and easier to pipe and doesn't require freezing)**
-
-**Raspberry Mousse [for 30 2.5in tarts or a 6-9in tart]**
-- 20 g gelatin (+ 35ish g water)
-- 3 large egg yolks
-- 120 g sugar
-- 360 g milk
-- 360 g heavy whipping cream
-- 20 g raspberry powder (from freeze dried raspberries) [or honestly up to like 50ish g of puree or other flavoring]    
+**2. Tart Mousses: (this one is thicker and easier to pipe and doesn't require freezing)**  
+  
+**Raspberry Mousse [for 30 2.5in tarts or a 6-9in tart]**  
+- 20 g gelatin (+ 35ish g water)  
+- 3 large egg yolks  
+- 120 g sugar  
+- 360 g milk  
+- 360 g heavy whipping cream  
+- 20 g raspberry powder (from freeze dried raspberries) [or honestly up to like 50ish g of puree or other flavoring]      
 
 1. You’ll need to prepare a whipped cream, so cool a bowl and whisk in the fridge.
 2. Bloom gelatin. Add water to gelatin until you get an apple sauce consistency.
