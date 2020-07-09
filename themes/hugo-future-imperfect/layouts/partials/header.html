@@ -20,7 +20,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         {{ .Hugo.Generator }}
         {{ partial "favicon" . }}
-        {{ partials "google/adsense" . }}
+        {{ partial "google/adsense" . }}
         {{ with .Params.author }}
             <meta name="author" content="{{ . }}">
         {{ end }}
