@@ -8,7 +8,10 @@ tags = ["crepecake", "butterflypea","vanilla"]
 
 ![Butterfly Pea Flower Crepe Cake](https://farm5.staticflickr.com/4217/35494516691_de4286ecf2_b.jpg)
 
-Butterfly pea flowers fascinate me. The tea is pH sensitive and produces an awesome blue to pink gradient. I've been thinking of how to apply to a dessert and decided to try a mille crepe cake.  I've made a few different crepe cakes, but despite this, it always takes a gazillion years. Definitely worth at least one try though :D. This recipe should provide enough batter and pastry cream for up to ~25-30 crepe layers.
+Butterfly pea flowers fascinate me. The tea is pH sensitive and produces an awesome blue to pink gradient. I've been thinking of how to apply to a dessert and decided to try a mille crepe cake.  I've made a few different crepe cakes, but despite this, it always takes a gazillion years. Definitely worth at least one try though :D. This recipe should provide enough batter and diplomat cream for up to ~25-30 crepe layers.
+
+*updated 9/5/20* increased proportion of the diplomat cream to have sufficient filling. Added some extra tips.
+
 
 **1. Crepes:**
 
@@ -17,19 +20,20 @@ Butterfly pea flowers fascinate me. The tea is pH sensitive and produces an awes
 - 90 g sugar
 - 4 eggs
 - 50 g butter, melted
-- 15 g dried butterfly pea flowers
+- 15-20 g dried butterfly pea flowers
 
 1. About 20-30 minutes before beginning, put milk and dried flowers in a medium saucepan. Heat briefly and then let the pan sit, covered.
 2. Sift flour into a large bowl.
 3. Add sugar and mix briefly (I use a whisk).
-4. Add in eggs and mix.  
-<img src="https://farm5.staticflickr.com/4265/35442070010_ed809cd260_z.jpg" alt="Cutting out crepes" style="width: 400px;"/>
-5. Now strain out the milk through a sieve into a bowl. Add this strained butterfly pea flower indused milk to the batter, slowly at a time. Once about half the milk is added and mixed, add the rest.
-6. Add melted butter and mix fully.
-7. Pour mixture through a sieve. You Want a runny consistency.
-7. Cling wrap and throw into fridge for at least 30 minutes. Longer is better.
-8. After mixture has become cold, take a pan and on low to medium heat, and add some butter and add a small amount of batter. It takes some trial and error to figure out the right about to cover your pan.
-9. When the edges of the crepe become dry (a minute or so), flip over and cook for a short while longer (<1 minute).  
+4. Add in eggs and mix.   
+   1. If you want to reduce the yellowness of the eggs, you can *first* mix the egg yolks separately with the sugar, then add that + egg whites to the flour.    
+<img src="https://farm5.staticflickr.com/4265/35442070010_ed809cd260_z.jpg" alt="Cutting out crepes" style="width: 400px;"/>  
+1. Now strain out the milk through a sieve into a bowl. Add this strained butterfly pea flower indused milk to the batter, slowly at a time. Once about half the milk is added and mixed, add the rest.
+2. Add melted butter and mix fully.
+3. Pour mixture through a sieve. You Want a runny consistency.
+4. Cling wrap and throw into fridge for at least 30 minutes. Longer is better.
+5. After mixture has become cold, take a pan (use multiple to speed up process!) and on low to medium heat, and add some butter (I wrap a spatula with a napkin and dip that into melted butter and use that to greese) and add a small amount of batter (about 2/9 cups). It takes some trial and error to figure out the right about to cover your pan.
+6. When the edges of the crepe become dry (a minute or so), flip over and cook for a short while longer (<1 minute).  
 <img src="https://farm5.staticflickr.com/4214/35789990066_e021fe41b3_z.jpg" alt="Making crepes" style="height: 375px;"/>
 10. Repeat.
 11. To get a consistent size, place a bowl or something circular over the crepe and cut off excess scraps.  
@@ -37,13 +41,13 @@ Butterfly pea flowers fascinate me. The tea is pH sensitive and produces an awes
 
 **2. Vanilla Diplomat Cream:**
 
-- 4 large egg yolks
-- 37 g cornstarch
-- 340 g milk
-- 100 g sugar
+- 5 large egg yolks
+- 46 g cornstarch
+- 425 g milk
+- 125 g sugar
 - a few g of vanilla extract 
-- 225 g heavy cream
-- 10 g powdered sugar
+- 350 g heavy cream
+- 15 g powdered sugar
 
 1. You need to make a custard and a whipped cream. Take your large bowl and whisk that you're going to make the whipped cream with and throw that into the fridge before you begin. You want it cold.
 2. First prepare the **custard** component. In a large bowl, combine egg yolks and cornstarch.
@@ -62,11 +66,11 @@ Butterfly pea flowers fascinate me. The tea is pH sensitive and produces an awes
 **Assembly:**
 
 1. Assemble the cake on whatever you want it to be served on. These cakes are difficult to transfer.  
-2. Lay down a crepe and then add some pastry cream. Spread it out to an even amount.
-3. Add another crepe. Then some more pastry cream.
+2. Lay down a crepe and then add some diplomat cream. Spread it out to an even amount. Use an ice cream scoop! A turn table and an offset spatula is also super helpful!
+3. Add another crepe. Then some more diplomat cream.
 4. Repeat.
 5. Every few crepes, use something that's flat to press down onto the cake to help even it 
-out. The edge of the cake will inevitably have less pastry cream than the center.  
+out. The edge of the cake will inevitably have less diplomat cream than the center.  
 <img src="https://farm5.staticflickr.com/4284/35624806955_0361c75685_b.jpg" alt="Crepe cake slice" style="width: 400px;"/>
 6. Once assembled, refrigerate for a few hours (will make it so much easier to cut into).
 7. Top with powdered sugar and garnish with butterfly pea flowers.

@@ -11,7 +11,7 @@ title = "About Me"
 <img src="https://farm5.staticflickr.com/4279/34640085834_11f3a82992_b.jpg" alt="Lab super mario" style="height: 350px;"/>
 </div> 
 **UPDATE**
-I've been pretty MIA lately, but check out my insta or Reddit for maybe more up to date recipes. 
+I've been pretty MIA lately, but check out my insta. I'm pretty responsive there to DMs. 
 ______________________
 
 Hey there,  

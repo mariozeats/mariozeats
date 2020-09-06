@@ -8,6 +8,7 @@ tags = []
 One of the biggest uses of my blog is for me to find recipes so I don't forget them.
 
 While I usually search to find a dessert that has a component I need, here are direct links to those base recipes:
+Switching out flavors for these recipes is super easy. Literally just add it. They're pretty robust and won't be bothered by an addition of more liquid or powder. Exception is macarons. See that link for my pointers on that.  
 
 - **[Macarons (Shells + Ganache Filling)](https://www.mariozeats.com/post/macarons)**
 

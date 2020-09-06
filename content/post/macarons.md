@@ -5,7 +5,9 @@ title = "Macarons"
 categories = ["macarons"]
 tags = ["macarons"]
 +++
-Macarons are dumb. But here's the recipe I use that produces mostly okay ones.  
+Macarons are dumb. But here's the recipe I use that produces mostly okay ones (slightly adapted, thought mostly taken from [Bottega Tinnie](https://www.instagram.com/bottegatinnie/)).  
+
+*Update: 9/5/2020.** Last few times I've used the recipe from [My Love at First Bite](https://www.instagram.com/myloveatfirstbite/), which uses 70 almond flour, 70 powdered sugar, 60 egg whites, and 50 granulated sugar. The macarons are sweeter, but shells seem to be a bit fuller. Also check out her insta for beautiful desserts.
 
 **1. Macaron Shells:**  *For about 12-14 1.5 inch macarons*  
 
@@ -40,8 +42,8 @@ Beat/ whisk your egg whites until frothy and then add in the granulated sugar. S
 1. First heat up the cream or reduction in a container in the microwave for about 30 seconds - 1 minute. This brings it to about sculding. 
 2. If you're using powdered flavoring or steeping tea, I would use 60 g of cream and add your tea or powder to that. Mix thoroughly.  
 3. Put the white chocolate over a double boiler (bowl of a boiling pot of water, want indirect heat) and melt fully. I take the bowl off and make sure there aren't any more pieces remaining (mix, mix, mix with a spatula) and then add in the cream or reduction.
-- For cream based ones, I use 37 g and it's perfect.  
-- For ones where I use the puree reduction, I start off with 30g and slowly add more until there's a little give.  
+- For **cream** based ones (like matcha, Thai tea, black sesame, or hojicha), I use **37 g** and it's perfect.  
+- For ones where I use the **puree reduction**, I start off with **30g** and slowly add more until there's a little give.  
 4. Mix slowly until it is fully emulsified.The ganache will be not fully set right now, but that's fine. I usually throw the bowl into the fridge or freezer for a few minutes (10ish). 
 5. Transfer the mixture to a piping bag and if still not set, I let it cool longer in the fridge.
 6. Match up the shells and pipe the filling. I often also try piping some puree on its own in the center to enchance flavor.

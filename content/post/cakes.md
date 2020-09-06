@@ -26,7 +26,7 @@ For example, for 75 g cake flour, just divide by 8 and that's your corn starch a
 1. Preheat oven to 440F. Get a sheet pan and lie down some parchment paper or silpat.
 2. Mix almond flour and powdered sugar.
 3. To that same bowl, add the yolks and the whites (1) and beat until smooth.
-4. Add the sifted flour and cocoa powder.
+4. Add the sifted flour.
 5. Make a meringue by whisking the second egg whites (2) with the sugar to stiff peaks.
 6. Fold the meringue into the rest of the ingredients.
 7. Finally, add the melted butter and gently mix.
