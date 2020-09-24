@@ -11,6 +11,7 @@ tags = ["crepecake", "blacksesame","vanilla"]
 Started off trying to use a crepe maker that I borrowed from a friend. I thought it'd expidite the process. NOPE. At least not that particular one..it only caused me to waste batter since the griddle was too hot, so I switched over to a frying pan. My batter requires the temp to be around 250F, low heat. Overall, I was pretty pleased with it, but making this reminded me why I hate making them. lol. They take forever!
 
 *updated 9/5/20* increased proportion of the diplomat cream to have sufficient filling. Added some extra tips.
+Can see a matcha black sesame iteration here: https://www.instagram.com/p/CFhhT3AHPdU/ 
 
 **1. Black Sesame Crepes:**
 
@@ -44,26 +45,26 @@ Started off trying to use a crepe maker that I borrowed from a friend. I thought
 - 5 large egg yolks
 - 46 g cornstarch
 - 425 g milk
-- 125 g sugar
-- a few g of vanilla extract
-- 20ish g black sesame powder 
+- 125 g sugar   
+- 50ish g black sesame powder   
 - 350 g heavy cream
 - 15 g powdered sugar
 
 1. You need to make a custard and a whipped cream. Take your large bowl and whisk that you're going to make the whipped cream with and throw that into the fridge before you begin. You want it cold.
-2. First prepare the **custard** component. In a large bowl, combine egg yolks and cornstarch. The longer you beat them, the less yellow your mixture will be. I also added some titanium dioxide to make it a bit whiter.
-3. In a saucepan, high heat, combine milk, sugar, black sesame, and vanilla. 
+2. First prepare the **custard** component. In a large bowl, combine egg yolks and cornstarch. The longer you beat them, the less yellow your mixture will be.
+3. In a saucepan, high heat, combine milk, sugar, and black sesame powder. 
 4. Bring to boil and remove from heat.
 5. While whisking constantly, slowly add to bowl with yolks and cornstarch. You are tempering the egg yolks so that they won't scramble.
 6. Return the mixture to the saucepan on high heat.
 7. Bring to rolling boil, while whisking/ mixing constantly. I use a stick blender to get any lumps that may form at the bottom of the saucepan. The mixture will become custard like and coat a dipped sppon easily.
-8. Sieve into a bowl and cover the bowl with cling wrap. Since I use the blender, I don't have any clumps and have started skipping this step. 
+8. Sieve into a bowl and cover the bowl with cling wrap. Since I use the blender, I don't have any clumps and have started skipping this step. You can add some black food coloring if it's too dingey grey :p.   
 9. Chill (and whisk every 10 minutes to make sure it's actually starting to chill)
 10. Now prepare the **whipped cream** component. Take out the chilled bowl, whisk, and cream. 
-11. Add cream and powdered sugar and whisk until firm peaks.
-12. Take out the custard and whisk a bit to loosen it up. Add a small amount of whipped cream to lighten the mixture even more.  
+11. Add cream and powdered sugar and whisk until firm peaks. Adding black sesame powder into the a noncooked component will add graininess, so if you want that, you can also add some here (I usually just like to pack the custard full of it, but if you find your custard is lacking, you could add additional powder here).  
+12. Take out the custard and whisk a bit to loosen it up. Add up to a third of the whipped cream to lighten the mixture even more. 
+    1.  NOTE: this is a common technique whenever you want to preserve airiness and are combining a thick and liqht mixture (like mousses or cakes). You mix a little bit of the light into the heavy so you can lighten up the overall mixture before you finish off slowly combinng the rest.  
 <img src="https://farm5.staticflickr.com/4549/37571485685_7359875ebb_z.jpg" alt="Before mixing" style="height: 375px;"/>&nbsp; &nbsp; &nbsp;<img src="https://farm5.staticflickr.com/4581/37743073134_10539096c0_z.jpg" alt="After mixing" style="height: 375px;"/>  
-13. Slowly fold in the rest of the whipped cream, making sure not to overfold (will deflate the cream). I've found that for this, whisking to get rid of clumps is fine and even if it deflates, it's not bad.
+13. Slowly fold in the rest of the whipped cream, making sure not to overfold (will deflate the cream). I've found that for this, whisking to get rid of clumps is fine and even if it deflates, it's not bad.   
 
 **Black Sesame Ganache:**
 
