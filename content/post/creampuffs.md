@@ -9,7 +9,7 @@ Choux is super simple and delicious. I've tried adding flavorings to it, but sin
 
 Also started adding craquelin (crunch part on top). It's pretty awesome. Will include the recipe but it's not necessary.
   
-*Update 10/20**: made some and proportions were off for diplomat and craquelin, so tried fixing!  
+*Update Oct/20*: made some and proportions were off for diplomat and craquelin, so tried fixing!  
 
 **1. Hojicha Craquelin:**  
 - 75 g butter, room temp  
