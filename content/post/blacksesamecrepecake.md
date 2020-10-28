@@ -43,9 +43,9 @@ Can see a matcha black sesame iteration here: https://www.instagram.com/p/CFhhT3
 **2. Black Sesame Vanilla Diplomat Cream:**
 
 - 5 large egg yolks
-- 46 g cornstarch
+- 45 g cornstarch
 - 425 g milk
-- 125 g sugar   
+- 100 g sugar   
 - 50ish g black sesame powder   
 - 350 g heavy cream
 - 15 g powdered sugar
@@ -80,7 +80,7 @@ Can see a matcha black sesame iteration here: https://www.instagram.com/p/CFhhT3
 
 1. Assemble the cake on whatever you want it to be served on. A cake board works nicely.  
 <img src="https://farm5.staticflickr.com/4561/24585946808_cff9142211_c.jpg" alt="Crepe cake slice" style="width: 350px;"/>
-1. I started using a turntable for decorating these and it makes your life way easier. Lay down a crepe and then add some diplomat cream. Spread out an even amount of diplomat (I use **an ice cream scoop** and it works perfectly). A turntable is very helpful here.  
+1. I started using a turntable for decorating these and it makes your life way easier. Lay down a crepe and then add some diplomat cream. Spread out an even amount of diplomat (I use **an ice cream scoop** and it works perfectly [*note* this is an update. I started using a the scoop shortly after this cake and since then they were more even!]). A turntable is very helpful here.  
 2. Add another crepe. Then some more diplomat cream.
 3. Repeat.
 4. Every few crepes, monitor how dome shaped the cake is becoming. If it's doming, use something that's flat to press down onto the cake to help even it 

@@ -7,20 +7,23 @@ tags = ["creampuff"]
 +++
 Choux is super simple and delicious. I've tried adding flavorings to it, but since there's so much butter it's difficult. I'd say just focus on the filling flavor. Here I'll talk about hojicha flavored diplomat cream, with commentary if you want to do a fruit flavor. Any flavor works. With or without the puree or powder. For the best result, add flavoring to both the custard and whipped cream.
 
-Also started adding craquelin (crunch part on top). It's pretty awesome. Will include the recipe but it's not necessary.  
+Also started adding craquelin (crunch part on top). It's pretty awesome. Will include the recipe but it's not necessary.
+  
+*Update 10/20**: made some and proportions were off for diplomat and craquelin, so tried fixing!  
 
 **1. Hojicha Craquelin:**  
-- 125 g butter, room temp  
-- 125 g brown sugar  
-- 125 g flour  
-- 4- 6 g hojicha powder (can literally be anything)   
+- 75 g butter, room temp  
+- 75 g brown sugar  
+- 75 g flour  
+- 4- 6 g hojicha powder (can literally be anything)  
+- few drops of food coloring (if needed)     
   
 1. Cream the brown sugar and butter until combined, but not super soft.  
 2. Add in sifted flour and hojicha powder and mix.  
 3. Roll out between plastic wrap into a thin sheet (maybe a few cm) and place in the freezer.  
 4. Leave there and move onto choux (if you did make this, return to it on *Step 10* of Choux).  
 
-**2. Choux pastry: [for about 25-30 small cream puffs]**  
+**2. Choux pastry: [for about 25ish small cream puffs or 10 larger ones]**  
    
 - 200 g water  
 - 125 g milk  
@@ -48,13 +51,13 @@ Also started adding craquelin (crunch part on top). It's pretty awesome. Will in
 
 **3. Hojicha Diplomat Cream (with alterative fruit option commentary):** 
 
-- 4 large egg yolks
-- 37 g cornstarch
-- 340 g milk  
-- 100 g sugar
-- 70 g milk (NOTE, this is what you'd sub out if you did a fruit puree)  
-- 8 g hojicha powder (or freeze dried fruit if fruit flavor)  
-- 225 g heavy cream
+- 5 large egg yolks
+- 45 g cornstarch
+- 425 g milk  
+- 90 g sugar
+- 85 g milk (NOTE, this is what you'd sub out if you did a fruit puree) [or you honestly could do without this as well]    
+- 10 g hojicha powder (or freeze dried fruit if fruit flavor)  
+- 280 g heavy cream
 - 10 g powdered sugar
 - 4-6 g hojicha powder  
 
@@ -80,7 +83,7 @@ Also started adding craquelin (crunch part on top). It's pretty awesome. Will in
 
 **Filling and Decoration:**
 
-- For non craquelin, a few g of powder (either hojicha or your freeze dried fruit powder)  
+- For non craquelin, a few g of powder (either hojicha or your freeze dried fruit powder or powdered sugar)    
 
 1. Take cooled cream puffs (important) and fill with the diplomat cream. You will feel the pressure, so stop when the cream puff gets heavy and feels like it's going to explode. 
 2. Dust the cream puff with your powder of choice. 
