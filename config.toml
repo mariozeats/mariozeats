@@ -44,7 +44,7 @@ googleAnalytics = "UA-101028546-1"
 [params.intro]
     header    = "Mario'z Eats"
 
-    paragraph = "Neuro grad student by day. <br>Stress baker by night. <br> Follow my progress on IG :3. <br> 10.30.20 broke my site oops. icons will be back soon!"
+    paragraph = "Neuro grad student by day. <br>Stress baker by night. <br> Follow my progress on IG :3."
 
     about     = " "
 
@@ -68,19 +68,19 @@ googleAnalytics = "UA-101028546-1"
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
-    name = "Useful Recipes"
+    name = " Useful Recipes"
     url = "/post/usefulrecipes/"
-    identifier = "far fa-oven"
+    identifier = "fas fa-bread-slice"
     weight = 3
 
 [[menu.main]]
-    name = "Categories"
+    name = " Categories"
     url = "/categories/"
     identifier = "fas fa-network-wired"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = " About"
     url = "/about"
     identifier = "fa fa-flask"
     weight = 1
