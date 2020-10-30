@@ -98,6 +98,12 @@
 <li><a href="//twitter.com/{{.}}" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
 {{ end }}
 
+{{ with .Site.Social.tiktok }}
+<li><a href="mailto:{{.}}" target="_blank" title="TikTok" class="fab fa-tiktok"></a></li>
+{{ end }}
+
 {{ with .Site.Social.email }}
 <li><a href="mailto:{{.}}" title="Email" class="fa fa-envelope"></a></li>
 {{ end }}
+
+

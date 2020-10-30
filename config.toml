@@ -69,20 +69,21 @@ googleAnalytics = "UA-101028546-1"
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
     name = "Useful Recipes"
-    url = "/usefulrecipes/"
-    identifier = "fa fa-birthday-cake"
-    weight = 1
+    url = "/post/usefulrecipes/"
+    identifier = "far fa-oven"
+    weight = 3
 
 [[menu.main]]
     name = "Categories"
     url = "/categories/"
+    identifier = "fas fa-network-wired"
     weight = 2
 
 [[menu.main]]
     name = "About"
     url = "/about"
     identifier = "fa fa-flask"
-    weight = 3
+    weight = 1
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
@@ -115,7 +116,9 @@ googleAnalytics = "UA-101028546-1"
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = ""
+    tiktok          = "mariozeats"
     email           = "mariozeatsdessert@gmail.com"
+    
 
 [taxonomies]
     # Add support for tags and categories.
