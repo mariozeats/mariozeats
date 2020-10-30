@@ -44,10 +44,10 @@ googleAnalytics = "UA-101028546-1"
 [params.intro]
     header    = "Mario'z Eats"
 
-    paragraph = "Neuro grad student by day. <br>Stress baker by night. <br> Follow my progress on IG :3.<br><br>
+    paragraph = "Neuro grad student by day. <br>Stress baker by night. <br> Follow my progress on IG :3.<br>
     10/30/20 I broke my site and working on getting icons back SORRY :o"
 
-    about     = ""
+    about     = " "
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
