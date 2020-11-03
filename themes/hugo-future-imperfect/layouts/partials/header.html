@@ -6,9 +6,6 @@
 -->
 <html>
     <head>
-        <script src="https://kit.fontawesome.com/271d1a2b2f.js" crossorigin="anonymous"></script>
-
-        <script data-ad-client="ca-pub-2177559163030064" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         {{ with $.Scratch.Get "generalTitle" }}
             <title>{{ . }}</title>
         {{ else }}
@@ -21,9 +18,9 @@
 
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        {{ partial "google/adsense" . }}
         {{ .Hugo.Generator }}
         {{ partial "favicon" . }}
+
         {{ with .Params.author }}
             <meta name="author" content="{{ . }}">
         {{ end }}
@@ -76,7 +73,6 @@
         {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
             {{ template "_internal/google_analytics.html" . }}
         {{ end }}
-
     </head>
     <body>
 

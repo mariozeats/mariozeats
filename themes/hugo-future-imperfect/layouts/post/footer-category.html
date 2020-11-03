@@ -41,49 +41,4 @@
     {{ range .Params.categories }}
         <li><a href='{{ add ($.Scratch.Get "categoryUrl") . | urlize }}'>{{ . }}</a></li>
     {{ end }}
-
-    <!----tags-->
-    <ul class="stats">
-        {{ if isset .Params "tags" }}
-            {{ $tagCount := (len .Params.tags) }}
-    
-            <!--
-                Set the title before displaying the categories associated with this post.
-                The title will use the variables from the Categories menu set in the Config.
-                If the Categories menu was not set then use the default values instead.
-            -->
-            {{ if ge $tagCount 1 }}
-                <li>
-                    {{ $tagMenu := (where .Site.Menus.main "Name" "Tags") }}
-                    {{ if ne (len $tagMenu) 0 }}
-                        {{ $tagMenu := index $tagMenu 0 }}
-    
-                        {{ $.Scratch.Set "tagUrl" $tagMenu.URL }}
-    
-                        {{ with $tagMenu.Identifier }}
-                            <i class="{{ . }}">&nbsp;</i>
-                        {{ end }}
-    
-                        {{ if gt $tagCount 1 }}
-                            {{ $tagMenu.Name }}
-                        {{ else }}
-                            {{ $tagMenu.Name | singularize }}
-                        {{ end }}
-                    {{ else }}
-                        {{ $.Scratch.Set "tagUrl" "/tags/" }}
-    
-                        {{ if gt $tagCount 1 }}
-                            Tags
-                        {{ else }}
-                            Tag
-                        {{ end }}
-                    {{ end }}
-                </li>
-            {{ end }}
-        {{ end }}    
-    <!---- Display the tags associated with this post -->
-
-    {{ range .Params.tags }}
-    <li><a href='{{ add ($.Scratch.Get "tagUrl") . | urlize }}'>{{ . }}</a></li>
-{{ end }}
 </ul>
