@@ -1,4 +1,4 @@
-/*@import url(font-awesome.min.css);*/
+/*@import url(fontawesome.min.css);*/
 /*@import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900");*/
 
 /*
@@ -1844,7 +1844,7 @@
 			form.search:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family:Font Awesome 5 Free;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -1925,7 +1925,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family:Font Awesome 5 Free;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -1991,7 +1991,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family:Font Awesome 5 Free;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2066,7 +2066,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family:Font Awesome 5 Free;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2210,7 +2210,7 @@
 					ul.icons li > *:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						font-family: FontAwesome;
+						font-family:Font Awesome 5 Free;
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
@@ -2244,7 +2244,7 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family:Font Awesome 5 Free;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -2262,7 +2262,7 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family:Font Awesome 5 Free;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -3068,7 +3068,7 @@
 						#header .main ul li > a:before {
 							-moz-osx-font-smoothing: grayscale;
 							-webkit-font-smoothing: antialiased;
-							font-family: FontAwesome;
+							font-family:Font Awesome 5 Free;
 							font-style: normal;
 							font-weight: normal;
 							text-transform: none !important;
