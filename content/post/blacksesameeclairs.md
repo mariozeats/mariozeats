@@ -7,8 +7,12 @@ tags = ["choux", "blacksesame","eclair"]
 +++
 ![Black sesame eclairs](https://farm5.staticflickr.com/4231/35335306431_36dc843c49_h.jpg)
 
-Black sesame is delicious and so is choux, so they make a great combo :). There are a few components here. The choux pastry, the black sesame pastry cream filling, and the glaze (which really is just white chocolate with some food coloring).
+Black sesame is delicious and so is choux, so they make a great combo :). There are a few components here. The choux pastry, the black sesame diplomat cream filling, and the glaze (which really is just white chocolate with some food coloring).
 
+*updated 12/2020*: I've updated the diplomat cream to increase the amount (a la [Black sesame crepe cake](https://www.mariozeats.com/post/blacksesamecrepecake/))
+
+Also take a look at [Useful Recipes: Cream Puffs](https://www.mariozeats.com/post/creampuffs) to see how to make a craquelin, which is also super delicious.  
+  
 **1. Choux pastry: [for about 25-30 4 inch eclairs]**  
 
 - 200 g water  
@@ -33,30 +37,30 @@ Black sesame is delicious and so is choux, so they make a great combo :). There 
 12. I drop the temp down to 300ish F and put the chopstick stabbed choux back into the oven to allow the insides to dry out. Usually I leave them in for another 15 minutes. I eat a sample one and if it's still doughy inside, I leave it for longer.  
 13. Let cool.  
 
-**2. Black Sesame Pastry Cream:**    
-
-- 4 large egg yolks  
-- 37 g cornstarch  
-- 340 g milk  
-- 70 g sugar  
-- 50 g black sesame powder
-- 225 g heavy cream  
-- 6 g powdered sugar  
-
-You need to make a custard and a whipped cream. Take your large bowl and whisk that you're going to make the whipped cream with and throw that into the fridge before you begin. You want it cold.  
-1. To prepare the black sesame powder, put around 100 g or more black sesame seeds onto a hot frying pan without any oil and toast on low heat, stirring constantly for about 15 minutes.  Grind in a food processor to a powder.  
-2. Now prepare the **custard component**. In a large bowl, combine egg yolks and cornstarch thoroughly.  
-3. In a saucepan, high heat, combine milk, sugar, and black sesame powder and bring to boil and remove from heat.  
-4. While whisking constantly, slowly add to bowl with yolks and cornstarch. You are tempering the egg yolks so that they won't scramble. Don't stop whisking!   
-5. Return the mixture to the saucepan on high heat.  
-6. Bring to rolling boil, while whisking/ mixing constantly. I actually use my hand blender and constantly mix while it's on the stove. The mixture will become custard like.  
-7. If you did a good job mixing, you don't need to sieve, but if you see lumps, then sieve through a fine mesh into a bowl and then cover the bowl with cling wrap. Make sure to press it directly onto the custard to avoid condensation.  
-8. Chill.  
-9. Now prepare **whipped cream** component.  Take out the chilled bowl, whisk, and cream. 
-10. Add cream and powdered sugar and whisk until firm peaks. Feel free to add some black sesame powder here if you want more.    
-11. Take out black sesame custard and whisk a bit to loosen it up. Add a small amount of whipped cream to lighten the mixture even more.  
-12. Slowly fold in the rest of the whipped cream, making sure not to overfold (will deflate the cream).  
-13. Place into a piping bag with a tip that will fit into the hole you made.   
+**2. Black Sesame Diplomat Cream:**     
+  
+- 5 large egg yolks  
+- 45 g cornstarch  
+- 425 g milk  
+- 100 g sugar     
+- 60ish g black sesame powder     
+- 350 g heavy cream  
+- 15 g powdered sugar  
+   
+1. You need to make a custard and a whipped cream. Take your large bowl and whisk that you're going to make the whipped cream with and throw that into the fridge before you begin. You want it cold.
+2. First prepare the **custard** component. In a large bowl, combine egg yolks and sugar. The longer you beat them, the less yellow your mixture will be (which is good). Add in cornstarch and mix.
+3. In a saucepan, high heat, combine milk and black sesame powder. 
+4. Bring to boil and remove from heat.
+5. While whisking constantly, slowly add to bowl with yolks, sugar, and cornstarch. You are tempering the egg yolks so that they won't scramble.
+6. Return the mixture to the saucepan on high heat.
+7. Bring to rolling boil, while whisking/ mixing constantly. I use a stick blender to get any lumps that may form at the bottom of the saucepan. The mixture will become custard like and coat a dipped spoon easily.
+8. Sieve into a bowl and cover the bowl with cling wrap. Since I use the blender, I don't have any clumps and have started skipping this step. You can add some black food coloring if it's too dingey grey :p.   
+9. Chill (and whisk every 10 minutes to make sure it's actually starting to chill)
+10. Now prepare the **whipped cream** component. Take out the chilled bowl, whisk, and cream. 
+11. Add cream and powdered sugar and whisk until firm peaks. Adding black sesame powder into the a noncooked component will add graininess, so if you want that, you can also add some here (I usually just like to pack the custard full of it, but if you find your custard is lacking, you could add additional powder here).  
+12. Take out the custard and whisk a bit to loosen it up. Add up to a third of the whipped cream to lighten the mixture even more. 
+13. Slowly fold in the rest of the whipped cream, making sure not to overfold (will deflate the cream).  
+14. Place into a piping bag with a tip that will fit into the hole you made.   
 
 **3. White Chocolate "Glaze":**  
 
@@ -68,7 +72,7 @@ tad bit of food coloring
 
 **Assembly**  
 
-1. First still the eclairs by piping in the pastry cream.  
+1. First fill the eclairs by piping in the pastry cream.  
 2. Make sure the white chocolate "glaze" is melted and dip the eclairs, upside down into the bowl.  
 3. Use a spatula to even it out if need be.  
 4. Add other chocolate or black sesame powder to garnish.  

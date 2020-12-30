@@ -51,12 +51,12 @@ Can see a matcha black sesame iteration here: https://www.instagram.com/p/CFhhT3
 - 15 g powdered sugar
 
 1. You need to make a custard and a whipped cream. Take your large bowl and whisk that you're going to make the whipped cream with and throw that into the fridge before you begin. You want it cold.
-2. First prepare the **custard** component. In a large bowl, combine egg yolks and cornstarch. The longer you beat them, the less yellow your mixture will be.
-3. In a saucepan, high heat, combine milk, sugar, and black sesame powder. 
+2. First prepare the **custard** component. In a large bowl, combine egg yolks and sugar. The longer you beat them, the less yellow your mixture will be (which is good). Add in cornstarch and mix.
+3. In a saucepan, high heat, combine milk and black sesame powder. 
 4. Bring to boil and remove from heat.
-5. While whisking constantly, slowly add to bowl with yolks and cornstarch. You are tempering the egg yolks so that they won't scramble.
+5. While whisking constantly, slowly add to bowl with yolks, sugar, and cornstarch. You are tempering the egg yolks so that they won't scramble.
 6. Return the mixture to the saucepan on high heat.
-7. Bring to rolling boil, while whisking/ mixing constantly. I use a stick blender to get any lumps that may form at the bottom of the saucepan. The mixture will become custard like and coat a dipped sppon easily.
+7. Bring to rolling boil, while whisking/ mixing constantly. I use a stick blender to get any lumps that may form at the bottom of the saucepan. The mixture will become custard like and coat a dipped spoon easily.
 8. Sieve into a bowl and cover the bowl with cling wrap. Since I use the blender, I don't have any clumps and have started skipping this step. You can add some black food coloring if it's too dingey grey :p.   
 9. Chill (and whisk every 10 minutes to make sure it's actually starting to chill)
 10. Now prepare the **whipped cream** component. Take out the chilled bowl, whisk, and cream. 
