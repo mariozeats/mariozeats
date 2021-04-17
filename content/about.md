@@ -15,9 +15,9 @@ I've been pretty MIA lately, but check out my insta. I'm pretty responsive there
 ______________________
 
 Hey there,  
-Thanks for stopping by. I'm Mario and I'm currently a PhD candidate in neuroscience studying Alzheimer's disease. 
+Thanks for stopping by. I'm Mario and I'm a neuroscientist studying Alzheimer's disease. 
 
-Research in lab sciences involves 90% failure and 10% success. As I'm trudging along in grad school, I figured I might as well do something to counterbalance the experiments in lab.  
+Research in lab sciences involves 90% failure and 10% success. Starting in grad school, I figured I might as well do something to counterbalance the experiments in lab.  
 
 And thus baking. I get to scour the web for protocols, then find the best aspects and combine and test, changing single variables to find the optimal conditions.  
 **Yay science!**
