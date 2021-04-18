@@ -44,7 +44,7 @@ googleAnalytics = "UA-101028546-1"
 [params.intro]
     header    = "Mario'z Eats"
 
-    paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. <br> 10.30.20 I broke the icons. :( will fix soon."
+    paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. "
 
     about     = " "
 
@@ -99,7 +99,7 @@ googleAnalytics = "UA-101028546-1"
     behance         = ""
     flickr          = ""
     instagram       = "mariozeats"
-    youtube         = "UCxBCDttUnqkbX119Py_cPsw"
+    youtube         = "channel/UCxBCDttUnqkbX119Py_cPsw"
     vimeo           = ""
     vine            = ""
     medium          = ""
