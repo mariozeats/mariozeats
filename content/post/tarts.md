@@ -39,9 +39,9 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 - 2 large eggs    
 - 2 large egg yolk  
 - 100 g granulated sugar  (you can use however much you like, this isn't that sweet though)  
-- 20 g corn starch  
+- 20 g corn starch (or less)     
 - 43 g butter  
-- 45 g olive oil (or any actually)     
+- 45 g vegetable    
 
 1. Puree the pluots into a liquid and add in lemon juice or citric acid. The main reason for this is to maintain the color, since the pluots will probably already be a bit tart. For other fruits, citric acid also enhances the taste. Reduce the puree until it thickens. This will vary drastically depending on volume. I sometimes use a skillet, with an offset lid, low heat. Other times I use a sauce pan, high heat, lots of stirring. Key is to avoid burning.  
 2. Once thick, sieve the mixture. If you have time, let cool.    
