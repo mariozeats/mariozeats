@@ -7,7 +7,7 @@ tags = ["macarons"]
 +++
 Macarons are dumb. But here's the recipe I use that produces mostly okay ones (slightly adapted, thought mostly taken from [Bottega Tinnie](https://www.instagram.com/bottegatinnie/)).  
 
-*Update: 9/5/2020.** Last few times I've used the recipe from [My Love at First Bite](https://www.instagram.com/myloveatfirstbite/), which uses 70 almond flour, 70 powdered sugar, 60 egg whites, and 50 granulated sugar. The macarons are sweeter, but shells seem to be a bit fuller. Also check out her insta for beautiful desserts.
+You might also try the recipe from [My Love at First Bite](https://www.instagram.com/myloveatfirstbite/), which uses 70 almond flour, 70 powdered sugar, 60 egg whites, and 50 granulated sugar. The macarons are sweeter, but shells seem to be a bit fuller. Also check out her insta for beautiful desserts.
 
 **1. Macaron Shells:**  *For about 12-14 1.5 inch macarons*  
 
