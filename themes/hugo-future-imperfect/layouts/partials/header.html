@@ -72,6 +72,7 @@
         <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
         {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
             {{ template "_internal/google_analytics.html" . }}
+            {{ partial "analytics.html" . }}
         {{ end }}
     </head>
     <body>

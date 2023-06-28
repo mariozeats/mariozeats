@@ -124,3 +124,6 @@ googleAnalytics = "UA-101028546-1"
     # Add support for tags and categories.
     tag = "tags"
     category = "categories"
+
+[params.google.analytics]
+id = "G-MGPRB0QBKW"
