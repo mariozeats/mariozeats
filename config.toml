@@ -1,180 +1,129 @@
-# For a description of these parameters, please visit the theme wiki.
-# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "http://www.mariozeats.com/"
-DefaultContentLanguage  = "en"
-title                   = "Mario'z Eats"
-theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
-disqusShortname         = "mariozeats-com"
-googleAnalytics         = "G-MGPRB0QBKW"
-pluralizeListTitles     = false
-disableLanguages        = []
-
-[markup.goldmark.renderer]
-  unsafe                = true
-
-[module]
-  [module.hugoVersion]
-  extended              = true
-  min                   = "0.62.0"
-
-[outputs]
-  home                  = ["html", "json", "rss"]
+baseURL = "http://www.mariozeats.com/"
+languageCode = "en-us"
+title = "Mario'z Eats"
+disqusShortname = "mariozeats-com"
+googleAnalytics = "G-MGPRB0QBKW"
 
 [params]
-  enableCDN             = false
-  cssFiles              = ["default"]
-  jsFiles               = ["default"]
-  highlightjs           = true
-  highlightjsTheme      = ""
-  highlightjsLang       = []
-  viewMorePostsLink     = "/post/"
-  readingTime           = true
-  imageStretch          = ""
-  removeBlur            = false
-  socialShare           = ["instagram", "youtube", "reddit", "email"]
-  hideEmptyStats        = false
-  toc                   = true
-  tocWords              = 400
+    # Sets the meta tag description, usually reserved for the main page
+    # description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+    # This will appear on the top left of the navigation bar
+    navbarTitle          = "Mario'z Eats"
+    # Social media buttons that appear on the sidebar
+    socialAppearAtTop    = true
+    socialAppearAtBottom = true
+    # set this to the section name if section is not post
+    #viewMorePostLink     = "/post/"
 
-  [params.meta]
-    description         = "Website for recipes so I don't forget them"
-    author              = ""
-    favicon             = false
-    svg                 = true
-    faviconVersion      = "1"
-    msColor             = "#ffffff"
-    iOSColor            = "#ffffff"
+# Optional Params
+    categoriesByCount    = true
+    includeReadingTime   = false
+    # The set of favicons used are based on the write-up from this link:
+    # https://github.com/audreyr/favicon-cheat-sheet
+    # Please see the favicon partial template for more information
+    loadFavicon          = false
+    faviconVersion       = ""
 
-  [params.header]
-    navbarTitle         = "Mario'z Eats"
-    dynamicTitles       = true
-    searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
+    # Load custom CSS or JavaScript files. This replaces the deprecated params
+    # minifiedFilesCSS and minifiedFilesJS. The variable is an array so that you
+    # can load multiple files if necessary. You can also load the standard theme
+    # files by adding the value, "default".
+    # customCSS            = ["default", "/path/to/file"]
+    # customJS             = ["default", "/path/to/file"]
 
-  [params.intro]
-    header                = "Mario'z Eats"
-    paragraph             = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. "
-    rssIntro              = true
-    socialIntro           = true
-    hideWhenSingleColumn  = false
-    alwaysOnHomepage      = false
+    # Loading min files for exampleSite
+#    customCSS            = ["/css/main.min.css"]
+#    customJS             = ["/js/main.min.js"]
 
-    [params.intro.pic]
-      src                 = "https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/16584832_298712787211654_1332930382915436544_n.jpg"
-      shape               = "circle"
-      width               = ""
-      alt                 = "Mario'z Eats"
+    # Loading default files
+    customCSS            = ["default"]
+    customJS             = ["default"]
 
-  [params.sidebar]
-    about               = ""
-    postAmount          = 5
-    categories          = true
-    categoriesByCount   = true
+# parms.intro will appear on the sidebar
+# This is optional, but it's suggested to use
+[params.intro]
+    header    = "Mario'z Eats"
 
-  [params.footer]
-    rssFooter           = true
-    socialFooter        = true
+    paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. "
 
-  [params.utterances]
-    enabled             = false
-    repo                = ""
-    issueTerm           = "pathname"
-    issueNumber         = ""
-    label               = ""
-    theme               = "github-light"
+    about     = " "
 
-  [params.staticman]
-    enabled             = true
-    api                 = ""  # No Trailing Slash
-    gitProvider         = ""
-    username            = ""
-    repo                = ""
-    branch              = ""
+# This will also appear on the sidebar.
+# A width of less than 100px is recommended
+# This is optional
+#[params.intro.pic]
+#    src       = "https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/16584832_298712787211654_1332930382915436544_n.jpg"
+#    # modify your picture in the shape of a circle or
+#    # future imperfect's hexagonal shape
+#    circle    = false
+#    imperfect = true
+#    width     = ""
+#    alt       = "Mario'z Eats"
 
-    [params.staticman.recaptcha]
-      siteKey           = ""
-      encryptedKey      = ""
+# Adjust the amount of recent posts on the sidebar.
+# This is optional. The default value 5 will be used
+[params.postAmount]
+    sidebar = 5
 
-[menu]
+# Set up your menu items in the navigation bar
+# You can use identifier to prepend a font awesome icon to your text
+[[menu.main]]
+    name = " Useful Recipes"
+    url = "/post/usefulrecipes/"
+    identifier = "fas fa-bread-slice"
+    weight = 3
 
-  [[menu.main]]
-    name              = "About"
-    identifier        = "/about/"
-    url               = ""
-    pre               = "<i class='fa fa-flask'></i>"
-    weight            = 1
+[[menu.main]]
+    name = " Categories"
+    url = "/categories/"
+    identifier = "fas fa-network-wired"
+    weight = 2
 
-  [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "about"
-    pre               = "<i class='fas fa-network-wired'></i>"
-    weight            = 2
+[[menu.main]]
+    name = " About"
+    url = "/about"
+    identifier = "fa fa-flask"
+    weight = 1
 
-  [[menu.main]]
-    name              = "Useful Recipes"
-    identifier        = "usefulrecipes"
-    url               = "/post/usefulrecipes/"
-    pre               = "<i class='fas fa-bread-slice'></i>"
-    weight            = 3
-
-
-[Languages]
-
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
-    
+# Insert your username and the icon will apear on the page as long as
+# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
+# The social media icons will appear on the sidebar
 [social]
-  # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = ""
-  behance               = ""
-  dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
-  # Professional/Business Oriented Communities
-  linkedin              = ""
-  linkedin_company      = ""
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = ""
-  # Social Networks
-  facebook              = ""
-  googleplus            = ""
-  reddit                = "mariozeats"
-  quora                 = ""
-  youtube               = "channel/UCxBCDttUnqkbX119Py_cPsw"
-  vimeo                 = ""
-  tiktok                = "mariozeats"
-  whatsapp              = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = "mariozeats"
-  tumblr                = ""
-  twitter               = ""
-  strava                = ""
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = ""
-  telegram              = ""
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = ""
-  keybase               = ""
-  mastodon              = ""
-  # Email
-  email                 = "mariozeatsdessert@gmail.com"
+    github          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = "mariozeats"
+    youtube         = "channel/UCxBCDttUnqkbX119Py_cPsw"
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = "mariozeats"
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
+    tiktok          = "mariozeats"
+    email           = "mariozeatsdessert@gmail.com"
+    
+
+[taxonomies]
+    # Add support for tags and categories.
+    tag = "tags"
+    category = "categories"
+
+[params.google.analytics]
+id = "G-MGPRB0QBKW"
