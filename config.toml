@@ -42,7 +42,7 @@ googleAnalytics = "G-MGPRB0QBKW"
   identifier = "fa fa-flask"
   weight = 1
 
-[social]
+[params.social]
   github = ""
   instagram = "mariozeats"
   youtube = "channel/UCxBCDttUnqkbX119Py_cPsw"

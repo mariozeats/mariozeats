@@ -11,7 +11,7 @@
   
       <ul class="icons">
         {{ if .Site.Params.socialAppearAtTop }}
-          {{ partial "social" . }}
+          {{ partial "social.html" . }}
         {{ end }}
       </ul>
     </section>
@@ -51,7 +51,7 @@
     <section id="footer">
       <ul class="icons">
         {{ if .Site.Params.socialAppearAtBottom }}
-          {{ partial "social" . }}
+          {{ partial "social.html" . }}
         {{ end }}
       </ul>
     </section>

@@ -34,7 +34,7 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 
 **2i. Pluot Curd: [for one 6-9in tart]**   
   
-- several pitted pluots/ plums, (I used like 5 or 6)// of ~150 g of puree/ juice    
+- several pitted pluots/ plums, (I used like 5 or 6)// or ~150 g of puree/ juice    
 - a few g of citric acid or lemon juice  
 - 2 large eggs    
 - 2 large egg yolk  
