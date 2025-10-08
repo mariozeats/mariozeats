@@ -1,0 +1,8 @@
+[build]
+  publish = "public"
+  command = "hugo --theme=hugo-future-imperfect"
+
+[context.production.environment]
+  HUGO_VERSION = "0.151.0"
+  HUGO_ENV = "production"
+  HUGO_EXTENDED = "true"
