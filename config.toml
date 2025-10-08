@@ -1,8 +1,12 @@
 baseURL = "http://www.mariozeats.com/"
 languageCode = "en-us"
 title = "Mario'z Eats"
-disqusShortname = "mariozeats-com"
 googleAnalytics = "G-MGPRB0QBKW"
+theme = "hugo-future-imperfect"
+
+[services]
+    [services.disqus]
+    shortname = "mariozeats-com"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
@@ -14,6 +18,7 @@ googleAnalytics = "G-MGPRB0QBKW"
     socialAppearAtBottom = true
     # set this to the section name if section is not post
     #viewMorePostLink     = "/post/"
+    home                  = "/usefulrecipes/"
 
 # Optional Params
     categoriesByCount    = true
@@ -127,3 +132,8 @@ googleAnalytics = "G-MGPRB0QBKW"
 
 [params.google.analytics]
 id = "G-MGPRB0QBKW"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+ignoreLogs = ["warning-goldmark-raw-html"]

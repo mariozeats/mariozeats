@@ -19,11 +19,14 @@
                     <p>{{ .paragraph | safeHTML }}</p>
                 </header>
             {{ end }}
+
             <ul class="icons">
-                {{ if .RSSLink }}
-                    <li><a href="{{ .RSSLink }}" type="application/rss+xml"
-                        target="_blank" title="RSS" class="fas fa-rss"></a></li>
-                {{ end }}
+                <!-- RSS icon -->
+                {{ $rss := "/" | absURL | printf "%sindex.xml" }}
+                    <li><a href="{{ $rss }}" type="application/rss+xml"
+                    target="_blank" title="RSS" class="fas fa-rss"></a></li>
+
+                <!-- Social icons -->
                 {{ if .Site.Params.socialAppearAtTop }}
                     {{ partial "social" . }}
                 {{ end }}
@@ -127,10 +130,9 @@
     <!-- Footer -->
         <section id="footer">
             <ul class="icons">
-                {{ if .RSSLink }}
-                    <li><a href="{{ .RSSLink }}" type="application/rss+xml"
-                        target="_blank" title="RSS" class="fas fa-rss"></a></li>
-                {{ end }}
+                {{ $rss := "/" | absURL | printf "%sindex.xml" }}
+                <li><a href="{{ $rss }}" type="application/rss+xml"
+                    target="_blank" title="RSS" class="fas fa-rss"></a></li>
                 {{ if .Site.Params.socialAppearAtBottom }}
                     {{ partial "social" . }}
                 {{ end }}
