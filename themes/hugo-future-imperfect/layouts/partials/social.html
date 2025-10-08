@@ -1,28 +1,31 @@
 {{ with .Site.Params.social.github }}
-<li><a href="//github.com/{{.}}" target="_blank" title="GitHub" class="fab fa-github"></a></li>
+<li><a href="//github.com/{{ . }}" target="_blank" title="GitHub" class="fab fa-github"></a></li>
 {{ end }}
 
 {{ with .Site.Params.social.instagram }}
-<li><a href="//instagram.com/{{.}}" target="_blank" title="Instagram" class="fab fa-instagram"></a></li>
+<li><a href="//instagram.com/{{ . }}" target="_blank" title="Instagram" class="fab fa-instagram"></a></li>
 {{ end }}
 
 {{ with .Site.Params.social.youtube }}
-<li><a href="//youtube.com/{{.}}" target="_blank" title="YouTube" class="fab fa-youtube"></a></li>
+<li><a href="//youtube.com/{{ . }}" target="_blank" title="YouTube" class="fab fa-youtube"></a></li>
 {{ end }}
 
 {{ with .Site.Params.social.reddit }}
-<li><a href="//reddit.com/user/{{.}}" target="_blank" title="Reddit" class="fab fa-reddit"></a></li>
+<li><a href="//reddit.com/user/{{ . }}" target="_blank" title="Reddit" class="fab fa-reddit"></a></li>
 {{ end }}
 
 {{ with .Site.Params.social.facebook }}
-<li><a href="//facebook.com/{{.}}" target="_blank" title="Facebook" class="fab fa-facebook"></a></li>
+<li><a href="//facebook.com/{{ . }}" target="_blank" title="Facebook" class="fab fa-facebook"></a></li>
 {{ end }}
 
 {{ with .Site.Params.social.twitter }}
-<li><a href="//twitter.com/{{.}}" target="_blank" title="Twitter" class="fab fa-twitter"></a></li>
+<li><a href="//twitter.com/{{ . }}" target="_blank" title="Twitter" class="fab fa-twitter"></a></li>
 {{ end }}
 
+{{ with .Site.Params.social.tiktok }}
+<li><a href="//tiktok.com/@{{ . }}" target="_blank" title="TikTok" class="fab fa-tiktok"></a></li>
+{{ end }}
 
 {{ with .Site.Params.social.email }}
-<li><a href="mailto:{{.}}" title="Email" class="fas fa-envelope"></a></li>
+<li><a href="mailto:{{ . }}" title="Email" class="fas fa-envelope"></a></li>
 {{ end }}

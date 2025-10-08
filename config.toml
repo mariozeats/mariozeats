@@ -2,6 +2,7 @@ baseURL = "https://www.mariozeats.com/"
 languageCode = "en-us"
 title = "Mario'z Eats"
 theme = "hugo-future-imperfect"
+googleAnalytics = "G-MGPRB0QBKW"
 
 [params]
   navbarTitle          = "Mario'z Eats"
@@ -11,48 +12,50 @@ theme = "hugo-future-imperfect"
   categoriesByCount    = true
   includeReadingTime   = false
 
-[params.social]
-  instagram = "mariozeats"
-  youtube = "channel/UCxBCDttUnqkbX119Py_cPsw"
-  reddit = "mariozeats"
-  email = "mariozeatsdessert@gmail.com"
+  customCSS            = ["default"]
+  customJS             = ["default"]
 
-[params.intro]
-  header    = "Mario'z Eats"
-  paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. "
-  about     = " "
+  [params.intro]
+    header    = "Mario'z Eats"
+    paragraph = "Neuroscientist. <br>Baker. <br>Follow my progress on IG :3."
+    about     = " "
 
-[params.postAmount]
-  sidebar = 5
+  [params.postAmount]
+    sidebar = 5
 
-[[menu.main]]
-name = " Useful Recipes"
-url = "/post/usefulrecipes/"
-identifier = "fas fa-bread-slice"
-weight = 3
-
-[[menu.main]]
-name = " Categories"
-url = "/categories/"
-identifier = "fas fa-network-wired"
-weight = 2
+  [params.social]
+    github          = ""
+    instagram       = "mariozeats"
+    youtube         = "channel/UCxBCDttUnqkbX119Py_cPsw"
+    reddit          = "mariozeats"
+    tiktok          = "mariozeats"
+    email           = "mariozeatsdessert@gmail.com"
+    facebook        = ""
+    twitter         = ""
 
 [[menu.main]]
-name = " About"
-url = "/about/"
-identifier = "fa fa-flask"
-weight = 1
+  name = " Useful Recipes"
+  url = "/post/usefulrecipes/"
+  identifier = "fas fa-bread-slice"
+  weight = 3
+
+[[menu.main]]
+  name = " Categories"
+  url = "/categories/"
+  identifier = "fas fa-network-wired"
+  weight = 2
+
+[[menu.main]]
+  name = " About"
+  url = "/about"
+  identifier = "fa fa-flask"
+  weight = 1
 
 [taxonomies]
-tag = "tags"
-category = "categories"
-
-[services]
- # [services.disqus]
- # shortname = "mariozeats-com"
+  tag = "tags"
+  category = "categories"
 
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
-
 ignoreLogs = ["warning-goldmark-raw-html"]

@@ -1,3 +1,4 @@
+<!-- Sidebar -->
 <section id="sidebar">
 
     <!-- Intro -->
@@ -9,13 +10,9 @@
             </header>
         {{ end }}
 
+        <!-- Social icons -->
         <ul class="icons">
-            {{ $rss := "/" | absURL | printf "%sindex.xml" }}
-            <li><a href="{{ $rss }}" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
-
-            {{ if .Site.Params.socialAppearAtTop }}
-                {{ partial "social" . }}
-            {{ end }}
+            {{ partial "social" . }}
         </ul>
     </section>
 
@@ -25,9 +22,11 @@
             <header>
                 <h3>Recent Posts</h3>
             </header>
-            {{ $posts := where .Site.RegularPages "Type" "post" }}
-            {{ $limit := cond .Site.Params.postAmount.sidebar .Site.Params.postAmount.sidebar 5 }}
-            {{ range first $limit $posts }}
+
+            {{ $recentPosts := where .Site.RegularPages "Type" "post" }}
+            {{ $postLimit := .Site.Params.postAmount.sidebar | default 5 }}
+
+            {{ range first $postLimit $recentPosts }}
                 <li>
                     <article>
                         <header>
@@ -39,26 +38,17 @@
                     </article>
                 </li>
             {{ end }}
-        </ul>
-    </section>
 
-    <!-- About -->
-    {{ with .Site.Params.intro.about }}
-    <section class="blurb">
-        <h2>About</h2>
-        <p>{{ . }}</p>
-        <ul class="actions">
-            <li><a href="/about/" class="button">Learn More</a></li>
-        </ul>
-    </section>
-    {{ end }}
-
-    <!-- Footer -->
-    <section id="footer">
-        <ul class="icons">
-            <li><a href="{{ $rss }}" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
-            {{ if .Site.Params.socialAppearAtTop }}
-                {{ partial "social" . }}
+            {{ if ge (len $recentPosts) $postLimit }}
+                <li>
+                    <ul class="actions">
+                        <li>
+                            <a href="{{ .Site.Params.viewMorePostLink | default "/post/" }}" class="button">
+                                View more posts
+                            </a>
+                        </li>
+                    </ul>
+                </li>
             {{ end }}
         </ul>
     </section>

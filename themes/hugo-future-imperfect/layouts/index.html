@@ -1,14 +1,16 @@
 {{ partial "header" . }}
-{{ $.Scratch.Set "shareNav" true }}
 {{ partial "navbar" . }}
 
+<!-- Main Content -->
 <div id="main">
     {{ $latest := first 1 (where .Site.RegularPages "Type" "post") }}
     {{ range $latest }}
-        {{ partial "content-single" . }}
+        {{ .Render "content-single" }}
         {{ partial "share-menu" . }}
     {{ end }}
 </div>
 
+<!-- Sidebar -->
 {{ partial "sidebar" . }}
+
 {{ partial "footer" . }}
