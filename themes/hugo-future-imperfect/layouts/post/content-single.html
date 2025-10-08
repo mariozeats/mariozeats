@@ -19,12 +19,3 @@
 </article>
 
 {{ .Render "prev-next" }}
-
-{{ with site.Params.services.disqus.shortname }}
-    {{ $disqusShortname := . }}
-    {{ if not (in (printf "%#v" $.Site.BaseURL) "localhost") }}
-        <article class="post">
-            {{ template "_internal/disqus.html" (dict "Page" . "Shortname" $disqusShortname) }}
-        </article>
-    {{ end }}
-{{ end }}

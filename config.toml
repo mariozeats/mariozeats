@@ -1,60 +1,57 @@
 baseURL = "https://www.mariozeats.com/"
 languageCode = "en-us"
 title = "Mario'z Eats"
-googleAnalytics = "G-MGPRB0QBKW"
 theme = "hugo-future-imperfect"
 
-[services]
-    [services.disqus]
-    shortname = "mariozeats-com"
-
 [params]
-    navbarTitle          = "Mario'z Eats"
-    socialAppearAtTop    = true
-    socialAppearAtBottom = true
-    home                 = "/usefulrecipes/"
-    categoriesByCount    = true
-    includeReadingTime   = false
-    customCSS            = ["default"]
-    customJS             = ["default"]
+  navbarTitle          = "Mario'z Eats"
+  socialAppearAtTop    = true
+  socialAppearAtBottom = true
+  home                 = "/usefulrecipes/"
+  categoriesByCount    = true
+  includeReadingTime   = false
 
+[params.social]
+  github = ""
+  instagram = "mariozeats"
+  youtube = "channel/UCxBCDttUnqkbX119Py_cPsw"
+  reddit = "mariozeats"
+  tiktok = "mariozeats"
+  email = "mariozeatsdessert@gmail.com"
+  
 [params.intro]
-    header    = "Mario'z Eats"
-    paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3."
-    about     = " "
+  header    = "Mario'z Eats"
+  paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. "
+  about     = " "
 
 [params.postAmount]
-    sidebar = 5
+  sidebar = 5
 
 [[menu.main]]
-    name = " Useful Recipes"
-    url = "/post/usefulrecipes/"
-    identifier = "fas fa-bread-slice"
-    weight = 3
+name = " Useful Recipes"
+url = "/post/usefulrecipes/"
+identifier = "fas fa-bread-slice"
+weight = 3
 
 [[menu.main]]
-    name = " Categories"
-    url = "/categories/"
-    identifier = "fas fa-network-wired"
-    weight = 2
+name = " Categories"
+url = "/categories/"
+identifier = "fas fa-network-wired"
+weight = 2
 
 [[menu.main]]
-    name = " About"
-    url = "/about/"
-    identifier = "fa fa-flask"
-    weight = 1
-
-[social]
-    github          = ""
-    instagram       = "mariozeats"
-    youtube         = "channel/UCxBCDttUnqkbX119Py_cPsw"
-    reddit          = "mariozeats"
-    tiktok          = "mariozeats"
-    email           = "mariozeatsdessert@gmail.com"
+name = " About"
+url = "/about/"
+identifier = "fa fa-flask"
+weight = 1
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
+tag = "tags"
+category = "categories"
+
+[services]
+  [services.disqus]
+  shortname = "mariozeats-com"
 
 [markup]
   [markup.goldmark.renderer]
