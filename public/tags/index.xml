@@ -2,381 +2,381 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mario&#39;z Eats</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.mariozeats.com/tags/</link>
     <description>Recent content in Tags on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Feb 2019 11:34:33 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.mariozeats.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Macarons</title>
-      <link>http://localhost:1313/tags/macarons/</link>
+      <link>https://www.mariozeats.com/tags/macarons/</link>
       <pubDate>Sat, 02 Feb 2019 11:34:33 -0700</pubDate>
-      <guid>http://localhost:1313/tags/macarons/</guid>
+      <guid>https://www.mariozeats.com/tags/macarons/</guid>
       <description></description>
     </item>
     <item>
       <title>Matcha</title>
-      <link>http://localhost:1313/tags/matcha/</link>
+      <link>https://www.mariozeats.com/tags/matcha/</link>
       <pubDate>Sat, 02 Feb 2019 11:34:33 -0700</pubDate>
-      <guid>http://localhost:1313/tags/matcha/</guid>
+      <guid>https://www.mariozeats.com/tags/matcha/</guid>
       <description></description>
     </item>
     <item>
       <title>Cakes</title>
-      <link>http://localhost:1313/tags/cakes/</link>
+      <link>https://www.mariozeats.com/tags/cakes/</link>
       <pubDate>Sun, 13 Jan 2019 17:41:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/cakes/</guid>
+      <guid>https://www.mariozeats.com/tags/cakes/</guid>
       <description></description>
     </item>
     <item>
       <title>Thaitea</title>
-      <link>http://localhost:1313/tags/thaitea/</link>
+      <link>https://www.mariozeats.com/tags/thaitea/</link>
       <pubDate>Sun, 13 Jan 2019 17:41:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/thaitea/</guid>
+      <guid>https://www.mariozeats.com/tags/thaitea/</guid>
       <description></description>
     </item>
     <item>
       <title>Tresleches</title>
-      <link>http://localhost:1313/tags/tresleches/</link>
+      <link>https://www.mariozeats.com/tags/tresleches/</link>
       <pubDate>Sun, 13 Jan 2019 17:41:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/tresleches/</guid>
+      <guid>https://www.mariozeats.com/tags/tresleches/</guid>
       <description></description>
     </item>
     <item>
       <title>Flan</title>
-      <link>http://localhost:1313/tags/flan/</link>
+      <link>https://www.mariozeats.com/tags/flan/</link>
       <pubDate>Mon, 31 Dec 2018 17:41:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/flan/</guid>
+      <guid>https://www.mariozeats.com/tags/flan/</guid>
       <description></description>
     </item>
     <item>
       <title>Caramel</title>
-      <link>http://localhost:1313/tags/caramel/</link>
+      <link>https://www.mariozeats.com/tags/caramel/</link>
       <pubDate>Fri, 06 Jul 2018 09:46:22 -0700</pubDate>
-      <guid>http://localhost:1313/tags/caramel/</guid>
+      <guid>https://www.mariozeats.com/tags/caramel/</guid>
       <description></description>
     </item>
     <item>
       <title>Crepecake</title>
-      <link>http://localhost:1313/tags/crepecake/</link>
+      <link>https://www.mariozeats.com/tags/crepecake/</link>
       <pubDate>Sun, 27 May 2018 00:44:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/crepecake/</guid>
+      <guid>https://www.mariozeats.com/tags/crepecake/</guid>
       <description></description>
     </item>
     <item>
       <title>Passionfruit</title>
-      <link>http://localhost:1313/tags/passionfruit/</link>
+      <link>https://www.mariozeats.com/tags/passionfruit/</link>
       <pubDate>Sun, 27 May 2018 00:44:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/passionfruit/</guid>
+      <guid>https://www.mariozeats.com/tags/passionfruit/</guid>
       <description></description>
     </item>
     <item>
       <title>Agaragar</title>
-      <link>http://localhost:1313/tags/agaragar/</link>
+      <link>https://www.mariozeats.com/tags/agaragar/</link>
       <pubDate>Fri, 06 Apr 2018 17:41:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/agaragar/</guid>
+      <guid>https://www.mariozeats.com/tags/agaragar/</guid>
       <description></description>
     </item>
     <item>
       <title>Mousse</title>
-      <link>http://localhost:1313/tags/mousse/</link>
+      <link>https://www.mariozeats.com/tags/mousse/</link>
       <pubDate>Wed, 28 Feb 2018 11:35:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/mousse/</guid>
+      <guid>https://www.mariozeats.com/tags/mousse/</guid>
       <description></description>
     </item>
     <item>
       <title>Raspberry</title>
-      <link>http://localhost:1313/tags/raspberry/</link>
+      <link>https://www.mariozeats.com/tags/raspberry/</link>
       <pubDate>Wed, 28 Feb 2018 11:35:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/raspberry/</guid>
+      <guid>https://www.mariozeats.com/tags/raspberry/</guid>
       <description></description>
     </item>
     <item>
       <title>Tarts</title>
-      <link>http://localhost:1313/tags/tarts/</link>
+      <link>https://www.mariozeats.com/tags/tarts/</link>
       <pubDate>Wed, 28 Feb 2018 11:35:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/tarts/</guid>
+      <guid>https://www.mariozeats.com/tags/tarts/</guid>
       <description></description>
     </item>
     <item>
       <title>Ube</title>
-      <link>http://localhost:1313/tags/ube/</link>
+      <link>https://www.mariozeats.com/tags/ube/</link>
       <pubDate>Thu, 01 Feb 2018 17:15:31 -0700</pubDate>
-      <guid>http://localhost:1313/tags/ube/</guid>
+      <guid>https://www.mariozeats.com/tags/ube/</guid>
       <description></description>
     </item>
     <item>
       <title>Banana</title>
-      <link>http://localhost:1313/tags/banana/</link>
+      <link>https://www.mariozeats.com/tags/banana/</link>
       <pubDate>Mon, 29 Jan 2018 11:35:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/banana/</guid>
+      <guid>https://www.mariozeats.com/tags/banana/</guid>
       <description></description>
     </item>
     <item>
       <title>Ganache</title>
-      <link>http://localhost:1313/tags/ganache/</link>
+      <link>https://www.mariozeats.com/tags/ganache/</link>
       <pubDate>Mon, 29 Jan 2018 11:35:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/ganache/</guid>
+      <guid>https://www.mariozeats.com/tags/ganache/</guid>
       <description></description>
     </item>
     <item>
       <title>Mochi</title>
-      <link>http://localhost:1313/tags/mochi/</link>
+      <link>https://www.mariozeats.com/tags/mochi/</link>
       <pubDate>Sat, 13 Jan 2018 11:24:52 -0700</pubDate>
-      <guid>http://localhost:1313/tags/mochi/</guid>
+      <guid>https://www.mariozeats.com/tags/mochi/</guid>
       <description></description>
     </item>
     <item>
       <title>Blacksesame</title>
-      <link>http://localhost:1313/tags/blacksesame/</link>
+      <link>https://www.mariozeats.com/tags/blacksesame/</link>
       <pubDate>Tue, 14 Nov 2017 00:44:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/blacksesame/</guid>
+      <guid>https://www.mariozeats.com/tags/blacksesame/</guid>
       <description></description>
     </item>
     <item>
       <title>Vanilla</title>
-      <link>http://localhost:1313/tags/vanilla/</link>
+      <link>https://www.mariozeats.com/tags/vanilla/</link>
       <pubDate>Tue, 14 Nov 2017 00:44:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/vanilla/</guid>
+      <guid>https://www.mariozeats.com/tags/vanilla/</guid>
       <description></description>
     </item>
     <item>
       <title>Madeleines</title>
-      <link>http://localhost:1313/tags/madeleines/</link>
+      <link>https://www.mariozeats.com/tags/madeleines/</link>
       <pubDate>Fri, 03 Nov 2017 05:20:22 -0800</pubDate>
-      <guid>http://localhost:1313/tags/madeleines/</guid>
+      <guid>https://www.mariozeats.com/tags/madeleines/</guid>
       <description></description>
     </item>
     <item>
       <title>Other</title>
-      <link>http://localhost:1313/tags/other/</link>
+      <link>https://www.mariozeats.com/tags/other/</link>
       <pubDate>Fri, 03 Nov 2017 05:20:22 -0800</pubDate>
-      <guid>http://localhost:1313/tags/other/</guid>
+      <guid>https://www.mariozeats.com/tags/other/</guid>
       <description></description>
     </item>
     <item>
       <title>Macarondesign</title>
-      <link>http://localhost:1313/tags/macarondesign/</link>
+      <link>https://www.mariozeats.com/tags/macarondesign/</link>
       <pubDate>Tue, 17 Oct 2017 11:24:52 -0700</pubDate>
-      <guid>http://localhost:1313/tags/macarondesign/</guid>
+      <guid>https://www.mariozeats.com/tags/macarondesign/</guid>
       <description></description>
     </item>
     <item>
       <title>Meringue</title>
-      <link>http://localhost:1313/tags/meringue/</link>
+      <link>https://www.mariozeats.com/tags/meringue/</link>
       <pubDate>Sun, 10 Sep 2017 09:46:22 -0700</pubDate>
-      <guid>http://localhost:1313/tags/meringue/</guid>
+      <guid>https://www.mariozeats.com/tags/meringue/</guid>
       <description></description>
     </item>
     <item>
       <title>Butterflypea</title>
-      <link>http://localhost:1313/tags/butterflypea/</link>
+      <link>https://www.mariozeats.com/tags/butterflypea/</link>
       <pubDate>Thu, 29 Jun 2017 00:44:27 -0700</pubDate>
-      <guid>http://localhost:1313/tags/butterflypea/</guid>
+      <guid>https://www.mariozeats.com/tags/butterflypea/</guid>
       <description></description>
     </item>
     <item>
       <title>Charcoal</title>
-      <link>http://localhost:1313/tags/charcoal/</link>
+      <link>https://www.mariozeats.com/tags/charcoal/</link>
       <pubDate>Thu, 22 Jun 2017 10:06:59 -0700</pubDate>
-      <guid>http://localhost:1313/tags/charcoal/</guid>
+      <guid>https://www.mariozeats.com/tags/charcoal/</guid>
       <description></description>
     </item>
     <item>
       <title>Creampuff</title>
-      <link>http://localhost:1313/tags/creampuff/</link>
+      <link>https://www.mariozeats.com/tags/creampuff/</link>
       <pubDate>Thu, 22 Jun 2017 10:06:59 -0700</pubDate>
-      <guid>http://localhost:1313/tags/creampuff/</guid>
+      <guid>https://www.mariozeats.com/tags/creampuff/</guid>
       <description></description>
     </item>
     <item>
       <title>Kiwifruit</title>
-      <link>http://localhost:1313/tags/kiwifruit/</link>
+      <link>https://www.mariozeats.com/tags/kiwifruit/</link>
       <pubDate>Wed, 14 Jun 2017 00:12:19 -0700</pubDate>
-      <guid>http://localhost:1313/tags/kiwifruit/</guid>
+      <guid>https://www.mariozeats.com/tags/kiwifruit/</guid>
       <description></description>
     </item>
     <item>
       <title>Strawberry</title>
-      <link>http://localhost:1313/tags/strawberry/</link>
+      <link>https://www.mariozeats.com/tags/strawberry/</link>
       <pubDate>Wed, 07 Jun 2017 00:13:48 -0700</pubDate>
-      <guid>http://localhost:1313/tags/strawberry/</guid>
+      <guid>https://www.mariozeats.com/tags/strawberry/</guid>
       <description></description>
     </item>
     <item>
       <title>Americanflag</title>
-      <link>http://localhost:1313/tags/americanflag/</link>
+      <link>https://www.mariozeats.com/tags/americanflag/</link>
       <pubDate>Sun, 28 May 2017 11:35:24 -0700</pubDate>
-      <guid>http://localhost:1313/tags/americanflag/</guid>
+      <guid>https://www.mariozeats.com/tags/americanflag/</guid>
       <description></description>
     </item>
     <item>
       <title>Swissbuttercream</title>
-      <link>http://localhost:1313/tags/swissbuttercream/</link>
+      <link>https://www.mariozeats.com/tags/swissbuttercream/</link>
       <pubDate>Mon, 01 May 2017 17:41:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/swissbuttercream/</guid>
+      <guid>https://www.mariozeats.com/tags/swissbuttercream/</guid>
       <description></description>
     </item>
     <item>
       <title>Whippedcream</title>
-      <link>http://localhost:1313/tags/whippedcream/</link>
+      <link>https://www.mariozeats.com/tags/whippedcream/</link>
       <pubDate>Tue, 11 Apr 2017 11:32:40 -0700</pubDate>
-      <guid>http://localhost:1313/tags/whippedcream/</guid>
+      <guid>https://www.mariozeats.com/tags/whippedcream/</guid>
       <description></description>
     </item>
     <item>
       <title>Choux</title>
-      <link>http://localhost:1313/tags/choux/</link>
+      <link>https://www.mariozeats.com/tags/choux/</link>
       <pubDate>Thu, 06 Apr 2017 11:35:44 -0700</pubDate>
-      <guid>http://localhost:1313/tags/choux/</guid>
+      <guid>https://www.mariozeats.com/tags/choux/</guid>
       <description></description>
     </item>
     <item>
       <title>Eclair</title>
-      <link>http://localhost:1313/tags/eclair/</link>
+      <link>https://www.mariozeats.com/tags/eclair/</link>
       <pubDate>Thu, 06 Apr 2017 11:35:44 -0700</pubDate>
-      <guid>http://localhost:1313/tags/eclair/</guid>
+      <guid>https://www.mariozeats.com/tags/eclair/</guid>
       <description></description>
     </item>
     <item>
       <title>Cremebrulee</title>
-      <link>http://localhost:1313/tags/cremebrulee/</link>
+      <link>https://www.mariozeats.com/tags/cremebrulee/</link>
       <pubDate>Wed, 22 Mar 2017 11:36:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/cremebrulee/</guid>
+      <guid>https://www.mariozeats.com/tags/cremebrulee/</guid>
       <description></description>
     </item>
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/tags/art/</link>
+      <link>https://www.mariozeats.com/tags/art/</link>
       <pubDate>Mon, 20 Mar 2017 11:35:17 -0700</pubDate>
-      <guid>http://localhost:1313/tags/art/</guid>
+      <guid>https://www.mariozeats.com/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Rose</title>
-      <link>http://localhost:1313/tags/rose/</link>
+      <link>https://www.mariozeats.com/tags/rose/</link>
       <pubDate>Mon, 20 Mar 2017 11:35:17 -0700</pubDate>
-      <guid>http://localhost:1313/tags/rose/</guid>
+      <guid>https://www.mariozeats.com/tags/rose/</guid>
       <description></description>
     </item>
     <item>
       <title>Curd</title>
-      <link>http://localhost:1313/tags/curd/</link>
+      <link>https://www.mariozeats.com/tags/curd/</link>
       <pubDate>Tue, 14 Mar 2017 11:35:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/curd/</guid>
+      <guid>https://www.mariozeats.com/tags/curd/</guid>
       <description></description>
     </item>
     <item>
       <title>Chocolate</title>
-      <link>http://localhost:1313/tags/chocolate/</link>
+      <link>https://www.mariozeats.com/tags/chocolate/</link>
       <pubDate>Thu, 09 Mar 2017 11:34:57 -0700</pubDate>
-      <guid>http://localhost:1313/tags/chocolate/</guid>
+      <guid>https://www.mariozeats.com/tags/chocolate/</guid>
       <description></description>
     </item>
     <item>
       <title>Bloodorange</title>
-      <link>http://localhost:1313/tags/bloodorange/</link>
+      <link>https://www.mariozeats.com/tags/bloodorange/</link>
       <pubDate>Tue, 28 Feb 2017 11:59:16 -0700</pubDate>
-      <guid>http://localhost:1313/tags/bloodorange/</guid>
+      <guid>https://www.mariozeats.com/tags/bloodorange/</guid>
       <description></description>
     </item>
     <item>
       <title>Kiwi</title>
-      <link>http://localhost:1313/tags/kiwi/</link>
+      <link>https://www.mariozeats.com/tags/kiwi/</link>
       <pubDate>Mon, 27 Feb 2017 17:41:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/kiwi/</guid>
+      <guid>https://www.mariozeats.com/tags/kiwi/</guid>
       <description></description>
     </item>
     <item>
       <title>Sponge</title>
-      <link>http://localhost:1313/tags/sponge/</link>
+      <link>https://www.mariozeats.com/tags/sponge/</link>
       <pubDate>Mon, 27 Feb 2017 17:41:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/sponge/</guid>
+      <guid>https://www.mariozeats.com/tags/sponge/</guid>
       <description></description>
     </item>
     <item>
       <title>Mango</title>
-      <link>http://localhost:1313/tags/mango/</link>
+      <link>https://www.mariozeats.com/tags/mango/</link>
       <pubDate>Thu, 02 Feb 2017 11:34:33 -0700</pubDate>
-      <guid>http://localhost:1313/tags/mango/</guid>
+      <guid>https://www.mariozeats.com/tags/mango/</guid>
       <description></description>
     </item>
     <item>
       <title>Blackberry</title>
-      <link>http://localhost:1313/tags/blackberry/</link>
+      <link>https://www.mariozeats.com/tags/blackberry/</link>
       <pubDate>Thu, 26 Jan 2017 17:40:26 -0700</pubDate>
-      <guid>http://localhost:1313/tags/blackberry/</guid>
+      <guid>https://www.mariozeats.com/tags/blackberry/</guid>
       <description></description>
     </item>
     <item>
       <title>Moussecakes</title>
-      <link>http://localhost:1313/tags/moussecakes/</link>
+      <link>https://www.mariozeats.com/tags/moussecakes/</link>
       <pubDate>Thu, 26 Jan 2017 17:40:26 -0700</pubDate>
-      <guid>http://localhost:1313/tags/moussecakes/</guid>
+      <guid>https://www.mariozeats.com/tags/moussecakes/</guid>
       <description></description>
     </item>
     <item>
       <title>Pistachio</title>
-      <link>http://localhost:1313/tags/pistachio/</link>
+      <link>https://www.mariozeats.com/tags/pistachio/</link>
       <pubDate>Thu, 12 Jan 2017 11:34:12 -0700</pubDate>
-      <guid>http://localhost:1313/tags/pistachio/</guid>
+      <guid>https://www.mariozeats.com/tags/pistachio/</guid>
       <description></description>
     </item>
     <item>
       <title>Guava</title>
-      <link>http://localhost:1313/tags/guava/</link>
+      <link>https://www.mariozeats.com/tags/guava/</link>
       <pubDate>Tue, 13 Dec 2016 17:41:01 -0700</pubDate>
-      <guid>http://localhost:1313/tags/guava/</guid>
+      <guid>https://www.mariozeats.com/tags/guava/</guid>
       <description></description>
     </item>
     <item>
       <title>Cranberry</title>
-      <link>http://localhost:1313/tags/cranberry/</link>
+      <link>https://www.mariozeats.com/tags/cranberry/</link>
       <pubDate>Sun, 27 Nov 2016 17:41:15 -0700</pubDate>
-      <guid>http://localhost:1313/tags/cranberry/</guid>
+      <guid>https://www.mariozeats.com/tags/cranberry/</guid>
       <description></description>
     </item>
     <item>
       <title>Icecreamcake</title>
-      <link>http://localhost:1313/tags/icecreamcake/</link>
+      <link>https://www.mariozeats.com/tags/icecreamcake/</link>
       <pubDate>Sun, 27 Nov 2016 17:41:15 -0700</pubDate>
-      <guid>http://localhost:1313/tags/icecreamcake/</guid>
+      <guid>https://www.mariozeats.com/tags/icecreamcake/</guid>
       <description></description>
     </item>
     <item>
       <title>Rambutan</title>
-      <link>http://localhost:1313/tags/rambutan/</link>
+      <link>https://www.mariozeats.com/tags/rambutan/</link>
       <pubDate>Mon, 07 Nov 2016 11:34:26 -0700</pubDate>
-      <guid>http://localhost:1313/tags/rambutan/</guid>
+      <guid>https://www.mariozeats.com/tags/rambutan/</guid>
       <description></description>
     </item>
     <item>
       <title>Darkchocolate</title>
-      <link>http://localhost:1313/tags/darkchocolate/</link>
+      <link>https://www.mariozeats.com/tags/darkchocolate/</link>
       <pubDate>Sat, 05 Nov 2016 17:15:31 -0700</pubDate>
-      <guid>http://localhost:1313/tags/darkchocolate/</guid>
+      <guid>https://www.mariozeats.com/tags/darkchocolate/</guid>
       <description></description>
     </item>
     <item>
       <title>Lavacakes</title>
-      <link>http://localhost:1313/tags/lavacakes/</link>
+      <link>https://www.mariozeats.com/tags/lavacakes/</link>
       <pubDate>Sat, 05 Nov 2016 17:15:31 -0700</pubDate>
-      <guid>http://localhost:1313/tags/lavacakes/</guid>
+      <guid>https://www.mariozeats.com/tags/lavacakes/</guid>
       <description></description>
     </item>
     <item>
       <title>Pomegrante</title>
-      <link>http://localhost:1313/tags/pomegrante/</link>
+      <link>https://www.mariozeats.com/tags/pomegrante/</link>
       <pubDate>Mon, 24 Oct 2016 16:11:56 -0700</pubDate>
-      <guid>http://localhost:1313/tags/pomegrante/</guid>
+      <guid>https://www.mariozeats.com/tags/pomegrante/</guid>
       <description></description>
     </item>
     <item>
       <title>Buttercream</title>
-      <link>http://localhost:1313/tags/buttercream/</link>
+      <link>https://www.mariozeats.com/tags/buttercream/</link>
       <pubDate>Fri, 01 Jan 2016 15:24:07 -0700</pubDate>
-      <guid>http://localhost:1313/tags/buttercream/</guid>
+      <guid>https://www.mariozeats.com/tags/buttercream/</guid>
       <description></description>
     </item>
   </channel>
