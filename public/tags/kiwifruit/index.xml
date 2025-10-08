@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kiwifruit on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/kiwifruit/</link>
+    <link>http://localhost:1313/tags/kiwifruit/</link>
     <description>Recent content in Kiwifruit on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jun 2017 00:12:19 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/kiwifruit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kiwifruit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golden Kiwifruit Macarons</title>
-      <link>https://www.mariozeats.com/post/kiwifruitmacarons/</link>
+      <link>http://localhost:1313/post/kiwifruitmacarons/</link>
       <pubDate>Wed, 14 Jun 2017 00:12:19 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/kiwifruitmacarons/</guid>
+      <guid>http://localhost:1313/post/kiwifruitmacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4286/35455702915_a05adeb8ee_h.jpg&#34; alt=&#34;Golden Kiwifruit Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eclair on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/eclair/</link>
+    <link>http://localhost:1313/tags/eclair/</link>
     <description>Recent content in Eclair on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2017 11:35:44 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/eclair/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/eclair/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Sesame Eclairs</title>
-      <link>https://www.mariozeats.com/post/blacksesameeclairs/</link>
+      <link>http://localhost:1313/post/blacksesameeclairs/</link>
       <pubDate>Thu, 06 Apr 2017 11:35:44 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/blacksesameeclairs/</guid>
+      <guid>http://localhost:1313/post/blacksesameeclairs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4231/35335306431_36dc843c49_h.jpg&#34; alt=&#34;Black sesame eclairs&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Black sesame is delicious and so is choux, so they make a great combo :). There are a few components here. The choux pastry, the black sesame diplomat cream filling, and the glaze (which really is just white chocolate with some food coloring).&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;updated 12/2020&lt;/em&gt;: I&amp;rsquo;ve updated the diplomat cream to increase the amount (a la &lt;a href=&#34;https://www.mariozeats.com/post/blacksesamecrepecake/&#34;&gt;Black sesame crepe cake&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;Also take a look at &lt;a href=&#34;https://www.mariozeats.com/post/creampuffs&#34;&gt;Useful Recipes: Cream Puffs&lt;/a&gt; to see how to make a craquelin, which is also super delicious.&lt;/p&gt;</description>
     </item>
   </channel>

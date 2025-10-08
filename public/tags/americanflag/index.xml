@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Americanflag on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/americanflag/</link>
+    <link>http://localhost:1313/tags/americanflag/</link>
     <description>Recent content in Americanflag on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 May 2017 11:35:24 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/americanflag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/americanflag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>American Flag Macarons</title>
-      <link>https://www.mariozeats.com/post/americanflagmacarons/</link>
+      <link>http://localhost:1313/post/americanflagmacarons/</link>
       <pubDate>Sun, 28 May 2017 11:35:24 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/americanflagmacarons/</guid>
+      <guid>http://localhost:1313/post/americanflagmacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4213/35079022730_4b13941b2f_h.jpg&#34; alt=&#34;American Flag Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
   </channel>

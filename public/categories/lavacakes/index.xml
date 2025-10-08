@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lavacakes on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/categories/lavacakes/</link>
+    <link>http://localhost:1313/categories/lavacakes/</link>
     <description>Recent content in Lavacakes on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 17:15:31 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/categories/lavacakes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 May 2017 11:56:51 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/lavacakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragonfruit Dark Chocolate Lava Cake and Dragonfruit Sorbet</title>
+      <link>http://localhost:1313/post/dragonfruitchocolatelavacake/</link>
+      <pubDate>Wed, 03 May 2017 11:56:51 -0700</pubDate>
+      <guid>http://localhost:1313/post/dragonfruitchocolatelavacake/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;&#34; alt=&#34;Dragonfruit Lava Cakes&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I had been looking for a red dragonfruit for the longest time and finally found one! The last time I made something with dragonfruit I realized it probably would have tasted better as a sorbet and drizzle on a lava cake. Ended up doing that + making it the filling!&lt;/p&gt;&#xA;&lt;p&gt;This recipe is for about 4ish servings. [usually 3 chocolate + inside flavor and 1 just inside flavor]. &lt;/p&gt;</description>
+    </item>
     <item>
       <title>Guava Dark Chocolate Lava Cake</title>
-      <link>https://www.mariozeats.com/post/guavachocolatelavacake/</link>
+      <link>http://localhost:1313/post/guavachocolatelavacake/</link>
       <pubDate>Sat, 05 Nov 2016 17:15:31 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/guavachocolatelavacake/</guid>
+      <guid>http://localhost:1313/post/guavachocolatelavacake/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4236/35299246412_18b1c0eab7_h.jpg&#34; alt=&#34;Guava Dark Chocolate Lava Cakes&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lava cakes are a simple and delicious dessert that don&amp;rsquo;t take much time to make and bake. Changing up the filling is super easy as well! This recipe is for about 4ish servings. [usually 3 chocolate + inside flavor and 1 just inside flavor]. &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;NOTE 1:&lt;/em&gt; This is my first time using a fruit puree in the lava cake base, so it made it a bit runny. However, chilling it in the fridge for a few minutes before piping it into the ramekin helped.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matcha Dark Chocolate Lava Cake</title>
+      <link>http://localhost:1313/post/matchachocolatelavacake/</link>
+      <pubDate>Sun, 09 Oct 2016 11:33:46 -0700</pubDate>
+      <guid>http://localhost:1313/post/matchachocolatelavacake/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

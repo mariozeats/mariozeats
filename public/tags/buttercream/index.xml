@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buttercream on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/buttercream/</link>
+    <link>http://localhost:1313/tags/buttercream/</link>
     <description>Recent content in Buttercream on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 15:24:07 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/buttercream/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Feb 2019 17:41:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/buttercream/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ispahan Layer Cake</title>
+      <link>http://localhost:1313/post/ispahanlayercake/</link>
+      <pubDate>Thu, 14 Feb 2019 17:41:37 -0700</pubDate>
+      <guid>http://localhost:1313/post/ispahanlayercake/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s the recipe&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Swiss Meringue Buttercream</title>
-      <link>https://www.mariozeats.com/post/smbc/</link>
+      <link>http://localhost:1313/post/smbc/</link>
       <pubDate>Fri, 01 Jan 2016 15:24:07 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/smbc/</guid>
+      <guid>http://localhost:1313/post/smbc/</guid>
       <description>&lt;p&gt;Lots of people use buttercreams for macarons. I don&amp;rsquo;t because I always kill it. But I do use buttercreams for cakes if I need them to be stable (I usually prefer whipped creams since they&amp;rsquo;re light and not too sweet). For buttercreams though, you should do a Swiss Meringue if you want something that&amp;rsquo;s light. Never make an American one since those are all sugar! :p. They&amp;rsquo;re easy to flavor as well. Literally just add whatever flavor you want to the base. I didn&amp;rsquo;t adapt this recipe. I just make as is from &lt;a href=&#34;https://livforcake.com/swiss-meringue-buttercream-recipe/&#34;&gt;Liv for Cake&lt;/a&gt;. I suggest just going to her website because you can adjust serving sizes and make US or metric!&#xA;I&amp;rsquo;ll still list it, but yeah, just go there.&lt;/p&gt;</description>
     </item>
   </channel>

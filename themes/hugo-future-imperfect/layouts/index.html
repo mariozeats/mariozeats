@@ -1,13 +1,14 @@
 {{ partial "header" . }}
-    {{ $.Scratch.Set "shareNav" true }}
-    {{ partial "navbar" . }}
-    <!-- Main -->
-    <div id="main">
-        {{ $latest := first 1 (where .Site.RegularPages "Type" "post") }}
-        {{ range $latest }}
-            {{ .Render "content-single" }}
-            {{ partial "share-menu" . }}
-        {{ end }}
-    </div>
-    {{ partial "sidebar" . }}
+{{ $.Scratch.Set "shareNav" true }}
+{{ partial "navbar" . }}
+
+<div id="main">
+    {{ $latest := first 1 (where .Site.RegularPages "Type" "post") }}
+    {{ range $latest }}
+        {{ .Render "content-single" }}
+        {{ partial "share-menu" . }}
+    {{ end }}
+</div>
+
+{{ partial "sidebar" . }}
 {{ partial "footer" . }}

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icecreamcake on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/icecreamcake/</link>
+    <link>http://localhost:1313/tags/icecreamcake/</link>
     <description>Recent content in Icecreamcake on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Nov 2016 17:41:15 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/icecreamcake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/icecreamcake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cranberry Vanilla Ice Cream Cake</title>
-      <link>https://www.mariozeats.com/post/cranberryvanillaicecreamcake/</link>
+      <link>http://localhost:1313/post/cranberryvanillaicecreamcake/</link>
       <pubDate>Sun, 27 Nov 2016 17:41:15 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/cranberryvanillaicecreamcake/</guid>
+      <guid>http://localhost:1313/post/cranberryvanillaicecreamcake/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4281/34656195623_80ead48ccb_h.jpg&#34; alt=&#34;Cranberry Vanilla Ice Cream Cake&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For Thanksgiving one of my friends jokingly suggested I make an ice cream cake. I followed through!&lt;/p&gt;&#xA;&lt;p&gt;This particular recipe has 5 main components: the sponge layers, cranberry puree (used in ice cream and glaze), the ice cream layers, the whipped cream frosting, and the mirror glaze. The recipe seems a bit daunting, but it&amp;rsquo;s pretty fool-proof and tastes great!&lt;/p&gt;&#xA;&lt;p&gt;The sponge is based off &lt;a href=&#34;http://www.foodnetwork.com/recipes/food-network-kitchens/no-churn-vanilla-ice-cream.html&#34;&gt;The Little Eppicurian&lt;/a&gt;, the mirror glaze and no churn ice creams are adapted from &lt;a href=&#34;https://www.youtube.com/watch?v=pZhV63pkDBw&#34;&gt;RosannaPansino&lt;/a&gt; and the &lt;a href=&#34;http://www.foodnetwork.com/recipes/food-network-kitchens/no-churn-vanilla-ice-cream.html&#34;&gt;Food Network&lt;/a&gt;, respectively.&lt;/p&gt;</description>
     </item>
   </channel>

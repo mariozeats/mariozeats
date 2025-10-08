@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pomegrante on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/pomegrante/</link>
+    <link>http://localhost:1313/tags/pomegrante/</link>
     <description>Recent content in Pomegrante on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Oct 2016 16:11:56 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/pomegrante/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pomegrante/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pomegranate Macarons</title>
-      <link>https://www.mariozeats.com/post/pomegranatemacarons/</link>
+      <link>http://localhost:1313/post/pomegranatemacarons/</link>
       <pubDate>Mon, 24 Oct 2016 16:11:56 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/pomegranatemacarons/</guid>
+      <guid>http://localhost:1313/post/pomegranatemacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4284/35335565381_89030c1482_h.jpg&#34; alt=&#34;Pomegrante Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,52 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macarondesign on Mario&#39;z Eats</title>
-    <link>https://www.mariozeats.com/tags/macarondesign/</link>
+    <link>http://localhost:1313/tags/macarondesign/</link>
     <description>Recent content in Macarondesign on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2017 11:24:52 -0700</lastBuildDate>
-    <atom:link href="https://www.mariozeats.com/tags/macarondesign/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/macarondesign/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Passionfruit Macarons</title>
-      <link>https://www.mariozeats.com/post/passionfruitmacarons/</link>
+      <link>http://localhost:1313/post/passionfruitmacarons/</link>
       <pubDate>Tue, 17 Oct 2017 11:24:52 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/passionfruitmacarons/</guid>
+      <guid>http://localhost:1313/post/passionfruitmacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4535/37742452884_e8707d7f6c_b.jpg&#34; alt=&#34;Passionfruit Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lychee Macarons</title>
+      <link>http://localhost:1313/post/lycheemacarons/</link>
+      <pubDate>Thu, 13 Jul 2017 15:24:07 -0700</pubDate>
+      <guid>http://localhost:1313/post/lycheemacarons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fireworks Macarons</title>
+      <link>http://localhost:1313/post/fireworksmacarons/</link>
+      <pubDate>Tue, 04 Jul 2017 15:23:56 -0700</pubDate>
+      <guid>http://localhost:1313/post/fireworksmacarons/</guid>
+      <description>&lt;p&gt;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;&#xA;&lt;p&gt;Yay for freedom. Fourth of July evokes two things for me - the flag and fireworks. Since I already made the &lt;a href=&#34;www.mariozeats/americanflagmacarons&#34;&gt;American flag macarons&lt;/a&gt; for Memorial Day, I decided to go for the fireworks ones! Ideally I would have had pop rocks coating the filling, but after going to ~15 supermarkets/ corner stores I failed to find any. I also procrastinated and didn&amp;rsquo;t plan ahead (or else I would have just bought some from Amazon). I made a bit extra batter than normal because I knew I was going to need lots of different colors.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Golden Kiwifruit Macarons</title>
-      <link>https://www.mariozeats.com/post/kiwifruitmacarons/</link>
+      <link>http://localhost:1313/post/kiwifruitmacarons/</link>
       <pubDate>Wed, 14 Jun 2017 00:12:19 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/kiwifruitmacarons/</guid>
+      <guid>http://localhost:1313/post/kiwifruitmacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4286/35455702915_a05adeb8ee_h.jpg&#34; alt=&#34;Golden Kiwifruit Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>American Flag Macarons</title>
-      <link>https://www.mariozeats.com/post/americanflagmacarons/</link>
+      <link>http://localhost:1313/post/americanflagmacarons/</link>
       <pubDate>Sun, 28 May 2017 11:35:24 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/americanflagmacarons/</guid>
+      <guid>http://localhost:1313/post/americanflagmacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4213/35079022730_4b13941b2f_h.jpg&#34; alt=&#34;American Flag Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starry Night Macarons</title>
-      <link>https://www.mariozeats.com/post/starrynightmacarons/</link>
+      <link>http://localhost:1313/post/starrynightmacarons/</link>
       <pubDate>Mon, 20 Mar 2017 11:35:17 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/starrynightmacarons/</guid>
+      <guid>http://localhost:1313/post/starrynightmacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4237/35425784716_187509963e_h.jpg&#34; alt=&#34;Starry Night Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blood Orange Macarons</title>
-      <link>https://www.mariozeats.com/post/bloodorangemacarons/</link>
+      <link>http://localhost:1313/post/bloodorangemacarons/</link>
       <pubDate>Tue, 28 Feb 2017 11:59:16 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/bloodorangemacarons/</guid>
+      <guid>http://localhost:1313/post/bloodorangemacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4279/35299049512_ee46561884_h.jpg&#34; alt=&#34;BLood Orange Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mango Macarons</title>
-      <link>https://www.mariozeats.com/post/mangomacarons/</link>
+      <link>http://localhost:1313/post/mangomacarons/</link>
       <pubDate>Thu, 02 Feb 2017 11:34:33 -0700</pubDate>
-      <guid>https://www.mariozeats.com/post/mangomacarons/</guid>
+      <guid>http://localhost:1313/post/mangomacarons/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4253/35299103922_bb920ed1f4_h.jpg&#34; alt=&#34;Mango Macarons&#34;&gt;&#xA;&lt;em&gt;UPDATE 2019&lt;/em&gt; I now use 55 g almond flour, 50 g powdered sugar, 45 g egg whites, 45 g granulated sugar and bake for 25 min at 285F.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Update Jan 2020&lt;/strong&gt;, lately I&amp;rsquo;ve been doing 305F for 20min. once again you just nead to learn your oven (going to leave this recipe at 285 though). See my notes in my &lt;a href=&#34;https://www.mariozeats.com/post/macarons/&#34;&gt;General Macarons Recipe&lt;/a&gt; for the most up to date.&lt;/p&gt;</description>
     </item>
   </channel>
