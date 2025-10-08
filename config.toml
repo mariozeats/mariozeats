@@ -5,51 +5,50 @@ theme = "hugo-future-imperfect"
 googleAnalytics = "G-MGPRB0QBKW"
 
 [params]
-  navbarTitle          = "Mario'z Eats"
-  socialAppearAtTop    = true
+  navbarTitle = "Mario'z Eats"
+  socialAppearAtTop = true
   socialAppearAtBottom = true
-  home                 = "/usefulrecipes/"
-  categoriesByCount    = true
-  includeReadingTime   = false
+  home = "/usefulrecipes/"
 
-  customCSS            = ["default"]
-  customJS             = ["default"]
+  categoriesByCount = true
+  includeReadingTime = false
 
-  [params.intro]
-    header    = "Mario'z Eats"
-    paragraph = "Neuroscientist. <br>Baker. <br>Follow my progress on IG :3."
-    about     = " "
+  customCSS = ["default"]
+  customJS  = ["default"]
 
-  [params.postAmount]
-    sidebar = 5
+[params.intro]
+  header = "Mario'z Eats"
+  paragraph = "Neuroscientist. <br>Baker. <br>Follow my progress on IG :3."
+  about = ""
 
-  [params.social]
-    github          = ""
-    instagram       = "mariozeats"
-    youtube         = "channel/UCxBCDttUnqkbX119Py_cPsw"
-    reddit          = "mariozeats"
-    tiktok          = "mariozeats"
-    email           = "mariozeatsdessert@gmail.com"
-    facebook        = ""
-    twitter         = ""
+[params.postAmount]
+  sidebar = 5
 
 [[menu.main]]
-  name = " Useful Recipes"
+  name = "Useful Recipes"
   url = "/post/usefulrecipes/"
   identifier = "fas fa-bread-slice"
   weight = 3
 
 [[menu.main]]
-  name = " Categories"
+  name = "Categories"
   url = "/categories/"
   identifier = "fas fa-network-wired"
   weight = 2
 
 [[menu.main]]
-  name = " About"
-  url = "/about"
+  name = "About"
+  url = "/about/"
   identifier = "fa fa-flask"
   weight = 1
+
+[social]
+  github = ""
+  instagram = "mariozeats"
+  youtube = "channel/UCxBCDttUnqkbX119Py_cPsw"
+  reddit = "mariozeats"
+  tiktok = "mariozeats"
+  email = "mariozeatsdessert@gmail.com"
 
 [taxonomies]
   tag = "tags"

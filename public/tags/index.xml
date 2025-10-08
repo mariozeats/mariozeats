@@ -6,22 +6,8 @@
     <description>Recent content in Tags on Mario&#39;z Eats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Feb 2019 17:41:37 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 11:34:33 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Buttercream</title>
-      <link>http://localhost:1313/tags/buttercream/</link>
-      <pubDate>Thu, 14 Feb 2019 17:41:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/buttercream/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sponge</title>
-      <link>http://localhost:1313/tags/sponge/</link>
-      <pubDate>Thu, 14 Feb 2019 17:41:37 -0700</pubDate>
-      <guid>http://localhost:1313/tags/sponge/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Macarons</title>
       <link>http://localhost:1313/tags/macarons/</link>
@@ -352,6 +338,13 @@
       <description></description>
     </item>
     <item>
+      <title>Sponge</title>
+      <link>http://localhost:1313/tags/sponge/</link>
+      <pubDate>Mon, 27 Feb 2017 17:41:37 -0700</pubDate>
+      <guid>http://localhost:1313/tags/sponge/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Moussecakes</title>
       <link>http://localhost:1313/tags/moussecakes/</link>
       <pubDate>Sun, 19 Feb 2017 17:41:29 -0700</pubDate>
@@ -405,6 +398,13 @@
       <link>http://localhost:1313/tags/pomegrante/</link>
       <pubDate>Mon, 24 Oct 2016 16:11:56 -0700</pubDate>
       <guid>http://localhost:1313/tags/pomegrante/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buttercream</title>
+      <link>http://localhost:1313/tags/buttercream/</link>
+      <pubDate>Fri, 01 Jan 2016 15:24:07 -0700</pubDate>
+      <guid>http://localhost:1313/tags/buttercream/</guid>
       <description></description>
     </item>
   </channel>

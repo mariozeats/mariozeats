@@ -17,21 +17,6 @@
     <loc>http://localhost:1313/post/usefulrecipes/</loc>
     <lastmod>2021-01-26T11:35:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/buttercream/</loc>
-    <lastmod>2019-02-14T17:41:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/cakes/</loc>
-    <lastmod>2019-02-14T17:41:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/ispahanlayercake/</loc>
-    <lastmod>2019-02-14T17:41:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sponge/</loc>
-    <lastmod>2019-02-14T17:41:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-02-14T17:41:37-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/macarons/</loc>
     <lastmod>2019-02-02T11:34:33-07:00</lastmod>
   </url><url>
@@ -43,6 +28,12 @@
   </url><url>
     <loc>http://localhost:1313/post/matchamacarons/</loc>
     <lastmod>2019-02-02T11:34:33-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-02-02T11:34:33-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cakes/</loc>
+    <lastmod>2019-01-13T17:41:56-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cakes/</loc>
     <lastmod>2019-01-13T17:41:56-07:00</lastmod>
@@ -308,6 +299,9 @@
     <loc>http://localhost:1313/post/kiwilayercake/</loc>
     <lastmod>2017-02-27T17:41:37-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/sponge/</loc>
+    <lastmod>2017-02-27T17:41:37-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/mangomoussedomecakes/</loc>
     <lastmod>2017-02-19T17:41:29-07:00</lastmod>
   </url><url>
@@ -373,6 +367,9 @@
   </url><url>
     <loc>http://localhost:1313/post/matchachocolatelavacake/</loc>
     <lastmod>2016-10-09T11:33:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buttercream/</loc>
+    <lastmod>2016-01-01T15:24:07-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/cakes/</loc>
     <lastmod>2016-01-01T15:24:07-07:00</lastmod>

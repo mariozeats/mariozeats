@@ -1,56 +1,60 @@
-<!-- Sidebar -->
 <section id="sidebar">
 
     <!-- Intro -->
     <section id="intro">
-        {{ with .Site.Params.intro }}
-            <header>
-                <h2>{{ .header }}</h2>
-                <p>{{ .paragraph | safeHTML }}</p>
-            </header>
+      {{ with .Site.Params.intro }}
+        <header>
+          <h2>{{ .header }}</h2>
+          <p>{{ .paragraph | safeHTML }}</p>
+        </header>
+      {{ end }}
+  
+      <ul class="icons">
+        {{ if .Site.Params.socialAppearAtTop }}
+          {{ partial "social" . }}
         {{ end }}
-
-        <!-- Social icons -->
-        <ul class="icons">
-            {{ partial "social" . }}
-        </ul>
+      </ul>
     </section>
-
+  
     <!-- Recent Posts -->
     <section id="recent-posts">
-        <ul class="posts">
+      <ul class="posts">
+        <header>
+          <h3>Recent Posts</h3>
+        </header>
+        {{ $recent := first (.Site.Params.postAmount.sidebar | default 5) (where .Site.RegularPages "Type" "post") }}
+        {{ range $recent }}
+        <li>
+          <article>
             <header>
-                <h3>Recent Posts</h3>
+              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <time class="published" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
             </header>
-
-            {{ $recentPosts := where .Site.RegularPages "Type" "post" }}
-            {{ $postLimit := .Site.Params.postAmount.sidebar | default 5 }}
-
-            {{ range first $postLimit $recentPosts }}
-                <li>
-                    <article>
-                        <header>
-                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                            <time class="published" datetime="{{ .Date.Format "2006-01-02" }}">
-                                {{ .Date.Format "January 2, 2006" }}
-                            </time>
-                        </header>
-                    </article>
-                </li>
-            {{ end }}
-
-            {{ if ge (len $recentPosts) $postLimit }}
-                <li>
-                    <ul class="actions">
-                        <li>
-                            <a href="{{ .Site.Params.viewMorePostLink | default "/post/" }}" class="button">
-                                View more posts
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-            {{ end }}
-        </ul>
+          </article>
+        </li>
+        {{ end }}
+      </ul>
     </section>
-
-</section>
+  
+    <!-- About -->
+    {{ with .Site.Params.intro.about }}
+    <section class="blurb">
+      <h2>About</h2>
+      <p>{{ . }}</p>
+      <ul class="actions">
+        <li><a href="/about/" class="button">Learn More</a></li>
+      </ul>
+    </section>
+    {{ end }}
+  
+    <!-- Social Icons Bottom -->
+    <section id="footer">
+      <ul class="icons">
+        {{ if .Site.Params.socialAppearAtBottom }}
+          {{ partial "social" . }}
+        {{ end }}
+      </ul>
+    </section>
+  
+  </section>
+  
