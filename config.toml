@@ -12,13 +12,11 @@ theme = "hugo-future-imperfect"
   includeReadingTime   = false
 
 [params.social]
-  github = ""
   instagram = "mariozeats"
   youtube = "channel/UCxBCDttUnqkbX119Py_cPsw"
   reddit = "mariozeats"
-  tiktok = "mariozeats"
   email = "mariozeatsdessert@gmail.com"
-  
+
 [params.intro]
   header    = "Mario'z Eats"
   paragraph = "Neuroscientist. <br>Baker. <br> Follow my progress on IG :3. "
@@ -50,8 +48,8 @@ tag = "tags"
 category = "categories"
 
 [services]
-  [services.disqus]
-  shortname = "mariozeats-com"
+ # [services.disqus]
+ # shortname = "mariozeats-com"
 
 [markup]
   [markup.goldmark.renderer]

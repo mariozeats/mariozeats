@@ -5,7 +5,7 @@
 <div id="main">
     {{ $latest := first 1 (where .Site.RegularPages "Type" "post") }}
     {{ range $latest }}
-        {{ .Render "content-single" }}
+        {{ partial "content-single" . }}
         {{ partial "share-menu" . }}
     {{ end }}
 </div>
