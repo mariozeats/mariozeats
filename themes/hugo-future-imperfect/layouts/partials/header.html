@@ -54,7 +54,7 @@
              load the standard css files associated with the theme -->
         {{ if or (in ($.Scratch.Get "cssFiles") "default") (eq ($.Scratch.Get "cssFiles") false) }}
             <link rel="stylesheet" href="/css/google-font.css" />
-            <link rel="stylesheet" href="/css/font-awesome.min.css" />
+            <script src="https://kit.fontawesome.com/271d1a2b2f.js" crossorigin="anonymous"></script>
             <link rel="stylesheet" href="/css/main.css" />
             <link rel="stylesheet" href="/css/add-on.css" />
             <link rel="stylesheet" href="/css/monokai-sublime.css">

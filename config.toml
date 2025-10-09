@@ -33,7 +33,7 @@ googleAnalytics = "G-MGPRB0QBKW"
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  identifier = "fas fa-network-wired"
+  identifier = "fa-solid fa-network-wired"
   weight = 2
 
 [[menu.main]]
