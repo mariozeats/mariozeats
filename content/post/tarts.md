@@ -32,25 +32,24 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 10. Remove pie weights and parchment paper and bake for another 5 - 10 minutes. Lately, I've actually just lowered the temp to around 300F and baked for another 30 min so I can check it less often.
 11. Set aside and let cool.  
 
-**2i. Pluot Curd: [for one 6-9in tart]**   
+**2i. Passion Fruit Curd: [for one 6-9in tart]**   
   
-- several pitted pluots/ plums, (I used like 5 or 6)// or ~150 g of puree/ juice    
+- ~150 g of passion fruit juice (I use DaFruta brand) or frozen puree  
 - a few g of citric acid or lemon juice  
 - 2 large eggs    
 - 2 large egg yolk  
 - 100 g granulated sugar  (you can use however much you like, this isn't that sweet though)  
-- 10 g corn starch  
+- 10 g corn starch, sieved
 - 43 g butter  
 - 45 g vegetable oil      
 
-1. Puree the pluots into a liquid and add in lemon juice or citric acid. The main reason for this is to maintain the color, since the pluots will probably already be a bit tart. For other fruits, citric acid also enhances the taste. Reduce the puree until it thickens. This will vary drastically depending on volume. I sometimes use a skillet, with an offset lid, low heat. Other times I use a sauce pan, high heat, lots of stirring. Key is to avoid burning.  
-2. Once thick, sieve the mixture. If you have time, let cool.    
-3.  In a medium bowl, mix sugar, eggs, egg yolks, and corn starch. If your puree is still warm, add it in small batches to the egg mixture and whisk constantly to avoid scrambling of the eggs.  
-4. Add to a saucepan over medium high heat and stir stir stir. Once it heats up, add in the butter and continue to whisk. Before you know it, it can go from liquid to burnt. So make sure to monitor. Once it thickens decently well (coats your whisk or spoon), you can strain. *Note:* depending on how thick you want the curd, you can just heat for longer. Don't neglect to constantly mix, expecially once it starts to become thick.
+1. Heat up the passion fruit juice until scalding. If using a diff fruit, you can puree into a liquid and then reduce it down. For these, adding in lemon juice or citric acid can help to maintain the color and also enhance the taste. When reducing a puree, the key is to avoid burning, so stir often or pay attention more carefully if using a high heat.    
+2.  In a medium bowl, mix sugar, eggs, egg yolks, and corn starch. If your puree is still warm, add it in small batches to the egg mixture and whisk constantly to avoid scrambling of the eggs. Note: if you want the color to be less yellow (not an issue for passion fruit, but for other fruits), you can first mix the sugar and egg yolks until incorporated before adding in egg whites and corn starch.  
+3. Add to a saucepan over medium high heat and stir stir stir. Once it heats up, add in the butter and continue to whisk. Before you know it, it can go from liquid to burnt. So make sure to monitor. Once it thickens decently well (coats your whisk or spoon), you can strain. *Note:* depending on how thick you want the curd, you can just heat for longer. Don't neglect to constantly mix, expecially once it starts to become thick.  
     - Additionally, if you feel like the curd is too runny, take a few g of corn starch in a little bowl and add some curd to that. Mix thouroughly and then incorporate this back into the main batch of curd. Gelatin or agar agar also works (if it's a last minute addition though, bloomed gelatin is easier to incorporate).  
-5. Sieve the curd mixture again and then whisk in oil. Sometimes I have to use a hand blender to get the emulsion to work.  
-6. Pour mixture into the baked tart shell. No need for post bake.  
-7. Let cool in fridge.  
+4. Sieve the curd mixture again and then whisk in oil.    
+5. Pour mixture into the baked tart shell. No need for post bake.  
+6. Let cool to room temp or throw in the fridge.  
 
 **2iii. Black Sesame Cream: [for one 6-9in tart]**  
   
@@ -60,15 +59,16 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 - 100 g granulated sugar  
 - 180 g whipping cream  
 - 40 g black sesame powder   
+- 20 g black tahini   
 - 40 g butter, cold + cubed    
 
 1. Bloom gelatin. Stir in water to get an apple sauce-like consistency.  
 2. Whisk egg in a bowl. If you want a less yellow color, selectively first whisk egg yolks + half the sugar until it pales. Then add in the egg whites and mix.   
-3. Add the cream, rest of sugar, and black sesame powder into a saucepan and stir and bring to a boil. (Shouldn't take too long).
+3. Add the cream, rest of sugar, black sesame powder, and black tahini into a saucepan and stir and bring to a boil. (Shouldn't take too long).  
 4. Remove from heat and pour into the egg mixture bowl, whisking constantly so they don't scramble. Pour back into the saucepan.       
-5. Bring back to heat and stir until thickened. If you leave it while not being stirred, it will cook so whisk, whisk, whisk! Using a hand mixer helps!  
+5. Bring back to heat and stir until thickened. If you leave it while not being stirred, it will cook so whisk, whisk, whisk! Using a hand mixer can help sometimes.    
 6. Add in the bloomed gelatin and cubed butter until fully dissolved and melted, respectively. Remove from heat.  
-7. Sieve the mixture to remove any lumps. Pour into the tart crust and chill in fridge.  
+7. Sieve the mixture to remove any lumps (for black sesame, it might also sieve out the black sesame powder, so heads up). Pour into the tart crust and chill in fridge.  
 
 **2iii. Matcha Egg Custard: [for about 20 2.5in tarts]**  
 - 330 g milk  
@@ -86,7 +86,7 @@ For this example, I'll include 3 options: a pluot curd, a black sesame cream, an
 
 **Decorating:**  
 1. For fruit tarts, I either add some whipped cream, fruit segments, and a fruit syrup drizzle or just cut up fruit. Loko Kitchen is major goals so check out her page for inspo.  
-2. For cream tarts, I usually opt for a whipped cream. 225g heavy cream and 10g powdered sugar. Usually also a bit of piping gel to help stabilize it. You can pipe it out however you want.  
+2. For cream tarts, I usually opt for a whipped cream. 225g heavy cream and 10g powdered sugar. Usually also a bit of piping gel (a tsp or two) to help stabilize it. You can pipe it out however you want.  
 3. You really can do whatever you want with these. I've made tons of curds (pluot, mango, strawberry), creams (black sesame, Thai tea, hojicha, matcha, matcha, ube), and custard (matcha, regular, ube, strawberry) flavors. All I do is sub out the flavor portion. These recipes are pretty robust so they can tolerate these changes. 
 
 Curd:

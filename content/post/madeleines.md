@@ -23,7 +23,7 @@ I'll include a recipe for black sesame madeleines and a matcha custard filling. 
 
 1. Preheat over to 375F. 
 2. Melt butter in a small pan or microwave. Cool butter to room temp once it has melted.
-3. Add sugar, flour, baking powder, and black sesame into a bowl. Whisk slowly to combine (slowly, so that the charocal doesn't go everywhere!).
+3. Add sugar, flour, baking powder, and black sesame into a bowl.
 4. In a separate bowl, add eggs and milk and whisk until frothy throughout. 
 5. Add the wet ingredients to dry ingredients and fold together.
 6. Add the cooled butter and fold some more until completely blended.
@@ -37,7 +37,7 @@ I'll include a recipe for black sesame madeleines and a matcha custard filling. 
 **2. Matcha Custard: (super optional)**
 
 - 1 large egg yolk
-- 9.25 g corn starch
+- 5 g corn starch
 - 85 g milk
 - 25 g sugar
 - 3 g matcha powder
